@@ -44,6 +44,32 @@ Lo que Linderman va aprendiendo. Sirve para cualquier negocio, no solo mariscos.
 ## 4. Lo que funciona en Guatemala
 Ver competencia-biblioteca.md.
 
+## 4b. La oferta y el mensaje (libros clave, resumen propio)
+**Alex Hormozi - $100M Offers.** Si vendes lo mismo que todos, compites por precio. Hay que armar una oferta "irresistible":
+- Valor = (Resultado soñado x Probabilidad de lograrlo) / (Tiempo de espera x Esfuerzo).
+  Subir lo de arriba, bajar lo de abajo. Mariscos: "listo para tu ceviche" (resultado), "calidad exportación, garantía de frescura" (probabilidad), "entrega mañana" (tiempo), "pelado y desvenado, a domicilio" (esfuerzo).
+- Se le suma valor con: escasez, urgencia, bonos, garantías y un nombre atractivo. Ej.: "Combo Fiambre: 5 lb PYD + receta + envío gratis. Solo 20 combos."
+- Primero buscar gente con hambre de verdad del producto y con dinero para pagarlo.
+
+**Eugene Schwartz - Breakthrough Advertising.** El anuncio depende de cuánto sabe ya la gente:
+1. No sabe que tiene el problema → contar una historia o despertar el antojo.
+2. Sabe el problema → hablar del problema ("¿camarón que huele mal en el mercado?").
+3. Conoce soluciones → por qué la tuya es mejor.
+4. Conoce tu producto → prueba (fotos reales, testimonios).
+5. Ya casi compra → precio y oferta directa ("Q50/lb, pide hoy").
+Mercado con mucha competencia (como mariscos en la capital): no basta decir "fresco"; hay que mostrar un mecanismo o prueba propia ("de Zacapa a tu mesa en 24 h").
+
+## 4c. Pruebas de anuncios (Jon Loomer, Ben Heath)
+- Meta tiene herramienta oficial de prueba de anuncios: hasta ~20% del presupuesto, 2 a 5 anuncios. [Jon Loomer]
+- Probar 7-14 días; juzgar por costo por resultado, no por costo por clic. [blogs]
+- Presupuesto chico: nada de estructuras complicadas ni "retargeting" (volver a mostrar anuncios a quien ya vio) hasta tener tráfico. [Ben Heath]
+
+## 4d. Anuncios de comida
+- Objetivo: acción inmediata, no "darse a conocer".
+- Video: mostrar preparación + plato final (despierta el antojo). Anuncios con personas interactúan más.
+- Contenido de clientes reales (fotos de su ceviche con tu camarón) convence más que el propio.
+- Caso Guayaquil (sushi a domicilio, estudio académico): más inversión en Instagram coincidió con más ventas, ~US$4.61 por cada dólar (correlación, no prueba).
+
 ## 5. Libros (por leer y resumir)
 - Ultimate Guide to Facebook Advertising (Perry Marshall)
 - Killer Facebook Ads (Marty Weintraub)
@@ -84,3 +110,10 @@ Jon Loomer, Ben Heath, Charley Tichenor (en inglés). En español: Felipe Vergar
 - https://felipevergara.co/blogs/meta-ads/fase-de-aprendizaje-de-facebook-ads/
 - https://admanage.ai/blog/facebook-ads-learning-phase-guide
 - https://bookauthority.org/books/best-facebook-marketing-books
+- https://www.supersummary.com/100m-offers/summary/
+- https://www.autymate.com/book-summary/100m-offers
+- https://martech.zone/copywriting-shortcuts/
+- https://www.jonloomer.com/meta-creative-testing/amp/
+- https://echai.ventures/startingup/from/ben-heath-youtube
+- https://www.cuboh.com/blog/facebook-ads-for-restaurants
+- https://ojs.austral.edu.ar/index.php/australcomunicacion/article/view/526/859

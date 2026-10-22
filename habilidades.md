@@ -6,4 +6,5 @@ Las cosas que Linderman ya aprendió a hacer. Cada una vive en `.claude/skills/<
 |---|---|---|
 | nueva-meta | Anotar una meta con fecha límite y próximo paso | 2026-10-22 |
 | agendar | Anotar citas, tareas con fecha y recordatorios | 2026-10-22 |
+| aprender-tema | Volverse experto en un tema: oficial, libros, expertos, ejemplos, guardado | 2026-10-22 |
 | revision-diaria | Resumen de la mañana y cierre de la noche | 2026-10-22 |
