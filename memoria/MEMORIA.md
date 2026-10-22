@@ -7,3 +7,4 @@ Lo que Linderman ha aprendido de Javier. Una línea por dato, con fecha. Lo más
 - 2026-10-22 · Para subir cambios desde la PC hay que usar una ventana de PowerShell fuera de VS Code (la terminal de VS Code no deja iniciar sesión en GitHub).
 - 2026-10-22 · Javier quiere usar a Linderman desde el teléfono sin la PC prendida.
 - 2026-10-22 · Javier no llevaba agenda antes; Linderman la empieza desde cero.
+- 2026-10-22 · Rutinas creadas en claude.ai/code/routines: revisión mañana 6:30 am y noche 8:00 pm (hora Guatemala).
