@@ -7,6 +7,8 @@ Temas (carpetas): `ventas/`, `finanzas/`, `disciplina/`, `marketing/`, `meta-ads
 | Archivo | Qué contiene |
 |---|---|
 | ventas/clientes-potenciales.md | 14 negocios reales (Petapa, Villa Nueva, capital, Zacapa) para ofrecerles camarón y tilapia, con estado de contacto y mensaje de venta |
+| meta-ads/guia-experto.md | Guía general de Meta Ads (sirve para cualquier negocio): algoritmo 2026, fase de aprendizaje, presupuesto, anuncios a WhatsApp, libros y expertos |
+| meta-ads/PROGRESO.md | Avance del plan para volverse experto en Meta Ads |
 | meta-ads/competencia-biblioteca.md | Anuncios que llevan meses activos en Guatemala, competencia (Gambore) y el patrón que funciona |
 | meta-ads/campana-1-whatsapp.md | Diagnóstico de la página Mariscos Don Gencho y campaña 1 (mensajes a WhatsApp, Q35/día, 7 días) |
 | ventas/precios.md | Precios de venta de Javier, ganancia por libra, zona de entrega y límite de capital |
