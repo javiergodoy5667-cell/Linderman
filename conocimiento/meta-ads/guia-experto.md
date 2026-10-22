@@ -51,6 +51,14 @@ Ver competencia-biblioteca.md.
 - Give (Nicholas Kusmich)
 - Pendiente buscar: $100M Offers y $100M Leads (Alex Hormozi), Breakthrough Advertising (Eugene Schwartz).
 
+## 5b. Cursos de Javier: La Tribu Divisual (skool.com/la-tribu-divisual)
+Son en video; Linderman no puede ver videos. Javier tiene acceso. Cursos útiles:
+- **Experto en Meta Ads** (Javier va en 19%): Fases del ciclo de ventas · 01 Lanzar anuncios · 02-04 Cuenta, portafolio, accesos · 05 Administrador de anuncios · 06 Follow Me Ads (Instagram) · 07 Clientes potenciales · **08 Campañas de WhatsApp** · 09-11 Píxel y conversiones. Próximamente: Analíticas, Copywriting, Meta Ads desde 0.
+- **Máster en Marca Personal** (0%).
+- **Mentalidad** (0%).
+- Mentorías de Juan Pe Navarro (se desbloquean más adelante).
+Para aprender de ahí: Javier pasa apuntes, capturas o la transcripción de cada video.
+
 ## 6. Expertos a estudiar
 Jon Loomer, Ben Heath, Charley Tichenor (en inglés). En español: Felipe Vergara. Pendiente: cursos de Tribu Divisual (en el Chrome de Javier).
 
