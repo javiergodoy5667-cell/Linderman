@@ -2,7 +2,15 @@
 
 Cada archivo de esta carpeta con una línea que diga qué contiene. Linderman lee este índice primero y solo abre lo que necesita.
 
-Temas (carpetas): `ventas/`, `finanzas/`, `disciplina/`, `marketing/`, `meta-ads/`, `marca-personal/`.
+Temas (carpetas): `ventas/`, `finanzas/`, `disciplina/`, `marketing/`, `meta-ads/`, `marca-personal/`, `libros/`.
+
+## Libros leídos completos
+| Archivo | Qué contiene |
+|---|---|
+| libros/publicidad-cientifica-hopkins.md | Publicidad Científica (1923): vender, medir, ser específico, probar en pequeño |
+| libros/hombre-mas-rico-de-babilonia.md | El hombre más rico de Babilonia (1926): 7 curas, 5 leyes del oro, prestar, plan 10/70/20 para deudas |
+| libros/arte-de-hacer-dinero-barnum.md | El arte de hacer dinero (1880): 20 reglas de Barnum para ganar y conservar dinero |
+| libros/LISTA.md | Libros modernos recomendados (con derechos): cuáles conseguir y por qué |
 
 | Archivo | Qué contiene |
 |---|---|
