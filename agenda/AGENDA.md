@@ -5,8 +5,8 @@ Citas, reuniones y tareas con fecha. Hora de Guatemala. Ordenado por fecha; lo p
 ## Próximo
 | Fecha | Hora | Qué | Notas |
 |---|---|---|---|
-| 2026-10-22 | Hoy | Hacer lista de 10 posibles clientes nuevos de camarón/tilapia | Orden del general. Meta: pasar de 1 a 4 clientes |
-| 2026-10-24 | Sábado | Hablar con al menos 5 de esa lista | Llevar precio por libra y muestra si se puede |
+| 2026-10-22 | Hoy | Escribirles a Los Chatitos (4066-9150) y Mi Ranchito (4403-1227); mandar mensaje por Facebook a Camarón Feliz, Los Chevis y El Remo | Lista y mensaje en conocimiento/ventas/clientes-potenciales.md |
+| 2026-10-24 | Sábado | Visitar en persona: Mar Azul (Centro YAYA), La Azotea (Av. Petapa), Antojitos del Mar (Mercado Concepción) | Llevar precios y una muestra si se puede |
 | 2026-11-05 | | COBRAR 280 lb de camarón surtido (crédito a 15 días) | Entregado 2026-10-21. Ganancia esperada ~Q2,800 |
 
 ## Hecho
