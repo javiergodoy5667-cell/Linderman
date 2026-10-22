@@ -5,7 +5,18 @@ description: Experto en Meta Ads. Diseñar, lanzar, leer resultados y mejorar ca
 
 # Campañas de Meta Ads
 
-Base de conocimiento: `conocimiento/meta-ads/guia-experto.md` (leer primero) y `competencia-biblioteca.md`.
+Base de conocimiento (leer según la tarea): `conocimiento/meta-ads/oficial-1` a `oficial-4` (Meta oficial), `experto-jon-loomer.md`, `copy-y-ganchos.md`, `competencia-biblioteca.md`, `guia-experto.md`.
+
+## Reglas de oro (estudio a fondo 2026-10-22)
+- **Meta es literal:** consigue más de lo que le pides. Si optimizas por conversaciones, mide cuántas terminan en pedido (tasa de cierre).
+- **Agregar un anuncio a un conjunto que ya corre reinicia el aprendizaje.** Para probar anuncios nuevos: conjunto NUEVO en la misma campaña, o herramienta oficial de prueba (2-5 anuncios, ≤20% del presupuesto, 7 días).
+- También reinician: cambiar público, anuncio, evento, puja, o pausar 7+ días. Cambios grandes de presupuesto también.
+- No juzgar por CPM ni CPC: juzgar por costo del resultado elegido y por pedidos reales.
+- Gasto diario puede variar hasta +75% un día; en la semana no pasa de 7x el diario. Es normal.
+- No apagar ubicaciones porque "salen caras"; dejar automáticas.
+- Fatiga: Meta avisa cuando el costo por resultado se duplica. Frecuencia alta sola no es problema.
+- Evaluar en ventanas de 7 días; no reaccionar día a día.
+- Puja: volumen más alto al inicio.
 
 ## A. Diseñar una campaña
 1. **Datos del negocio** (de conocimiento/, preguntar solo lo que falte): producto, precio, ganancia por venta, zona, presupuesto, página y WhatsApp.
@@ -15,7 +26,7 @@ Base de conocimiento: `conocimiento/meta-ads/guia-experto.md` (leer primero) y `
 5. **Objetivo:** negocio local que vende conversando → Interacción > Mensajes > WhatsApp.
 6. **Público:** amplio (edad + radio de km). Sin intereses. Un solo conjunto de anuncios si el presupuesto es chico.
 7. **Presupuesto:** mínimo diario = costo por resultado esperado x 50 / 7. Probar 7 días mínimo.
-8. **Anuncios:** 3-5 ideas DISTINTAS (motivos diferentes: precio, calidad, comodidad, temporada, historia del dueño). Video de 10-30 s, producto real, personas. Precio claro, zonas con nombre, llamado a escribir.
+8. **Anuncios:** 3-5 ideas DISTINTAS (motivos diferentes: precio, calidad, comodidad, temporada, historia del dueño). Mezclar video, imagen y carrusel. Video de menos de 15 s, 9:16 y 4:5, con subtítulos, gancho en los primeros 3 s (ver copy-y-ganchos.md). Hasta 5 textos y 5 títulos por anuncio. Precio claro, zonas con nombre, decir que se abre WhatsApp. Todo dentro de la zona segura.
 9. **Mensaje de bienvenida** de WhatsApp personalizado (no "Hola").
 10. Guardar la campaña en `conocimiento/meta-ads/campana-<n>-<nombre>.md`.
 11. **Pedir aprobación del gasto** a Javier antes de lanzar. Nunca lanzar ni pagar yo.
