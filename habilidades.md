@@ -8,5 +8,6 @@ Las cosas que Linderman ya aprendió a hacer. Cada una vive en `.claude/skills/<
 | agendar | Anotar citas, tareas con fecha y recordatorios | 2026-10-22 |
 | aprender-tema | Volverse experto en un tema: oficial, libros, expertos, ejemplos, guardado | 2026-10-22 |
 | buscar-clientes | Encontrar negocios reales que compren, con mensaje de venta listo | 2026-10-22 |
+| campana-meta-ads | Experto en Meta Ads: diseñar, lanzar, leer resultados y mejorar campañas | 2026-10-22 |
 | espiar-competencia | Estudiar anuncios activos de la competencia en Meta y sacar el patrón | 2026-10-22 |
 | revision-diaria | Resumen de la mañana y cierre de la noche | 2026-10-22 |
