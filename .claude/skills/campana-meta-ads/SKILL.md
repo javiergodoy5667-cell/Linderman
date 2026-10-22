@@ -17,6 +17,8 @@ Base de conocimiento (leer según la tarea): `conocimiento/meta-ads/oficial-1` a
 - Fatiga: Meta avisa cuando el costo por resultado se duplica. Frecuencia alta sola no es problema.
 - Evaluar en ventanas de 7 días; no reaccionar día a día.
 - Puja: volumen más alto al inicio.
+- **Antes de lanzar a WhatsApp:** WhatsApp Business completo (perfil, horario, catálogo, bienvenida, respuestas rápidas, etiquetas). Etiquetar cada venta que venga de anuncio: con 10 compras registradas se puede optimizar por "compras a través de mensajes" en vez de conversaciones.
+- Prueba mínima oficial: ~US$30 y 7-10 días; prueba A/B: 2 semanas.
 
 ## A. Diseñar una campaña
 1. **Datos del negocio** (de conocimiento/, preguntar solo lo que falte): producto, precio, ganancia por venta, zona, presupuesto, página y WhatsApp.

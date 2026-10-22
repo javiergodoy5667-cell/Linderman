@@ -20,6 +20,7 @@ Temas (carpetas): `ventas/`, `finanzas/`, `disciplina/`, `marketing/`, `meta-ads
 | meta-ads/oficial-2-estructura-resultados-diagnostico.md | Meta oficial: juntar conjuntos, ubicaciones automáticas, leer resultados, tabla de diagnóstico |
 | meta-ads/oficial-3-objetivos-y-whatsapp.md | Meta oficial: los 6 objetivos, requisitos y paso a paso de anuncios a WhatsApp, buenas prácticas |
 | meta-ads/oficial-4-anuncio-y-publico.md | Meta oficial: imágenes, video, zona segura, público Advantage+ |
+| meta-ads/curso-blueprint-whatsapp-y-pruebas.md | 3 cursos oficiales Meta Blueprint: pruebas de anuncios, WhatsApp Business (catálogo, etiquetas, pedidos), anuncios a WhatsApp y optimización por compras |
 | meta-ads/experto-jon-loomer.md | Principios, lista de revisión, variedad de anuncios, pruebas y fatiga según Jon Loomer |
 | meta-ads/copy-y-ganchos.md | Cómo escribir anuncios: gancho-retener-premio-acción, 8 tipos de gancho, PAS/AIDA, guion de video 15 s |
 | meta-ads/PROGRESO.md | Avance del plan para volverse experto en Meta Ads |
