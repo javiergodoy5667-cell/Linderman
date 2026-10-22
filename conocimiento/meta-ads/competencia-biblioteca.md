@@ -11,6 +11,15 @@ Cómo revisarla: facebook.com/ads/library → país Guatemala → palabra clave.
 ## Competencia directa
 - **Gambore Seafood (marca de camarón):** desde el 29 sep 2026 corre 3 anuncios para el **FIAMBRE** (1 de noviembre): "camarón pelado y listo para usar" + sorteo de 50 libras. Videos de 9 a 12 segundos.
 
+## Búsqueda "mariscos a domicilio" (Guatemala, 2026-10-22)
+- **Cocodrilo Creek / Hotel Mansión del Río (Río Dulce):** botón WhatsApp, activo desde el **6 ago 2025 (14+ meses)**. El más longevo. Carrusel de fotos, "mariscos frescos" + "pide a domicilio".
+- **Costa Grande (Antigua):** historia del fundador ("receta de Don Rafa") + precio "Desde Q90" + WhatsApp. → Modelo para "Don Gencho": la persona detrás de la marca vende.
+- **Mesa Contenta:** fiambre con mariscos, Q300 para 3 personas, solo 30-31 oct y 1 nov. Confirma demanda de camarón para fiambre.
+- **Las Amelias (Retalhuleu):** menú en video de 24 s + "domicilio GRATIS en Reu" + WhatsApp.
+- **Panda Express:** una sola oferta simple ("3 Bowl por Q99 todos los días"), video de 10 s.
+- **GuateHogar / ChapinMall:** precio grande + "pocas unidades" + "envío a toda Guatemala" + WhatsApp/Messenger. Mismo anuncio en varias versiones (prueban).
+- **Mariscos Nava (Tampico, México):** "viernes de mariscos" → día fijo de antojo.
+
 ## Patrón que se repite
 1. Objetivo: mensajes a WhatsApp.
 2. Precio claro en el anuncio.
@@ -18,3 +27,6 @@ Cómo revisarla: facebook.com/ads/library → país Guatemala → palabra clave.
 4. Escasez o fecha límite.
 5. Video corto (10-30 s).
 6. Ofertas de temporada (fiambre, Cuaresma).
+7. Historia de la persona detrás del negocio (Don Rafa → Don Gencho).
+8. Una sola oferta simple vende más que un menú largo.
+9. Día fijo de antojo ("viernes de mariscos").
