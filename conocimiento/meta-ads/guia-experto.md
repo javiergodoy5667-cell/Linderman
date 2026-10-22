@@ -28,6 +28,19 @@ Lo que Linderman va aprendiendo. Sirve para cualquier negocio, no solo mariscos.
 - Medir pedidos y ventas, no "conversaciones" (las conversaciones solas no pagan). [blogs]
 - Revisar: la cuenta de WhatsApp y la cuenta publicitaria en el mismo portafolio comercial. [blogs, verificar]
 
+## 3b. Lo que dice Meta OFICIAL (verificado 2026-10-22)
+- **Subasta:** cada vez que hay espacio para un anuncio hay una subasta. Gana el de mayor "valor total" = puja x probabilidad de que la persona haga la acción + calidad del anuncio. Un anuncio más relevante gana pagando MENOS. → La calidad del anuncio baja el costo.
+- **Fase de aprendizaje:** el sistema explora; resultados inestables y costo más alto. Normal, no tocar.
+- **Aprendizaje limitado:** si un conjunto no llegará a ~50 resultados en la semana. Causas: público chico, poco presupuesto, puja baja, conjuntos que compiten entre sí. Arreglo: juntar conjuntos, abrir público, subir presupuesto.
+- **Reinician el aprendizaje:** cambiar estrategia de puja, píxel, ubicaciones, público o el anuncio; cambios grandes de presupuesto. No cambiar el presupuesto seguido.
+- **Diagnóstico de relevancia** (solo con más de 500 impresiones): ranking de calidad, de interacción y de conversión, comparado con anuncios que compiten por el mismo público. Calidad se mide por gente que oculta el anuncio y por "trucos" (gancho engañoso, pedir likes). No entran a la subasta; sirven para saber qué arreglar:
+  - Calidad baja → cambiar el anuncio.
+  - Interacción baja → el gancho no atrapa.
+  - Conversión baja → el problema está después del clic (respuesta lenta en WhatsApp, precio, oferta).
+- **Desglose:** en el Administrador se ven resultados por edad, sexo, lugar y ubicación (Facebook/Instagram/historias). Usar para ver quién responde mejor; son valores estimados.
+- **Anuncios a WhatsApp:** conectar la página de Facebook con el WhatsApp del negocio. Objetivos que lo permiten: Interacción (mensajes), Clientes potenciales, Ventas, Tráfico. El destino WhatsApp se elige en el conjunto de anuncios. El mensaje de bienvenida se puede personalizar.
+- **Formación gratis oficial:** Meta Blueprint (facebook.com/business/learn).
+
 ## 4. Lo que funciona en Guatemala
 Ver competencia-biblioteca.md.
 
@@ -42,6 +55,15 @@ Ver competencia-biblioteca.md.
 Jon Loomer, Ben Heath, Charley Tichenor (en inglés). En español: Felipe Vergara. Pendiente: cursos de Tribu Divisual (en el Chrome de Javier).
 
 ## Fuentes
+- https://www.facebook.com/business/help/112167992830700/ (fase de aprendizaje, Meta)
+- https://en-gb.facebook.com/business/help/1000688343301256 (entrega de anuncios, Meta)
+- https://en-gb.facebook.com/business/help/269269737396981 (aprendizaje limitado, Meta)
+- https://www.facebook.com/business/ads/ad-auction (subasta, Meta)
+- https://www.facebook.com/business/help/1583303048513172 (conectar página con WhatsApp, Meta)
+- https://developers.facebook.com/docs/marketing-api/ad-creative/messaging-ads/click-to-whatsapp/ (Meta)
+- https://www.facebook.com/business/help/403110480493160 (diagnóstico de relevancia, Meta)
+- https://www.facebook.com/business/help/303639570334185 (ranking de calidad, Meta)
+- https://www.facebook.com/business/learn/certification/study-guide-buying (Blueprint, Meta)
 - https://segwise.ai/blog/meta-andromeda-update-creative-strategy-2026
 - https://www.stackmatix.com/blog/meta-ads-strategy
 - https://jetfuel.agency/metas-2026-algorithm-update-what-andromeda-changed-and-how-to-adapt-your-ads/
