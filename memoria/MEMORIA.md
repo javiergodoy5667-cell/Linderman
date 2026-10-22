@@ -8,4 +8,5 @@ Lo que Linderman ha aprendido de Javier. Una línea por dato, con fecha. Lo más
 - 2026-10-22 · Javier quiere usar a Linderman desde el teléfono sin la PC prendida.
 - 2026-10-22 · Javier no llevaba agenda antes; Linderman la empieza desde cero.
 - 2026-10-22 · CORRECCIÓN DE JAVIER: no pasarle tareas que yo puedo hacer. Pedirle solo los datos que me faltan y hacerlo yo (buscar, listar, redactar, calcular). A él solo le toca lo que exige su persona: llamar, visitar, cobrar, pagar, autorizar.
+- 2026-10-22 · Javier exige: simple, directo, pocas palabras, cosas reales no generales, experto, proactivo (regla fija en CLAUDE.md).
 - 2026-10-22 · Rutinas creadas en claude.ai/code/routines: revisión mañana 6:30 am y noche 8:00 pm (hora Guatemala).
