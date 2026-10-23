@@ -16,3 +16,4 @@ Las cosas que Linderman ya aprendió a hacer. Cada una vive en `.claude/skills/<
 | ventas-whatsapp | Vender y cerrar por WhatsApp: respuestas exactas, objeciones, seguimiento, reactivar conocidos y registro de prospectos | 2026-10-23 |
 | revision-diaria | Resumen de la mañana y cierre de la noche | 2026-10-22 |
 | propuesta-workana | Buscar proyectos en Workana y escribir propuestas que ganen | 2026-10-22 |
+| aplicar-empleo | Aplicar a trabajos con CV, respuestas y mensaje personalizados para sobresalir | 2026-10-23 |
