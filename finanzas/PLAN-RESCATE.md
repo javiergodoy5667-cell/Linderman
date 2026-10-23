@@ -107,7 +107,43 @@ Antes de visitar, responder: ¿tiene con qué pagar? ¿sigue comprando? ¿hay al
 4. **Si en 4 semanas el menudeo no tapa el faltante:** buscar ingreso extra temporal (ventas ocasionales, trabajo) para no seguir comiéndote el capital del hermano.
 5. **Hermano:** contarle la verdad con esta tabla antes de que el capital siga bajando.
 
-## 8. Datos que necesito de ti para afinar
+## 8. PLAN DE 14 DÍAS SIN CAPITAL (23 oct – 5 nov)
+Hecho clave: los Q10,000 están en el pedido de Zacapa hasta ~5 nov. Hoy no hay efectivo para comprar.
+Los 3 pedidos fueron de la misma clienta de Zacapa. El precio Q50 aplica a casi todas las tallas.
+
+### Cómo vender sin tener dinero: el cliente pone el capital
+- **Preventa con pago antes de comprar**: el cliente local paga (completo o al menos el costo) → con ese dinero compras en Blue Ocean → entregas ese mismo día o al siguiente.
+- Ejemplo: cliente pide 5 lb de entero a Q50 = Q250. Te paga Q250 antes. Compras a Q33 x 5 = Q165. Te quedan Q85 (menos gasolina).
+- Riesgo: la gente desconfía de pagar antes. Por eso empezar con **conocidos, familia, vecinos** (gente que confía en ti) y ofrecer **entrega en 24 horas**.
+- Sin cuenta bancaria: cobrar el anticipo en persona o por depósito a alguien de confianza. (Abrir cuenta: evaluarlo con abogado por el riesgo de embargo de la deuda del banco.)
+
+### Canales gratis (no hay dinero para anuncios)
+1. Estados de WhatsApp todos los días (foto del camarón + precio + "pedidos para mañana").
+2. Lista de contactos: mensaje uno por uno a 30 personas.
+3. Grupos de Facebook de Petapa/Villa Nueva y **Facebook Marketplace** (gratis).
+4. Publicaciones en tu página Don Gencho.
+Meta semana 1: **5 pedidos pagados**. Semana 2: **10**.
+
+### Reglas de decisión
+- Si en 7 días hay <3 pedidos pagados: el problema es confianza o precio → ofrecer "pagas cuando recibes" solo a familia/conocidos cercanos para generar los primeros testimonios (fotos de clientes con el producto).
+- Juntar pedidos para ir a Blue Ocean **solo cuando el total pagado cubra la compra + gasolina** (medir cuánto cuesta ir a la capital y volver).
+- **El 5 de noviembre (si Zacapa paga):** los Q9,800 del costo → sobre CAPITAL (no se tocan). La ganancia (~Q2,300) → vida del mes. Nuevo pedido a Zacapa solo con el anterior pagado.
+- **Si Zacapa NO paga el 5:** no entregar más; reclamo ese día; y el capital sigue en cero → solo preventa local.
+
+### Supervivencia personal hasta el 5 nov
+- Gastos solo lo indispensable (comida, lo mínimo de diésel). Lista con montos para ver qué se puede pausar.
+- Cada quetzal de ganancia de la preventa se separa: costo → capital; ganancia → vida.
+- No pedir prestado para vivir.
+
+### Flujo de caja (lo que sabemos; llenar con Javier)
+| Fecha | Entra | Sale | Efectivo |
+|---|---|---|---|
+| Hoy 23 oct | ? (efectivo en mano) | | ? |
+| ? | Q500 intereses del préstamo | | |
+| Semana 26 oct | Preventas (meta 5) | Compras de lo prevendido | |
+| ~5 nov | Pago Zacapa (~Q12,000 si paga) | | |
+
+## 9. Datos que necesito de ti para afinar
 1. Pedidos de los últimos 3 meses (aunque sea aproximado).
 2. Destino del viaje de Q500.
 3. ¿Los Q10,000 de la clienta salieron del capital?
