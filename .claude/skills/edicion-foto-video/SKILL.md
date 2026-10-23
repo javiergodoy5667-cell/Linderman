@@ -102,3 +102,10 @@ Flujo completo probado (examen sierra_plano): dirección de arte → recortar.py
 Montaje estilo Higgsfield: 4-6 movimientos cortos (0.6-2.4 s) de la MISMA foto o misma escena (unidad visual), unidos con concat + efectos en cada corte (sonido.py) + revisar.py. Mejor con fotos que tienen fondo real (no de estudio).
 Errores: foto muy cerrada → el script encuadra el producto completo y extiende el fondo; whip_pan no debe sacar la imagen del cuadro (sale negro) → el barrido lo da el desenfoque.
 Si Javier usa Higgsfield: él crea la cuenta y paga (yo no). Escribir instrucciones con el método oficial (sujeto, 1 movimiento, velocidad, recorrido, lo prohibido; lente/luz/apertura en ajustes). Probar lo gratis primero; reembolso casi imposible.
+
+## 360°, atravesar objetos, IA (lo que faltaba) — ver conocimiento 13
+- Foto → 3D: `python -I foto_a_3d.py <foto> <salida.glb>` (Hugging Face gratis: Stable Fast 3D → TRELLIS.2 → Hunyuan3D; usa HF_TOKEN si Javier lo guardó; sin cuenta ~3 min/día).
+- 3D → video 360°: `render_html.py "C:/.../orbita_3d.html?m=file:///C:/.../modelo.glb&fondo=hex&fondo2=hex&dur=6" salida.mp4` (rutas en formato C:/ cuando llevan "?").
+- Atravesar el producto: `render_html.py "C:/.../atravesar.html?a=file:///producto.png&ba=file:///escenaA.jpg&b=file:///escenaB.jpg&dur=2.4" salida.mp4`.
+- La PC no corre IA (Iris Xe, 8 GB). Video IA: planes gratis (Dreamina, Flow, Kling) con cuenta de Javier. Personas IA: solo avatar de Javier o presentador, nunca cliente falso; Meta etiqueta IA.
+- Errores: máscara CSS con archivos locales no funciona → canvas; rutas de Git Bash con "?" no se convierten → usar C:/.
