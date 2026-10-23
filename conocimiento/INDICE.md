@@ -43,3 +43,8 @@ Temas (carpetas): `ventas/`, `finanzas/`, `disciplina/`, `marketing/`, `meta-ads
 | ventas/precios.md | Precios de venta de Javier, ganancia por libra, zona de entrega y límite de capital |
 
 Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimiento).
+
+## Casos de éxito
+| Archivo | Qué contiene |
+|---|---|
+| casos-de-exito/juanpe-navarro.md | Juan Pe Navarro (Divisual): cronología, fórmula de 7 pasos, cifras verificadas vs no, aplicado a Javier |
