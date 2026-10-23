@@ -12,5 +12,6 @@ Las cosas que Linderman ya aprendió a hacer. Cada una vive en `.claude/skills/<
 | campana-meta-ads | Experto en Meta Ads: diseñar, lanzar, leer resultados y mejorar campañas | 2026-10-22 |
 | espiar-competencia | Estudiar anuncios activos de la competencia en Meta y sacar el patrón | 2026-10-22 |
 | foto-pro | Fotos profesionales de producto (sin fondo, precio, contacto) y subirlas a Marketplace | 2026-10-23 |
+| edicion-foto-video | Mejorar fotos originales y hacer Reels/anuncios 9:16 y 4:5 desde fotos (FFmpeg) | 2026-10-23 |
 | revision-diaria | Resumen de la mañana y cierre de la noche | 2026-10-22 |
 | propuesta-workana | Buscar proyectos en Workana y escribir propuestas que ganen | 2026-10-22 |

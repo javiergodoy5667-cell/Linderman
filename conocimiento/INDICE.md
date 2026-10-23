@@ -55,3 +55,13 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 | negocios-digitales/trabajo-remoto-arranque.md | Workana (pagos, comisión), perfiles más pedidos 2026, hechos vs supuestos, orden de arranque para Javier |
 | negocios-digitales/perfil-workana-linkedin.md | Textos listos de perfil Workana y LinkedIn (automatización IA + WhatsApp), precios de entrada, pasos para Javier |
 | negocios-digitales/propuestas-2026-10-22.md | 2 propuestas listas para Workana (WhatsApp+IG Q1,200; redes+WhatsApp Q380) y 1 descartada |
+
+## Edición de foto y video
+| Archivo | Qué contiene |
+|---|---|
+| edicion-foto-video/1-foto-producto.md | Tomar y editar foto de producto: luz de ventana, brillos, orden de fotos en Marketplace, formatos |
+| edicion-foto-video/2-video-corto.md | Reels/anuncios: medidas 2026, zona segura, 3 primeros segundos, sonido, ritmo (Murch), UGC vs pulido, datos Guatemala |
+| edicion-foto-video/3-herramientas-gratis.md | Herramientas instaladas (rembg, FFmpeg, Clipchamp), CapCut vs DaVinci, qué hace Linderman solo |
+| edicion-foto-video/4-libros-expertos-podcasts.md | Libros, biografías (Murch, Schoonmaker, Karl Taylor, MrBeast), cursos gratis, podcasts |
+| edicion-foto-video/5-pepitas-de-oro.md | 14 reglas clave de foto y video que vende |
+| edicion-foto-video/PROGRESO.md | Avance del estudio (~65%) y qué falta |
