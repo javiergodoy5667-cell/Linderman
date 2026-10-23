@@ -95,7 +95,7 @@ def estado(t):
     elif mov == "low_shutter":                                                     # empuje con estela
         P.update(sb=1 + .08 * e, sf=1 + .16 * e)
     elif mov == "whip_pan":                                                        # barrido rápido de salida
-        P.update(xb=-1400 * f ** 2, xf=-1600 * f ** 2, sb=1.04, sf=1.05)
+        P.update(xb=-300 * f ** 2, xf=-420 * f ** 2, sb=1.35, sf=1.40)  # sin salirse del cuadro: el barrido lo da el desenfoque
     return P
 
 def cuadro(t):
@@ -120,7 +120,7 @@ for i in range(N):
     if SUB == 1:
         fr = np.asarray(cuadro(i / (N - 1)), dtype=np.uint8)
     else:
-        span = (3.0 if mov == "low_shutter" else 1.0) / (N - 1)   # obturador lento = estela más larga
+        span = (3.0 if mov in ("low_shutter", "whip_pan") else 1.0) / (N - 1)   # obturador lento = estela más larga
         acc = sum(np.asarray(cuadro(max(0, i / (N - 1) - span * j / SUB)), dtype=np.float32) for j in range(SUB))
         fr = (acc / SUB).astype(np.uint8)
     ff.stdin.write(fr.tobytes())
