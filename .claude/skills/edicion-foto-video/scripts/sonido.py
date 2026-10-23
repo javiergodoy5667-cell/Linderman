@@ -81,9 +81,9 @@ if musica:
     graf = (f"[0:a]asplit=2[voz][llave];[2:a]atrim=0:{dur:.2f},volume={vol_m},"
             f"afade=t=out:st={dur - 1.2:.2f}:d=1.2[m];"
             "[m][llave]sidechaincompress=threshold=0.02:ratio=8:attack=40:release=500[mduck];"
-            "[voz][1:a][mduck]amix=inputs=3:normalize=0,loudnorm=I=-14:TP=-1:LRA=11,alimiter=limit=0.89:level=false[a]")
+            "[voz][1:a][mduck]amix=inputs=3:normalize=0,loudnorm=I=-14:TP=-1:LRA=11,alimiter=limit=0.79:level=false[a]")
 else:
-    graf = "[0:a][1:a]amix=inputs=2:normalize=0,loudnorm=I=-14:TP=-1:LRA=11,alimiter=limit=0.89:level=false[a]"
+    graf = "[0:a][1:a]amix=inputs=2:normalize=0,loudnorm=I=-14:TP=-1:LRA=11,alimiter=limit=0.79:level=false[a]"
 cmd += ["-filter_complex", graf, "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k",
         "-ar", "48000", "-t", f"{dur:.2f}", "-movflags", "+faststart", out]
 subprocess.run(cmd, check=True)

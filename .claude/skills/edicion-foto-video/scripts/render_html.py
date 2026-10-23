@@ -14,10 +14,12 @@ W = int(sys.argv[3]) if len(sys.argv) > 3 else 1080
 H = int(sys.argv[4]) if len(sys.argv) > 4 else 1920
 FPS = int(sys.argv[5]) if len(sys.argv) > 5 else 30
 musica = sys.argv[6] if len(sys.argv) > 6 and sys.argv[6] not in ("", "-") else None
+# el diseño se hace en 1080 de ancho; se renderiza a la resolución que Meta recomienda (Reels 1440x2560, feed 1440x1800)
+ESCALA = float(sys.argv[7]) if len(sys.argv) > 7 else 1440 / 1080
 
 with sync_playwright() as p:
     nav = p.chromium.launch(channel="chrome", headless=True)  # usa el Chrome ya instalado
-    pg = nav.new_page(viewport={"width": W, "height": H})
+    pg = nav.new_page(viewport={"width": W, "height": H}, device_scale_factor=ESCALA)
     pg.goto(pathlib.Path(html).as_uri())
     pg.wait_for_function("typeof window.frame === 'function'")
     pg.evaluate("document.fonts.ready")
