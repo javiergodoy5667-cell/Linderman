@@ -18,3 +18,4 @@ Las cosas que Linderman ya aprendió a hacer. Cada una vive en `.claude/skills/<
 | revision-diaria | Resumen de la mañana y cierre de la noche | 2026-10-22 |
 | propuesta-workana | Buscar proyectos en Workana y escribir propuestas que ganen | 2026-10-22 |
 | aplicar-empleo | Aplicar a trabajos con CV, respuestas y mensaje personalizados para sobresalir | 2026-10-23 |
+| ahorro-creditos | Reglas para gastar menos créditos y que las sesiones duren más (se aplica siempre) | 2026-10-23 |
