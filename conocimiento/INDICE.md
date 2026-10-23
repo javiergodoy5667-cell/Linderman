@@ -48,3 +48,8 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 | Archivo | Qué contiene |
 |---|---|
 | casos-de-exito/juanpe-navarro.md | Juan Pe Navarro (Divisual): cronología, fórmula de 7 pasos, cifras verificadas vs no, aplicado a Javier |
+
+## Negocios digitales
+| Archivo | Qué contiene |
+|---|---|
+| negocios-digitales/trabajo-remoto-arranque.md | Workana (pagos, comisión), perfiles más pedidos 2026, hechos vs supuestos, orden de arranque para Javier |
