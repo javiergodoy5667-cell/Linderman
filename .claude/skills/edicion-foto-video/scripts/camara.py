@@ -19,26 +19,36 @@ fmt = sys.argv[5] if len(sys.argv) > 5 else "9x16"
 W, H = {"9x16": (1080, 1920), "4x5": (1080, 1350), "1x1": (1080, 1080)}[fmt]
 FPS = 30; N = int(DUR * FPS)
 
-# ---- capas: producto (frente) y fondo rellenado ----
+# ---- capas: producto (frente) y fondo rellenado, armadas en un lienzo fuente 20% más grande que la salida ----
 from rembg import remove, new_session
-im = Image.open(foto).convert("RGB")
-esc = max(W / im.width, H / im.height) * 1.18          # margen para mover la cámara sin ver bordes
-im = im.resize((int(im.width * esc), int(im.height * esc)), Image.LANCZOS)
+im = Image.open(foto).convert("RGB"); im.thumbnail((2200, 2200))
 cut = remove(im, session=new_session("isnet-general-use"))
 al = np.array(cut.getchannel("A"))
 lab, n = ndimage.label(al > 60)
 if n > 1:
     keep = 1 + int(np.argmax(ndimage.sum(np.ones_like(al), lab, range(1, n + 1))))
     al = np.where(ndimage.binary_dilation(lab == keep, iterations=2), al, 0).astype("uint8")
-fg = im.copy(); fg.putalpha(Image.fromarray(al))
 # fondo: tapar el producto y rellenar (a baja resolución para que sea rápido y suave)
 m = cv2.dilate((al > 20).astype("uint8") * 255, np.ones((25, 25), np.uint8))
 k = 4; peq = cv2.resize(np.array(im), None, fx=1 / k, fy=1 / k); mp = cv2.resize(m, (peq.shape[1], peq.shape[0]))
 rel = cv2.inpaint(peq, mp, 9, cv2.INPAINT_TELEA)
 rel = cv2.GaussianBlur(cv2.resize(rel, (im.width, im.height)), (0, 0), 6)
 mm = cv2.GaussianBlur(m, (0, 0), 8)[..., None] / 255.0
-bg = Image.fromarray((np.array(im) * (1 - mm) + rel * mm).astype("uint8"))
-IW, IH = im.size
+bg0 = Image.fromarray((np.array(im) * (1 - mm) + rel * mm).astype("uint8"))
+# encuadre: el producto COMPLETO cabe (ancho 82% o alto 52% del cuadro), centrado un poco abajo
+x0, y0, x1, y1 = Image.fromarray(al).getbbox()
+IW, IH = int(W * 1.2), int(H * 1.2)
+z = min(W * .82 / (x1 - x0), H * .52 / (y1 - y0))
+px, py = IW / 2 - (x0 + x1) / 2 * z, IH * .53 - (y0 + y1) / 2 * z
+foto_z = (int(im.width * z), int(im.height * z))
+# lo que la foto no cubre: el mismo fondo ampliado y muy desenfocado (como "extender" la escena)
+cov = max(IW / im.width, IH / im.height) * 1.05
+ext = bg0.resize((int(im.width * cov), int(im.height * cov))).filter(ImageFilter.GaussianBlur(28))
+bg = ext.crop(((ext.width - IW) // 2, (ext.height - IH) // 2, (ext.width - IW) // 2 + IW, (ext.height - IH) // 2 + IH))
+borde = Image.new("L", foto_z, 0); ImageDraw.Draw(borde).rectangle([40, 40, foto_z[0] - 40, foto_z[1] - 40], fill=255)
+bg.paste(bg0.resize(foto_z, Image.LANCZOS), (int(px), int(py)), borde.filter(ImageFilter.GaussianBlur(35)))
+fg = Image.new("RGBA", (IW, IH), (0, 0, 0, 0))
+fgi = im.copy(); fgi.putalpha(Image.fromarray(al)); fg.alpha_composite(fgi.resize(foto_z, Image.LANCZOS), (int(px), int(py)))
 
 ease = lambda t: 0.5 - 0.5 * math.cos(math.pi * max(0, min(1, t)))   # suave al inicio y al final
 fast = lambda t: 1 - (1 - max(0, min(1, t))) ** 4                      # golpe rápido que frena
