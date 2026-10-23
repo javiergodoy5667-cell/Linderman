@@ -31,6 +31,7 @@ Siempre. Es la forma normal de trabajar, no un modo especial.
 - **Pedir directo:** un mensaje con todo lo que necesita, mejor que muchos mensajes cortos. Si la respuesta va mal: Esc o `/rewind`, en vez de amontonar correcciones.
 - Ver cuánto le queda y qué gasta más: `/usage` (la tecla `f` aplica arreglos). Revisarlo una vez por semana.
 - Recordar: chat del teléfono, claude.ai y las rutinas diarias salen de la MISMA bolsa.
+- Ya automático (23 oct): barra de estado con % de conversación, límite 5 h y semana (~/.claude/statusline.py; avisa "/clear" al pasar 60%); sugerencias de próximo mensaje apagadas; instrucciones de resumen en CLAUDE.md. NO se bajó el esfuerzo ni se cambió el modelo: Javier no quiere perder calidad.
 
 ## Conocimiento base
 `conocimiento/uso-eficiente-claude/guia.md` (fuentes oficiales de Anthropic).
