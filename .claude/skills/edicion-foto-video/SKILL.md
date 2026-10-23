@@ -59,3 +59,9 @@ Cada estilo nuevo que funcione se guarda como script o parámetro aquí.
 ## Formato según objetivo (datos Motion 2026, 578 mil anuncios) — ver conocimiento 6
 Unboxing 9.8% de acierto · Oferta primero 8.6% · Demostración 8.1% · Testimonio 6.5%. Elegir formato ANTES del estilo visual.
 Principios fijos: suavizado (nada lineal), escalonado 0.1-0.15 s, una protagonista a la vez, 5-8 palabras por pantalla, efecto de sonido exacto en el corte.
+
+## Estilos en video_pro.py (6.º parámetro) — ver conocimiento 7
+`python -I video_pro.py <salida> <guion> [musica|-] [9x16|4x5] [acento_hex|-] [premium|catalogo|oferta]`
+premium = oscuro/dorado/lento · catalogo = claro/azul/datos técnicos · oferta = rojo/amarillo/rápido con rebote.
+Etiquetas largas se achican solas. Antes de publicar un anuncio: apagar en Meta las "mejoras de texto", música automática y superposiciones.
+Para que Javier grabe: mandarle la lista de tomas y los 7 pasos de grabación de conocimiento 7.

@@ -15,22 +15,40 @@ FFMPEG = shutil.which("ffmpeg") or os.path.expandvars(
     r"%LOCALAPPDATA%\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.2-full_build\bin\ffmpeg.exe")
 F_BLACK, F_BOLD, F_REG = (r"C:\Windows\Fonts\seguibl.ttf", r"C:\Windows\Fonts\segoeuib.ttf",
                           r"C:\Windows\Fonts\segoeui.ttf")
-FPS, D, X = 30, 2.7, 0.45  # duración escena, cruce entre escenas
+# Estilos: cada uno con su fondo, colores, ritmo y movimiento. Elegir según producto y cliente.
+ESTILOS = {
+    # coleccionables, herramientas de marca: oscuro, dorado, lento
+    "premium":  dict(c0=(12, 14, 18), c1=(44, 48, 56), acc="F2B33D", tit=(255, 255, 255), sub=(200, 204, 212),
+                     boton_txt=(18, 18, 20), D=2.7, X=0.45, rebote=False, sombra=150),
+    # repuestos, varios productos: claro, ordenado, azul técnico
+    "catalogo": dict(c0=(214, 218, 224), c1=(250, 251, 252), acc="1F5FBF", tit=(20, 24, 32), sub=(70, 78, 92),
+                     boton_txt=(255, 255, 255), D=2.5, X=0.35, rebote=False, sombra=90),
+    # liquidar, ofertas, mariscos por libra: rojo profundo, amarillo, rápido con rebote
+    "oferta":   dict(c0=(70, 6, 10), c1=(178, 22, 30), acc="FFD400", tit=(255, 255, 255), sub=(255, 225, 225),
+                     boton_txt=(40, 0, 0), D=1.9, X=0.25, rebote=True, sombra=170),
+}
+FPS = 30
 
 out, guion = sys.argv[1], sys.argv[2]
 musica = sys.argv[3] if len(sys.argv) > 3 and sys.argv[3] not in ("", "-") else None
 formato = sys.argv[4] if len(sys.argv) > 4 else "9x16"
-ACC = tuple(int((sys.argv[5] if len(sys.argv) > 5 else "F2B33D")[i:i + 2], 16) for i in (0, 2, 4))
+E = ESTILOS[sys.argv[6] if len(sys.argv) > 6 else "premium"]
+acc_hex = sys.argv[5] if len(sys.argv) > 5 and sys.argv[5] not in ("", "-") else E["acc"]
+ACC = tuple(int(acc_hex[i:i + 2], 16) for i in (0, 2, 4))
+D, X = E["D"], E["X"]  # duración escena, cruce entre escenas
 W, H = (1080, 1920) if formato == "9x16" else (1080, 1350)
 TOP = 0.15 if formato == "9x16" else 0.07  # debajo de la zona ocupada por la app
 
-ease = lambda t: 1 - (1 - max(0, min(1, t))) ** 3  # salida suave
+if E["rebote"]:  # se pasa un poco y regresa (energía de oferta)
+    ease = lambda t: (lambda u: 1 + 2.2 * (u - 1) ** 3 + 1.2 * (u - 1) ** 2)(max(0, min(1, t)))
+else:            # salida suave
+    ease = lambda t: 1 - (1 - max(0, min(1, t))) ** 3
 
 def fondo():
     y, x = np.mgrid[0:H, 0:W]
     r = np.sqrt(((x - W / 2) / W) ** 2 + ((y - H * 0.55) / H) ** 2)
     v = np.clip(1 - r * 1.6, 0, 1)
-    c0, c1 = np.array([12, 14, 18]), np.array([44, 48, 56])  # carbón, centro más claro
+    c0, c1 = np.array(E["c0"]), np.array(E["c1"])  # bordes, centro más claro
     img = (c0 + (c1 - c0) * v[..., None]).astype("uint8")
     img = img + np.random.default_rng(1).integers(0, 3, img.shape, dtype="uint8")  # grano anti-bandas
     return Image.fromarray(img).convert("RGBA")
@@ -62,7 +80,7 @@ def ajustar(p, maxw, maxh):
     s = min(maxw / p.width, maxh / p.height); return p.resize((int(p.width * s), int(p.height * s)), Image.LANCZOS)
 
 def sombra(p):
-    a = p.getchannel("A").point(lambda v: 150 if v > 40 else 0)
+    a = p.getchannel("A").point(lambda v: E["sombra"] if v > 40 else 0)
     sh = Image.new("RGBA", p.size, (0, 0, 0, 0)); sh.putalpha(a)
     sh = sh.resize((int(p.width * 0.9), max(10, int(p.height * 0.08))))
     lienzo = Image.new("RGBA", (sh.width + 160, sh.height + 160), (0, 0, 0, 0))
@@ -81,6 +99,13 @@ def texto_img(txt, font, color, espacio=0):
         for c, a in zip(txt, anchos): d.text((x, 0), c, font=f, fill=color); x += a
     else:
         d.text((10, 0), txt, font=f, fill=color)
+    return im
+
+def kicker(txt):
+    """Etiqueta chica con letras separadas; se achica hasta caber en el 88% del ancho."""
+    for tam, esp in ((34, 6), (30, 5), (27, 4), (24, 3)):
+        im = texto_img(txt, (F_BOLD, tam), ACC + (255,), espacio=esp)
+        if im.width <= W * 0.88: break
     return im
 
 def partir(txt, font, maxw):
@@ -113,8 +138,8 @@ for ln in open(guion, encoding="utf-8"):
         p = ajustar(p, W * (0.80 if es_marco else 0.86), H * (0.36 if formato == "9x16" else 0.48))
         tit = partir(c[2], (F_BLACK, 84), W * 0.84)
         escenas.append(dict(tipo="prod", prod=p, sh=None if es_marco else sombra(p), marco=es_marco,
-                            kick=texto_img(c[1].upper(), (F_BOLD, 34), ACC + (255,), espacio=6),
-                            tit=[texto_img(l, (F_BLACK, 84), (255, 255, 255, 255)) for l in tit]))
+                            kick=kicker(c[1].upper()),
+                            tit=[texto_img(l, (F_BLACK, 84), E["tit"] + (255,)) for l in tit]))
 
 def cuadro_escena(e, t):
     im = BG.copy()
@@ -146,11 +171,11 @@ def cuadro_escena(e, t):
         k1 = ease((t - 0.1) / 0.5)
         kick = texto_img("PRECIO", (F_BOLD, 34), ACC + (255,), espacio=6)
         pegar(im, kick, (W - kick.width) / 2, y0, k1)
-        pr = texto_img(e["precio"], (F_BLACK, 210), (255, 255, 255, 255))
+        pr = texto_img(e["precio"], (F_BLACK, 210), E["tit"] + (255,))
         k2 = ease((t - 0.25) / 0.6)
         pegar(im, pr, (W - pr.width) / 2, y0 + 50 + 30 * (1 - k2), k2)
         if e["sub"]:
-            sb = texto_img(e["sub"], (F_REG, 44), (200, 204, 212, 255))
+            sb = texto_img(e["sub"], (F_REG, 44), E["sub"] + (255,))
             pegar(im, sb, (W - sb.width) / 2, y0 + 340, ease((t - 0.5) / 0.5))
         if e["prod"]:
             kp = ease((t - 0.4) / 0.7); p = e["prod"]; s = 0.95 + 0.05 * kp
@@ -164,7 +189,7 @@ def cuadro_escena(e, t):
         bw, bh = int((tw + 140) * pul), int(118 * pul)
         btn = Image.new("RGBA", (bw, bh), (0, 0, 0, 0)); db = ImageDraw.Draw(btn)
         db.rounded_rectangle([0, 0, bw - 1, bh - 1], radius=bh // 2, fill=ACC + (255,))
-        db.text(((bw - tw) / 2, (bh - 70) / 2), e["cta"], font=f, fill=(18, 18, 20, 255))
+        db.text(((bw - tw) / 2, (bh - 70) / 2), e["cta"], font=f, fill=E["boton_txt"] + (255,))
         yb = H * (0.60 if formato == "9x16" else 0.80)
         pegar(im, btn, (W - bw) / 2, yb + 30 * (1 - kb), kb)
     return im

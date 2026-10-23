@@ -1,6 +1,6 @@
 # Progreso: experto en edición de foto y video
 
-## Ronda 1 (2026-10-23) ~65% · Ronda 2 (2026-10-23) ~75%: formatos Motion, animación, letra, color, sonido, subtítulos automáticos (archivo 6, subtitulos.py)
+## Ronda 1 (2026-10-23) ~65% · Ronda 2 ~75% · Ronda 3 (2026-10-23) ~82%: grabación, composición, guion, mariscos, portadas, Advantage+, estilos (archivo 7): formatos Motion, animación, letra, color, sonido, subtítulos automáticos (archivo 6, subtitulos.py)
 | # | Fuente | Archivo | Estado |
 |---|---|---|---|
 | 1 | Oficial: Meta (medidas, zona segura, ver sin sonido), Blackmagic | 2-video-corto, 3-herramientas | Hecho (Meta vía estudio anterior; página oficial no cargó hoy) |
