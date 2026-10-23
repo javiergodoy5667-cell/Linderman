@@ -31,6 +31,15 @@ Iniciada 2026-10-22. Límite: NO recomendar acciones, cripto, fondos ni inversio
 ## 5. Fiar = prestar (Babilonia + Barnum)
 - Solo a quien ya demostró que paga; nuevos de contado; nunca ser fiador sin garantía.
 
+## 6. Retiro: IGSS (Guatemala)
+- Pensión por vejez: **60 años + 240 meses (20 años) de cuotas** al programa IVS. [IGSS oficial] Afiliados antes de 2010 podrían necesitar menos (verificar).
+- Monto aproximado: 50% del promedio salarial de los últimos 60 meses, mínimo ~Q340/mes. [guía de terceros, verificar]
+- Comerciante independiente: si no cotiza al IGSS, **no tendrá pensión** → su retiro depende 100% de su propio ahorro. (Afiliación voluntaria: consultar directo al IGSS.)
+
+## 7. Bancos vs cooperativas
+- Bancos: los supervisa la SIB y su ahorro lo protege el FOPA (hasta Q20,000).
+- Cooperativas: las fiscaliza INGECOP (Ley de Cooperativas, Decreto 82-78), no la SIB; NO están en el FOPA. MICOOPE/FENACOAC creó en 2011 un fondo privado de garantía propio (datos viejos: hasta US$12,500). Verificar condiciones actuales antes de ahorrar ahí.
+
 ## Plan aplicado a Javier (borrador – faltan datos)
 Con ganancia de ~Q10/lb:
 | De cada Q10 de ganancia bruta | Destino |

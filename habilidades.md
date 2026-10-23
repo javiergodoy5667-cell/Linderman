@@ -4,6 +4,7 @@ Las cosas que Linderman ya aprendió a hacer. Cada una vive en `.claude/skills/<
 
 | Habilidad | Para qué sirve | Creada |
 |---|---|---|
+| finanzas-personales | Experto en dinero de Javier: prioridades, ahorro, deudas, SAT, fiar, retiro | 2026-10-22 |
 | nueva-meta | Anotar una meta con fecha límite y próximo paso | 2026-10-22 |
 | agendar | Anotar citas, tareas con fecha y recordatorios | 2026-10-22 |
 | aprender-tema | Volverse experto en un tema: oficial, libros, expertos, ejemplos, guardado | 2026-10-22 |
