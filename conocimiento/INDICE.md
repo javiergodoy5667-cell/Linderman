@@ -53,3 +53,4 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 | Archivo | Qué contiene |
 |---|---|
 | negocios-digitales/trabajo-remoto-arranque.md | Workana (pagos, comisión), perfiles más pedidos 2026, hechos vs supuestos, orden de arranque para Javier |
+| negocios-digitales/perfil-workana-linkedin.md | Textos listos de perfil Workana y LinkedIn (automatización IA + WhatsApp), precios de entrada, pasos para Javier |
