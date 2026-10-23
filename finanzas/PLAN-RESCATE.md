@@ -1,5 +1,22 @@
 # Estrategia real v3 – Javier (2026-10-23)
 
+## ACTUALIZACIÓN: gastos personales reales = Q4,000/mes (no Q3,000)
+| Concepto | Monto/mes |
+|---|---|
+| Entra hoy (Zacapa ~193 lb neto de viajes + intereses) | ~Q1,870 |
+| Gastos personales | –Q4,000 |
+| **Faltante** | **~–Q2,130** |
+- Si el faltante sale del capital: Q10,000 duran **~4.7 meses** (marzo 2027). Antes era ~9 meses.
+- **Para tapar el faltante con menudeo local** (Q17/lb – ~Q2 de entrega = ~Q15 neto): **~142 lb/mes ≈ 30 pedidos de 5 lb** (~7 por semana).
+- Escenarios noviembre (si Zacapa paga):
+| | Menudeo local | Entra total | vs Q4,000 |
+|---|---|---|---|
+| Malo | 0 lb | ~Q2,800 | –Q1,200 |
+| Medio | 70 lb | ~Q3,850 | –Q150 |
+| Bueno | 142 lb | ~Q4,930 | +Q930 |
+- **Reglas:** (1) en noviembre el gasto personal se paga solo con lo que entre; si es escenario malo, el tope es lo que entre (~Q2,800) y lo demás se cubre con fletes/comisión, no con capital. (2) Los 14 días sin ingreso (23 oct–5 nov): normal serían ~Q1,870; mínimo de supervivencia ~Q600-700 (comida ~Q35/día + diésel indispensable). (3) Meta de ventas local: **7 pedidos por semana**.
+- Pendiente: en qué se van los Q4,000 (comida, diésel, teléfono, servicios, vivienda, gustos, otros) para recortar sin adivinar.
+
 Regla de esta versión: nada se da por hecho. Hechos vs supuestos separados; cada paso tiene "si pasa X → haces Y".
 
 ## 1. HECHOS (lo que sabemos)
