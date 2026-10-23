@@ -26,4 +26,5 @@ Siempre abrirle a Javier las fotos (carpeta en el Explorador) y esperar su OK an
 - Canva gratis NO quita fondos (pide Pro) → usar rembg local (modelo isnet-general-use).
 - Si la mano tapa el producto, rembg la deja pegada: usar fotos donde el producto esté solo o casi solo.
 - Fotos del interior/etiquetas: mejor dejarlas originales (prueban autenticidad).
+- Piezas en BOLSA PLÁSTICA transparente: rembg las corta en pedazos y salen feas (kit Toyota, 2026-10-23). Pedir foto nueva con la pieza fuera de la bolsa.
 - Consejo para Javier al tomar fotos: producto sobre mesa o pared lisa, luz de día, sin mano, de frente y de lado.
