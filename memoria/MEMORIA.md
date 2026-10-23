@@ -4,7 +4,7 @@ Lo que Linderman ha aprendido de Javier. Una línea por dato, con fecha. Lo más
 
 - 2026-10-22 · Linderman fue creado. Especialidad: agente personal (tareas, metas, agenda, cumplimiento).
 - 2026-10-22 · Javier tiene plan Claude Pro. GitHub: usuario javiergodoy5667-cell, repositorio Linderman (ahí vive Linderman en internet).
-- 2026-10-22 · Para subir cambios desde la PC hay que usar una ventana de PowerShell fuera de VS Code (la terminal de VS Code no deja iniciar sesión en GitHub).
+- 2026-10-23 · Git en la PC: usar la ruta completa "/c/Program Files/Git/cmd/git.exe" desde Bash (git no está en el PATH de PowerShell). Así pull y push sí funcionan desde VS Code.
 - 2026-10-22 · Javier quiere usar a Linderman desde el teléfono sin la PC prendida.
 - 2026-10-22 · Javier no llevaba agenda antes; Linderman la empieza desde cero.
 - 2026-10-22 · CORRECCIÓN DE JAVIER: no pasarle tareas que yo puedo hacer. Pedirle solo los datos que me faltan y hacerlo yo (buscar, listar, redactar, calcular). A él solo le toca lo que exige su persona: llamar, visitar, cobrar, pagar, autorizar.
