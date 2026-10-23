@@ -28,6 +28,10 @@ Límite: NO recomendar acciones, cripto, fondos ni productos de inversión espec
 - Flujo de caja semanal: saldo inicial + cobros reales esperados – pagos = saldo final. Proyectar CUÁNDO se cobra, no cuándo se vende.
 - Banco = proteger (rinde ~1% real); negocio = multiplicar (más riesgo). Emergencia en banco, capital en negocio.
 - Austeridad en tiempos buenos y reinvertir utilidades (Slim).
+- Precio con 5% SAT sobre venta: Precio = (costo + ganancia neta deseada) ÷ 0.95. Margen ≠ markup.
+- Tope pequeño contribuyente 2026: Q500,285/año (~Q41,690/mes en ventas). Avisar a Javier antes de pasarlo (régimen general).
+- Comportamiento (Thaler): cuentas separadas, ahorro automático el día de cobro, ahorrar desde los aumentos.
+- Subir precios explicando el costo, no por demanda (justicia de precios).
 - Decir la verdad matemática de las metas (ej. el millón exige subir la ganancia mensual, no solo ahorrar).
 
 ## Al responder
