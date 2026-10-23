@@ -52,7 +52,7 @@ Responder con números aproximados. NO poner contraseñas, números de cuenta ni
 - Tiene congelador (~2 qq) y vehículo propio pagado (se usa en el negocio).
 - Por cobrar: cliente Zacapa (280 lb, vence ~5 nov) + **una clienta debe Q10,000 de pescado desde hace ~5 meses**.
 - Gastos personales: ~Q3,000/mes. No mantiene a nadie.
-- Otro ingreso: ~Q500/mes de intereses de un préstamo de ~Q3,000 que él dio (confirmar).
+- Otro ingreso: Q500/mes de intereses de un préstamo de Q3,000 que él dio (confirmado).
 - Capital: era Q30,000 con su hermano; quedan Q10,000 (mala administración). Prioridad: recuperar.
 - **Deuda bancaria ~Q300,000 en mora desde enero 2026.** No puede pagar ahora; quiere juntar dinero para negociar.
 - Sin tarjeta de crédito. Se ha atrasado en pagos (sí). No es fiador.

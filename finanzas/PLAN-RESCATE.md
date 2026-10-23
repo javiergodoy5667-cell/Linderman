@@ -8,7 +8,7 @@ No es asesoría legal: lo del banco se confirma con abogado.
 | Capital en el negocio | Q10,000 (del hermano; antes Q30,000) |
 | Por cobrar: clienta morosa (5 meses) | Q10,000 |
 | Por cobrar: Zacapa (vence ~5 nov) | ~Q12,000 de venta (~Q2,800 ganancia) |
-| Préstamo dado por Javier | ~Q3,000 (genera ~Q500/mes, confirmar) |
+| Préstamo dado por Javier | Q3,000 (genera Q500/mes = 16.7% mensual, confirmado) |
 | Deuda con hermano (faltante) | Q20,000 |
 | Deuda banco (mora desde enero) | ~Q300,000 |
 | Gastos personales | ~Q3,000/mes |
@@ -22,7 +22,7 @@ No es asesoría legal: lo del banco se confirma con abogado.
    Registrar cada llamada, mensaje y pago. Cero amenazas.
 2. **Cobro Zacapa 5 nov:** recordatorio el 3 de noviembre (ya en agenda).
 3. **Regla nueva: CERO crédito** hasta recuperar el capital. Solo contado.
-4. Cobrar el préstamo de Q3,000 cuando venza o acordar devolución.
+4. Préstamo de Q3,000 (Q500/mes): mientras pague puntual, mantenerlo; los Q500 van directo al fondo del hermano/banco, no a gastos. Si se atrasa 1 vez, pedir el capital de vuelta. No prestar más hasta salir de la crisis.
 
 ## Fase 2 – Que cada viaje deje más
 - El viaje cuesta ~Q500 fijo: **mientras más libras por viaje, más ganancia por libra.** Llenar el congelador (2 qq ≈ 200 lb) y vender más por viaje.
