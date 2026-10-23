@@ -21,6 +21,12 @@ with sync_playwright() as p:
     pg.goto(pathlib.Path(html).as_uri())
     pg.wait_for_function("typeof window.frame === 'function'")
     pg.evaluate("document.fonts.ready")
+    if "%" in out:  # carrusel / varias fotos: window.FOTOS = [t1, t2, ...] -> salida_%02d.png
+        for i, t in enumerate(pg.evaluate("window.FOTOS"), 1):
+            pg.evaluate("t => window.frame(t)", t)
+            pg.screenshot(path=out % i, type="png" if out.lower().endswith(".png") else "jpeg")
+            print(out % i)
+        sys.exit()
     if out.lower().endswith((".png", ".jpg", ".jpeg")):
         pg.evaluate("t => window.frame(t)", pg.evaluate("window.FOTO_T || 0"))
         pg.screenshot(path=out, type="png" if out.lower().endswith(".png") else "jpeg")

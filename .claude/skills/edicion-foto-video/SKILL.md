@@ -86,3 +86,8 @@ Principios de diseño antes de cada pieza: jerarquía (qué se ve 1.º/2.º/3.º
 Orden: `limpiar_clip.py` (estabiliza, corta pausas por palabras, limpia audio, color suave; opciones --sin-estabilizar --sin-cortes --pausa=0.45) → `subtitulos.py` → diseño `render_html.py` → `sonido.py`.
 Si la persona sale en cuadro: que mire/señale el producto (la mirada guía la atención). Guion con la espina de la historia o gancho-problema-solución-prueba-CTA.
 Error encontrado: cortar por "silencio" no sirve con ruido de fondo → se corta donde no hay palabras (Whisper "base").
+
+## Control de calidad y variedad (ronda 6) — ver conocimiento 10
+SIEMPRE antes de mostrar: `python -I revisar.py <pieza> [9x16|4x5|1x1] [hoja.jpg]` y ver la hoja (rojo = lo tapa la app). Corregir todo lo de "CORREGIR".
+Carrusel/varias fotos: `render_html.py diseño.html salida_%02d.png` con `window.FOTOS=[t1,t2,...]`.
+Meta agrupa anuncios parecidos como uno solo: cada campaña lleva 3-6 piezas de FORMATO o CONCEPTO distinto (no cambiar solo color/texto).
