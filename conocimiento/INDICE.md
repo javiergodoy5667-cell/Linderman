@@ -88,3 +88,11 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 | ventas-whatsapp/3-guiones-javier.md | Guiones listos: mariscos, renta de planta, Marketplace, servicio IA; tabla de objeciones; seguimiento; reactivar conocidos |
 | ventas-whatsapp/4-pepitas-de-oro.md | 15 reglas clave para vender por chat |
 | ventas-whatsapp/PROGRESO.md | Avance (~70%) y qué falta |
+
+## Ventas en todos los canales
+| Archivo | Qué contiene |
+|---|---|
+| ventas-canales/1-canales-reglas-y-como-vender.md | Dónde está la gente en GT, qué vender en qué canal, reglas y trucos de Marketplace, grupos de FB, Instagram, TikTok, WhatsApp y ventas a restaurantes |
+| ventas-canales/2-oferta-precio-y-proceso.md | Ecuación del valor y oferta irresistible (Hormozi) aplicadas a mariscos/planta/IA, precio (3 opciones, ancla, regateo), proceso de 8 pasos, 4 caminos para conseguir clientes |
+| ventas-canales/3-guiones-por-canal.md | Textos listos: Marketplace, grupos, Instagram/TikTok (serie de videos), restaurante en persona, organizadores de eventos, servicio IA |
+| ventas-canales/PROGRESO.md | Avance (~70%) y qué falta |

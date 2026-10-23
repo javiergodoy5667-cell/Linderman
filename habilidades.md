@@ -13,6 +13,7 @@ Las cosas que Linderman ya aprendió a hacer. Cada una vive en `.claude/skills/<
 | espiar-competencia | Estudiar anuncios activos de la competencia en Meta y sacar el patrón | 2026-10-22 |
 | foto-pro | Fotos profesionales de producto (sin fondo, precio, contacto) y subirlas a Marketplace | 2026-10-23 |
 | edicion-foto-video | Editor experto sin plantillas: diseño libre animado, cámara de cine estilo Higgsfield, 360° y atravesar objetos, limpiar clips, subtítulos automáticos, sonido y control de calidad | 2026-10-23 |
+| ventas | Ventas de todo tipo en todos los canales (Marketplace, grupos, Instagram, TikTok, WhatsApp, en persona, negocios): oferta, precio, guiones y medición | 2026-10-23 |
 | ventas-whatsapp | Vender y cerrar por WhatsApp: respuestas exactas, objeciones, seguimiento, reactivar conocidos y registro de prospectos | 2026-10-23 |
 | revision-diaria | Resumen de la mañana y cierre de la noche | 2026-10-22 |
 | propuesta-workana | Buscar proyectos en Workana y escribir propuestas que ganen | 2026-10-22 |
