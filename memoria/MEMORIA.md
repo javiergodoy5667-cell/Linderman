@@ -16,4 +16,5 @@ Lo que Linderman ha aprendido de Javier. Una línea por dato, con fecha. Lo más
 - 2026-10-22 · Prioridad #1 de Javier: recuperar el capital perdido. Plan: cobrar, cero crédito, más libras por viaje, efectivo semanal fijo.
 - 2026-10-23 · CORRECCIÓN DURA DE JAVIER: los planes no deben dar por hecho ventas, clientes ni que alguien acepte. Separar HECHOS vs SUPUESTOS, usar escenarios y reglas "si pasa X → haz Y", y verificar datos antes de proyectar. Esto aplica a todo plan futuro.
 - 2026-10-23 · Javier: "no te tengo que estar diciendo todo". Antes de cualquier plan, revisar efectivo disponible hoy, fechas de cobro y todas las consecuencias. Hoy (23 oct) su capital está todo fiado en Zacapa hasta ~5 nov.
+- 2026-10-23 · REGLA FIJA del mercado de Javier: nadie paga antes de recibir (solo pago contra entrega). Efectivo hoy Q0. Intereses Q500 entran del 1 al 7 de cada mes. Viaje a Blue Ocean ~Q50; a Zacapa ~Q500. Precio menudeo Q50/lb casi todas las tallas.
 - 2026-10-22 · Rutinas creadas en claude.ai/code/routines: revisión mañana 6:30 am y noche 8:00 pm (hora Guatemala).

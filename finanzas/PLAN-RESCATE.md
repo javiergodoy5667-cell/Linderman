@@ -111,7 +111,39 @@ Antes de visitar, responder: ¿tiene con qué pagar? ¿sigue comprando? ¿hay al
 Hecho clave: los Q10,000 están en el pedido de Zacapa hasta ~5 nov. Hoy no hay efectivo para comprar.
 Los 3 pedidos fueron de la misma clienta de Zacapa. El precio Q50 aplica a casi todas las tallas.
 
-### Cómo vender sin tener dinero: el cliente pone el capital
+### CORRECCIÓN 23 oct: nadie paga antes de recibir (regla fija). Efectivo hoy: Q0. Intereses Q500 entran del 1 al 7 de cada mes. Viaje a Blue Ocean ida y vuelta: ~Q50.
+
+### Flujo de caja real
+| Fecha | Entra | Sale | Efectivo para el negocio |
+|---|---|---|---|
+| 23 oct – 31 oct | Q0 | Solo gastos personales mínimos | **Q0: no se puede comprar** |
+| 1–7 nov | Q500 intereses | | Q500 |
+| ~5 nov | Pago Zacapa ~Q12,000 (si paga) | | ~Q12,500 |
+
+### Etapa A (23 oct – 5 nov): sin dinero, construir pedidos
+- No se compra nada. Se usan estas 2 semanas para **juntar pedidos apartados** (pago contra entrega) para entregar del **6 al 8 de noviembre**.
+- Canales gratis: estados de WhatsApp diarios, mensajes uno por uno a 30 contactos, grupos de Facebook de Petapa/Villa Nueva, Marketplace, página.
+- Mensaje: "Del 6 al 8 de noviembre entrego camarón calidad exportación, sin hielo, a Q50 la libra en Petapa y Villa Nueva. Pagas cuando recibes. ¿Cuántas libras te aparto?"
+- Lista con: nombre, libras, producto, dirección, fecha. **Meta: 60 lb apartadas.**
+- Configurar WhatsApp Business gratis (kit listo en conocimiento/meta-ads/kit-whatsapp-don-gencho.md).
+- El día antes de entregar: confirmar cada pedido por mensaje.
+
+### Etapa B (6 – 8 nov): primera compra local
+- **Si Zacapa pagó:** separar capital (~Q9,800) → comprar las libras apartadas + 20% extra (el camarón congelado aguanta en tu congelador, el riesgo de sobrante es bajo).
+- **Si Zacapa NO pagó:** con los Q500 de intereses: Q50 de viaje + ~13 lb de entero (Q33) → vender a apartados → ~Q650 → ganancia ~Q170. Pequeño, pero empieza a girar.
+- Entregar y cobrar en el momento.
+
+### Etapa C (desde 9 nov): repartir el capital entre Zacapa y local
+- Un pedido de Zacapa amarra casi todo el capital por 15+ días. Por eso: **máximo 60% del capital a Zacapa (~170 lb)** y **40% para menudeo local**, hasta que los números de noviembre digan cuál deja más.
+- Zacapa: nuevo pedido solo con el anterior pagado; mínimo 170-250 lb para que el viaje de Q500 valga la pena.
+
+### La verdad del mes de noviembre
+- Entra: ~Q2,300 ganancia Zacapa + Q500 intereses + lo que deje el menudeo local.
+- Gastos: Q3,000.
+- **Aun pagando Zacapa, noviembre queda corto** salvo que el menudeo local deje ~Q200+ extra (≈12 lb o más con ganancia de Q17/lb menos gasolina). Si no se logra: recortar gastos o ingreso extra temporal; **no tocar el capital**.
+- Hasta el 1 nov no hay ingresos: lo personal tiene que salir de otro lado (ventas ocasionales, ayuda familiar). No pedir prestado a bancos ni prestamistas.
+
+### (versión anterior, descartada) Cómo vender sin tener dinero: el cliente pone el capital
 - **Preventa con pago antes de comprar**: el cliente local paga (completo o al menos el costo) → con ese dinero compras en Blue Ocean → entregas ese mismo día o al siguiente.
 - Ejemplo: cliente pide 5 lb de entero a Q50 = Q250. Te paga Q250 antes. Compras a Q33 x 5 = Q165. Te quedan Q85 (menos gasolina).
 - Riesgo: la gente desconfía de pagar antes. Por eso empezar con **conocidos, familia, vecinos** (gente que confía en ti) y ofrecer **entrega en 24 horas**.
