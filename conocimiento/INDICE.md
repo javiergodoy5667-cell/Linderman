@@ -70,3 +70,4 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 | Archivo | Qué contiene |
 |---|---|
 | marca-personal/marca-javier-ia.md | Posicionamiento de Javier como consultor de IA, pruebas reales, títulos puestos en LinkedIn/Workana, plataformas freelance, 5 publicaciones borrador |
+| edicion-foto-video/6-formatos-animacion-letra-color-sonido.md | Ronda 2: qué formato de anuncio gana (Motion 2026), 12 principios de animación, letra, color, sonido, subtítulos estilo Hormozi |

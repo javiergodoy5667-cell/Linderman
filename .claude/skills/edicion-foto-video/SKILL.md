@@ -19,7 +19,7 @@ Foto de estudio con fondo quitado: usar la habilidad **foto-pro** (`foto_estudio
 | Producto solo, fondo simple, contorno limpio | foto-pro → `foto_estudio.py` |
 | Producto en bolsa, hielo, vidrio, o Javier quiere la foto real | `foto_mejorar.py` (luz, color, nitidez; 1x1 Marketplace, 4x5 feed) |
 | Video para Reels/Historias/anuncio desde fotos | **`video_pro.py`** (estilo marca: estudio oscuro, texto animado, tarjeta final). `video_producto.py` = básico, Javier lo rechazó |
-| Video con voz o clips grabados | Pedir clips a Javier; recortar/unir con FFmpeg; subtítulos: Javier en CapCut/Clipchamp (automáticos) |
+| Video con voz (Javier hablando, demostración con sonido) | **`subtitulos.py`**: Whisper local escucha, subtítulos palabra por palabra resaltada, vertical 9:16 aunque el clip sea horizontal, volumen -14 LUFS. Errores nuevos de palabras → agregarlos a CORRIGE/VOCAB en el script |
 
 ## Pasos video desde fotos
 1. Escribir `guion.txt` (una escena por línea: `ruta_foto | texto`). Estructura 15 s: gancho (0-3 s) → prueba → oferta (precio, entrega) → llamada a la acción. 4-6 escenas, texto corto (máx. 5-6 palabras).
@@ -55,3 +55,7 @@ Estilos de base (mezclar y adaptar; nunca repetir igual dos productos seguidos):
 | Urgencia/oferta | Liquidar, rebajas | Ritmo rápido, precio antes/después, color fuerte |
 | Demostración | Herramientas, equipos (planta eléctrica) | Producto funcionando, sonido real, pasos 1-2-3 |
 Cada estilo nuevo que funcione se guarda como script o parámetro aquí.
+
+## Formato según objetivo (datos Motion 2026, 578 mil anuncios) — ver conocimiento 6
+Unboxing 9.8% de acierto · Oferta primero 8.6% · Demostración 8.1% · Testimonio 6.5%. Elegir formato ANTES del estilo visual.
+Principios fijos: suavizado (nada lineal), escalonado 0.1-0.15 s, una protagonista a la vez, 5-8 palabras por pantalla, efecto de sonido exacto en el corte.
