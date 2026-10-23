@@ -65,3 +65,8 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 | edicion-foto-video/4-libros-expertos-podcasts.md | Libros, biografías (Murch, Schoonmaker, Karl Taylor, MrBeast), cursos gratis, podcasts |
 | edicion-foto-video/5-pepitas-de-oro.md | 14 reglas clave de foto y video que vende |
 | edicion-foto-video/PROGRESO.md | Avance del estudio (~65%) y qué falta |
+
+## Marca personal
+| Archivo | Qué contiene |
+|---|---|
+| marca-personal/marca-javier-ia.md | Posicionamiento de Javier como consultor de IA, pruebas reales, títulos puestos en LinkedIn/Workana, plataformas freelance, 5 publicaciones borrador |
