@@ -47,3 +47,9 @@ Trabajo en español, horario de Centroamérica, respuesta rápida. Entregas clar
 ## Después
 - Mandar 5 propuestas diarias en Workana a proyectos de WhatsApp, automatización, IA y asistente virtual (yo las redacto si me pasa el texto del proyecto).
 - Ofrecer el mismo servicio a los 14 negocios de ventas/clientes-potenciales.md (ya los conoce por los mariscos).
+
+## Estado real (2026-10-22, hecho por Linderman en Chrome)
+- Workana: "Sobre mí" pegado y guardado; habilidades = Lead Generation (1-3 años, ya estaba), Inteligencia Artificial (1 año), Chatbot (1 año); precio por hora Q77 (~US$10). Perfil "en revisión" (Workana dice que puede tardar 15 días o más).
+- Workana plan gratis: solo 2 propuestas por SEMANA (no 5 diarias). Máximo 3 habilidades. El precio se pone en QUETZALES. Workana ofrece "moderación rápida" por US$9.90 (no se compró).
+- Falta en Workana: foto, fecha de inicio de Don Gencho en Historia laboral (es obligatoria).
+- LinkedIn: la sesión abierta en Chrome era de "Jehonatan Arriaga", no de Javier → no se tocó.
