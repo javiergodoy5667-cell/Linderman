@@ -25,9 +25,15 @@ Siempre. Es la forma normal de trabajar, no un modo especial.
 
 ## Lo que le toca a Javier (solo él puede)
 - **Un tema por sesión.** Al terminar un tema: `/clear`. Si la sesión ya va larga y sigue el mismo tema: `/compact`.
-- **Modelo según tarea:** para cosas simples (agenda, mensajes cortos, preguntas rápidas) usar `/model sonnet`, que gasta bastante menos del límite. Opus solo para estudio a fondo, planes o edición difícil.
-- **Pedir directo:** un mensaje con todo lo que necesita, mejor que muchos mensajes cortos.
-- Ver cuánto le queda: `/usage` (o `/status`).
+- **Modelo AL INICIO de la sesión, no a mitad** (cambiarlo a mitad borra la caché y ese mensaje sale caro). Sonnet (`/model sonnet`) para lo simple; Opus solo para estudio a fondo, planes o edición difícil. Para lo simple también sirve `/effort low` (en modelos 5.5 no borra la caché).
+- **Si dejó la sesión más de 1 hora:** `/clear` y empezar de nuevo; seguir una sesión larga y fría la procesa toda a precio completo.
+- **`/clear` es gratis; `/compact` cuesta** (lee todo para resumir). Compact solo en pausas, nunca a mitad de una tarea.
+- **Pedir directo:** un mensaje con todo lo que necesita, mejor que muchos mensajes cortos. Si la respuesta va mal: Esc o `/rewind`, en vez de amontonar correcciones.
+- Ver cuánto le queda y qué gasta más: `/usage` (la tecla `f` aplica arreglos). Revisarlo una vez por semana.
+- Recordar: chat del teléfono, claude.ai y las rutinas diarias salen de la MISMA bolsa.
+
+## Conocimiento base
+`conocimiento/uso-eficiente-claude/guia.md` (fuentes oficiales de Anthropic).
 
 ## Errores encontrados
 - 2026-10-23: el arranque leía 9 archivos (~30 KB, INDICE solo 10 KB) en cada sesión. Se cambió a arranque liviano.
