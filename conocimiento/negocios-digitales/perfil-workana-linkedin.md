@@ -51,5 +51,6 @@ Trabajo en español, horario de Centroamérica, respuesta rápida. Entregas clar
 ## Estado real (2026-10-22, hecho por Linderman en Chrome)
 - Workana: "Sobre mí" pegado y guardado; habilidades = Lead Generation (1-3 años, ya estaba), Inteligencia Artificial (1 año), Chatbot (1 año); precio por hora Q77 (~US$10). Perfil "en revisión" (Workana dice que puede tardar 15 días o más).
 - Workana plan gratis: solo 2 propuestas por SEMANA (no 5 diarias). Máximo 3 habilidades. El precio se pone en QUETZALES. Workana ofrece "moderación rápida" por US$9.90 (no se compró).
-- Falta en Workana: foto, fecha de inicio de Don Gencho en Historia laboral (es obligatoria).
-- LinkedIn: la sesión abierta en Chrome era de "Jehonatan Arriaga", no de Javier → no se tocó.
+- Workana (2a pasada): foto profesional subida; historia laboral Sur Color (01/2019-01/2020) y Nestlé (02/2020-actual, según CV); inglés Intermedio; 'Sobre mí' abre con Licenciado en Administración de Empresas (URL). Meses de inicio/fin puestos por Linderman (el CV solo trae años). Falta Don Gencho (sin fecha de inicio).
+- El CV del escritorio trae DPI, NIT, dirección y antecedentes: NO subirlo completo a ninguna plataforma.
+- LinkedIn: la cuenta "Jehonatan Arriaga" SÍ es de Javier (Jehonatan Javier Arriaga Godoy). Editarla desde Chrome fue bloqueado por permisos: Javier pega los textos él.
