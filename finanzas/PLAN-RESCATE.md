@@ -72,7 +72,42 @@ Antes de visitar, responder: ¿tiene con qué pagar? ¿sigue comprando? ¿hay al
 | Bueno | ~800 lb | ~Q5,800 | Sobran ~Q2,800 para hermano y banco |
 (neto = libras × ~Q9.70 – viajes de Q500; sin contar cobros atrasados)
 
-## 6. Datos que necesito de ti para afinar
+## 6. DATOS CONFIRMADOS (23 oct) y lo que cambian
+- Últimos 3 meses: 100 + 200 + 280 lb = **~580 lb (~193 lb/mes)**, aparentemente todo con la clienta de Zacapa (paga tarde; antes 8 días, ahora 15).
+- El viaje de Q500 es **para entregar en Zacapa**, no para comprar. Comprar en la capital y entregar local cuesta mucho menos.
+- Los Q10,000 de la clienta morosa son **capital propio de Javier**, no del hermano.
+- Gastos personales salieron de la ganancia y, al no alcanzar, **del capital del hermano** → confirma la fuga.
+- Clienta morosa: rompió plan semanal y plazo de 1 mes. **Se planea como perdido.**
+
+### Las cuentas reales por mes
+| Concepto | Monto/mes |
+|---|---|
+| Ganancia bruta (~193 lb x ~Q9.70) | ~Q1,870 |
+| Viajes a Zacapa (3 en 3 meses) | –Q500 |
+| Intereses del préstamo | +Q500 |
+| **Entra** | **~Q1,870** |
+| Gastos personales | –Q3,000 |
+| **Faltante que sale del capital** | **~–Q1,130** |
+→ Con Q10,000 de capital, **te quedan ~9 meses** antes de quedarte sin nada (menos si Zacapa se atrasa o deja de comprar).
+→ **Riesgo #1:** el 100% de tus ventas depende de UNA clienta que paga tarde.
+
+### El hallazgo: el menudeo local deja casi el doble
+| | Mayoreo Zacapa | Menudeo local (WhatsApp/página) |
+|---|---|---|
+| Precio entero | Q43 | Q50 (lo que anuncia tu página) |
+| Costo | Q33 | Q33 |
+| Gana por libra | Q10 – viaje Q500 | **Q17** – entrega local (mucho menos que Q500) |
+- Para tapar el faltante de ~Q1,130/mes necesitas **~70-80 lb al mes de menudeo local** ≈ **15-20 pedidos de 4-5 lb**. Esa es la meta concreta y medible, no "Q10,000".
+- No cambia a Zacapa: se mantiene, pero con límite.
+
+## 7. Estrategia ajustada
+1. **Meta #1 (noviembre): tapar el faltante.** 15-20 pedidos locales de menudeo al mes, de contado. Medir semana a semana.
+2. **Zacapa:** seguir, pero (a) no entregar nuevo pedido si el anterior no está pagado, (b) pedido mínimo 250 lb para que el viaje de Q500 valga la pena, (c) nunca fiar más de lo que puedes perder.
+3. **Clienta morosa (Q10,000):** ya no se negocia más con ella a solas. Una última vez: pedirle por WhatsApp o escrito que reconozca la deuda (un mensaje donde acepte que debe Q10,000 sirve como prueba). Luego, asesoría legal gratuita (bufete popular). Cero tiempo extra más allá de eso.
+4. **Si en 4 semanas el menudeo no tapa el faltante:** buscar ingreso extra temporal (ventas ocasionales, trabajo) para no seguir comiéndote el capital del hermano.
+5. **Hermano:** contarle la verdad con esta tabla antes de que el capital siga bajando.
+
+## 8. Datos que necesito de ti para afinar
 1. Pedidos de los últimos 3 meses (aunque sea aproximado).
 2. Destino del viaje de Q500.
 3. ¿Los Q10,000 de la clienta salieron del capital?
