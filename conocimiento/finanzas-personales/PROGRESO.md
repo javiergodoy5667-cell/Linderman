@@ -17,4 +17,7 @@
 ## Ronda intensiva 2 (2026-10-22)
 - Franklin "El camino a la riqueza" completo · Housel-Ferriss parte 2 · Slim 10 principios · SBA flujo de caja oficial · tasa pasiva/real Guatemala · IGSS · cooperativas · matemática del millón.
 
-Nivel estimado: ~68%. Falta: datos reales de Javier (gastos, deudas, SAT) y registro de 1 mes de ventas.
+## Ronda 3 y 4 (2026-10-22)
+- SAT oficial (tope Q500,285), fórmula de precio, Thaler Nobel, inclusión financiera · historial SIRC, estafas, seguros, Profit First oficial, Walton.
+
+Nivel estimado: ~78%. Falta: datos reales de Javier (gastos, deudas, SAT) y registro de 1 mes de ventas.

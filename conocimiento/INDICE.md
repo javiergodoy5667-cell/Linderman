@@ -10,6 +10,7 @@ Temas (carpetas): `ventas/`, `finanzas/`, `disciplina/`, `marketing/`, `meta-ads
 | finanzas-personales/expertos-libros-charlas.md | Housel (20 sesgos), Ramsey (7 pasos), Sethi (gasto consciente), Millonario de al lado, TED Ahorra Más Mañana, biografías, podcasts, datos Guatemala 2026, pepitas de oro |
 | finanzas-personales/clasicos-negocio-y-matematica.md | Franklin completo, Housel parte 2, 10 principios de Slim, flujo de caja SBA, rendimiento real en Guatemala, el problema del crédito de Javier, matemática del millón |
 | finanzas-personales/impuestos-precios-comportamiento.md | SAT oficial (tope Q500,285), fórmula de precio con 5%, margen vs markup, Thaler Nobel, inclusión financiera GT |
+| finanzas-personales/credito-estafas-seguros-walton.md | Historial de crédito (SIRC SIB), estafas y pirámides, seguros, Profit First oficial, 10 reglas de Sam Walton |
 | finanzas-personales/PROGRESO.md | Avance del estudio de finanzas personales |
 | finanzas-personales/guia-experto.md | Ahorro 10% (SIB), fondo de emergencia, deudas (CFPB), FOPA Q20,000, tasas en Guatemala, SAT pequeño contribuyente 5%, Profit First, plan para Javier |
 

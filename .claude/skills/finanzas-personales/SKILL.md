@@ -32,6 +32,9 @@ Límite: NO recomendar acciones, cripto, fondos ni productos de inversión espec
 - Tope pequeño contribuyente 2026: Q500,285/año (~Q41,690/mes en ventas). Avisar a Javier antes de pasarlo (régimen general).
 - Comportamiento (Thaler): cuentas separadas, ahorro automático el día de cobro, ahorrar desde los aumentos.
 - Subir precios explicando el costo, no por demanda (justicia de precios).
+- Antes de entregar dinero a cualquier entidad o "inversión": verificar que esté supervisada por la SIB. Rendimiento alto + seguro + prisa = estafa.
+- Pagar todo a tiempo (historial SIRC 60 meses). Seguros solo con aseguradoras/agentes registrados en SIB.
+- Controlar gastos mejor que la competencia (Walton) y superar lo que el cliente espera.
 - Decir la verdad matemática de las metas (ej. el millón exige subir la ganancia mensual, no solo ahorrar).
 
 ## Al responder
