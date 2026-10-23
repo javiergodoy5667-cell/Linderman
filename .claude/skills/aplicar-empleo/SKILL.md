@@ -17,6 +17,7 @@ Javier exige: CADA aplicación personalizada. Adaptar CV, perfil y respuestas a 
 5. Disponibilidad: lo que pida el trabajo (Javier quiere 40 h o lo necesario).
 6. Tarifa: base USD 15/h (subir si la oferta paga más).
 7. Mostrar resumen a Javier y enviar solo con su OK.
+   AHORRO (2026-10-23): por defecto Linderman entrega CV + respuestas listas para copiar y Javier llena el formulario; usar Chrome (@browser) solo si Javier lo pide. Si se usa Chrome: leer solo la parte necesaria (find/JS acotado), pocas capturas y a escala 0.6.
 8. Después de enviar: plan para sobresalir → mini demo del problema exacto de la empresa (n8n/Loom 60 s) + mensaje de 3 líneas al reclutador/fundador + preparación para la prueba. Anotar en agenda.
 9. Registrar en conocimiento/negocios-digitales/ofertas-AAAA-MM-DD.md (estado, CV usado, respuestas).
 
