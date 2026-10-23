@@ -1,0 +1,36 @@
+<!doctype html>
+<!-- Giro 360° de un modelo 3D (.glb) para render_html.py. Uso: orbita_3d.html?m=modelo.glb&fondo=0b0d10&acento=F2B33D
+     Cada pieza lleva su propia dirección de arte: cambiar fondo, luz y textos aquí o copiar este archivo. -->
+<html><head><meta charset="utf-8">
+<script type="module" src="https://cdn.jsdelivr.net/npm/@google/model-viewer@3.5.0/dist/model-viewer.min.js"></script>
+<style>
+  html, body { margin: 0; width: 1080px; height: 1920px; overflow: hidden; }
+  body { background: radial-gradient(ellipse 800px 1200px at 50% 55%, var(--c1), var(--c0)); }
+  model-viewer { position: absolute; left: 0; top: 280px; width: 1080px; height: 1200px; --poster-color: transparent; }
+  #piso { position: absolute; left: 190px; top: 1330px; width: 700px; height: 90px; border-radius: 50%;
+          background: radial-gradient(rgba(0,0,0,.7), transparent 70%); }
+</style></head>
+<body>
+  <div id="piso"></div>
+  <model-viewer id="mv" exposure="1.1" shadow-intensity="1.2" shadow-softness="0.8" environment-image="neutral"
+                interaction-prompt="none" disable-zoom camera-orbit="0deg 75deg 105%" field-of-view="30deg"></model-viewer>
+<script>
+const q = new URLSearchParams(location.search);
+document.body.style.setProperty('--c0', '#' + (q.get('fondo') || '0b0d10'));
+document.body.style.setProperty('--c1', '#' + (q.get('fondo2') || '2a2f38'));
+const mv = document.getElementById('mv');
+mv.src = q.get('m') || 'modelo.glb';
+window.DURACION = parseFloat(q.get('dur') || '6');
+let listo = false; mv.addEventListener('load', () => listo = true);
+// render_html.py espera a que exista window.frame; aquí se define SOLO cuando el modelo terminó de cargar
+const esperar = setInterval(() => { if (listo) { clearInterval(esperar); window.frame = cuadro; } }, 100);
+function cuadro(t) {
+  const k = t / window.DURACION;
+  const e = 0.5 - 0.5 * Math.cos(Math.PI * k);              // gira suave: arranca y termina despacio
+  const giro = -30 + 360 * e;
+  const alto = 75 - 8 * Math.sin(Math.PI * k);               // la cámara sube un poco a mitad del giro
+  mv.cameraOrbit = `${giro}deg ${alto}deg 105%`;
+  mv.jumpCameraToGoal();
+  return new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+}
+</script></body></html>

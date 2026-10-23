@@ -9,7 +9,8 @@ from playwright.sync_api import sync_playwright
 
 FFMPEG = shutil.which("ffmpeg") or os.path.expandvars(
     r"%LOCALAPPDATA%\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.2-full_build\bin\ffmpeg.exe")
-html, out = os.path.abspath(sys.argv[1]), os.path.abspath(sys.argv[2])
+html, _, consulta = sys.argv[1].partition("?")  # permite diseño.html?param=valor
+html, out = os.path.abspath(html), os.path.abspath(sys.argv[2])
 W = int(sys.argv[3]) if len(sys.argv) > 3 else 1080
 H = int(sys.argv[4]) if len(sys.argv) > 4 else 1920
 FPS = int(sys.argv[5]) if len(sys.argv) > 5 else 30
@@ -20,8 +21,8 @@ ESCALA = float(sys.argv[7]) if len(sys.argv) > 7 else 1440 / 1080
 with sync_playwright() as p:
     nav = p.chromium.launch(channel="chrome", headless=True)  # usa el Chrome ya instalado
     pg = nav.new_page(viewport={"width": W, "height": H}, device_scale_factor=ESCALA)
-    pg.goto(pathlib.Path(html).as_uri())
-    pg.wait_for_function("typeof window.frame === 'function'")
+    pg.goto(pathlib.Path(html).as_uri() + ("?" + consulta if consulta else ""))
+    pg.wait_for_function("typeof window.frame === 'function'", timeout=120000)
     pg.evaluate("document.fonts.ready")
     if "%" in out:  # carrusel / varias fotos: window.FOTOS = [t1, t2, ...] -> salida_%02d.png
         for i, t in enumerate(pg.evaluate("window.FOTOS"), 1):

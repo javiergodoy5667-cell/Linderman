@@ -1,0 +1,35 @@
+<!doctype html>
+<!-- "Atravesar objeto" (Through Object) para render_html.py: la cámara se mete DENTRO de la silueta del producto
+     y la escena siguiente aparece adentro. Uso: atravesar.html?a=producto.png&ba=escena_a.jpg&b=escena_b.jpg&dur=2.4
+     a = PNG transparente (recortar.py); ba = fondo detrás del producto; b = lo que aparece al atravesar.
+     Se dibuja en canvas (las máscaras CSS no funcionan con archivos locales). -->
+<html><head><meta charset="utf-8">
+<style> html, body { margin: 0; width: 1080px; height: 1920px; overflow: hidden; background: #000; } canvas { display: block; } </style></head>
+<body><canvas id="c" width="1080" height="1920"></canvas>
+<script>
+const q = new URLSearchParams(location.search), W = 1080, H = 1920;
+window.DURACION = parseFloat(q.get('dur') || '2.4');
+const cv = document.getElementById('c'), cx = cv.getContext('2d');
+const off = document.createElement('canvas'); off.width = W; off.height = H; const ox = off.getContext('2d');
+const carga = s => new Promise(r => { const i = new Image(); i.onload = () => r(i); i.src = s; });
+const eIn = t => Math.pow(Math.max(0, Math.min(1, t)), 3);
+function cubrir(ctx, img, s, blur) {          // dibuja la imagen cubriendo el cuadro, escalada s desde el centro
+  const k = Math.max(W / img.width, H / img.height) * s, w = img.width * k, h = img.height * k;
+  ctx.filter = blur ? `blur(${blur}px)` : 'none'; ctx.drawImage(img, (W - w) / 2, (H - h) / 2, w, h); ctx.filter = 'none';
+}
+Promise.all([carga(q.get('a')), carga(q.get('ba')), carga(q.get('b'))]).then(([A, BA, B]) => {
+  window.frame = t => {
+    const k = t / window.DURACION, z = 1 + 38 * eIn(k);
+    const pw = 760 * z, ph = pw * A.height / A.width, px = (W - pw) / 2, py = (H - ph) / 2;
+    cx.clearRect(0, 0, W, H);
+    cubrir(cx, BA, 1 + .25 * eIn(k), 8 * eIn(k));                          // escena A: se acerca y desenfoca
+    cx.save(); cx.shadowColor = 'rgba(0,0,0,.6)'; cx.shadowBlur = 40; cx.shadowOffsetY = 30;
+    cx.drawImage(A, px, py, pw, ph); cx.restore();                         // el producto crece hacia la cámara
+    // escena B recortada con la silueta del producto
+    ox.globalCompositeOperation = 'source-over'; ox.clearRect(0, 0, W, H);
+    cubrir(ox, B, 1.25 - .25 * eIn(k), 0);
+    if (k < .85) { ox.globalCompositeOperation = 'destination-in'; ox.drawImage(A, px, py, pw, ph); }
+    cx.globalAlpha = Math.min(1, Math.max(0, (k - .15) * 2.5)); cx.drawImage(off, 0, 0); cx.globalAlpha = 1;
+  };
+});
+</script></body></html>
