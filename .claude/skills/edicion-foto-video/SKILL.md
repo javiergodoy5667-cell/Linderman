@@ -96,3 +96,9 @@ Meta agrupa anuncios parecidos como uno solo: cada campaña lleva 3-6 piezas de 
 Reels 9:16 1440x2560 · Feed 4:5 1440x1800 · H.264 + AAC ≥128 kbps · zona segura 14% arriba / 35% abajo / 6% lados · texto Reels 40 car., título 55 · los subtítulos automáticos de Meta NO van en Reels → quemarlos. render_html.py ya sale a 1440 de ancho.
 Volumen: sonido.py mide y ajusta en 2 pasos (el nivelador automático falla con efectos sueltos). Meta: nunca usar la imagen de un famoso como gancho ni insinuar que recomienda.
 Flujo completo probado (examen sierra_plano): dirección de arte → recortar.py → diseño HTML → render_html.py → sonido.py → revisar.py → corregir hasta "CORREGIR: nada" → mostrar a Javier.
+
+## Estilo Higgsfield (cámara de cine sobre una foto) — ver conocimiento 12
+`python -I camara.py <foto> <salida.mp4> <movimiento> [seg] [9x16|4x5|1x1]` · dolly_in/out, super_dolly_in, dolly_zoom_in/out (vértigo), crash_zoom_in/out, yoyo_zoom, pan_left/right, arc_left/right, crane_up/down, handheld, wiggle, focus_change, low_shutter, hero_cam, whip_pan.
+Montaje estilo Higgsfield: 4-6 movimientos cortos (0.6-2.4 s) de la MISMA foto o misma escena (unidad visual), unidos con concat + efectos en cada corte (sonido.py) + revisar.py. Mejor con fotos que tienen fondo real (no de estudio).
+Errores: foto muy cerrada → el script encuadra el producto completo y extiende el fondo; whip_pan no debe sacar la imagen del cuadro (sale negro) → el barrido lo da el desenfoque.
+Si Javier usa Higgsfield: él crea la cuenta y paga (yo no). Escribir instrucciones con el método oficial (sujeto, 1 movimiento, velocidad, recorrido, lo prohibido; lente/luz/apertura en ajustes). Probar lo gratis primero; reembolso casi imposible.
