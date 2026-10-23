@@ -55,10 +55,17 @@ else:
     negros = re.findall(r"black_start:([\d.]+)", log); cong = re.findall(r"freeze_start: ([\d.]+)", log)
     chk(not negros, "Sin cuadros negros", f"Cuadros negros en {', '.join(negros)} s")
     chk(not cong, "Sin imagen congelada", f"Imagen quieta >1.2 s en {', '.join(cong)} s (¿pierde ritmo?)")
-    # gancho: cuántos cambios de escena/movimiento hay en los primeros 3 s
-    sc = subprocess.run([FFMPEG, "-hide_banner", "-t", "3", "-i", f, "-vf", "select='gt(scene,0.06)',showinfo", "-f", "null", "-"],
-                        capture_output=True, text=True).stderr.count("pts_time")
-    chk(sc >= 1, f"Gancho: {sc} cambios visuales en los primeros 3 s", "Primeros 3 s casi quietos: gancho débil")
+    # gancho: cuánto CAMBIA la imagen en los primeros 3 s (cortes o movimiento continuo)
+    import numpy as np
+    from io import BytesIO
+    def cuadro(t):
+        raw = subprocess.run([FFMPEG, "-loglevel", "error", "-ss", f"{t:.2f}", "-i", f, "-frames:v", "1", "-vf", "scale=180:-2",
+                              "-f", "image2pipe", "-vcodec", "png", "-"], capture_output=True).stdout
+        return np.asarray(Image.open(BytesIO(raw)).convert("L"), dtype=float)
+    cs = [cuadro(t) for t in np.arange(0, min(3, dur - .1), .5)]
+    mov = float(np.mean([np.abs(a - b).mean() for a, b in zip(cs, cs[1:])])) if len(cs) > 1 else 0
+    chk(mov >= 4, f"Gancho: la imagen cambia {mov:.1f} (de 255) cada medio segundo en los primeros 3 s",
+        f"Primeros 3 s casi quietos (cambio {mov:.1f}): gancho débil")
     # hoja de cuadros con zonas
     tiempos = [min(dur - .05, x) for x in (0.5, 1.5, 2.9, dur * .5, dur * .8, dur - .3)]
     cuadros = []

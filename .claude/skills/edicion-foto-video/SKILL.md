@@ -91,3 +91,8 @@ Error encontrado: cortar por "silencio" no sirve con ruido de fondo → se corta
 SIEMPRE antes de mostrar: `python -I revisar.py <pieza> [9x16|4x5|1x1] [hoja.jpg]` y ver la hoja (rojo = lo tapa la app). Corregir todo lo de "CORREGIR".
 Carrusel/varias fotos: `render_html.py diseño.html salida_%02d.png` con `window.FOTOS=[t1,t2,...]`.
 Meta agrupa anuncios parecidos como uno solo: cada campaña lleva 3-6 piezas de FORMATO o CONCEPTO distinto (no cambiar solo color/texto).
+
+## Medidas OFICIALES Meta (guía de anuncios, 2026-10-23) — ver conocimiento 11
+Reels 9:16 1440x2560 · Feed 4:5 1440x1800 · H.264 + AAC ≥128 kbps · zona segura 14% arriba / 35% abajo / 6% lados · texto Reels 40 car., título 55 · los subtítulos automáticos de Meta NO van en Reels → quemarlos. render_html.py ya sale a 1440 de ancho.
+Volumen: sonido.py mide y ajusta en 2 pasos (el nivelador automático falla con efectos sueltos). Meta: nunca usar la imagen de un famoso como gancho ni insinuar que recomienda.
+Flujo completo probado (examen sierra_plano): dirección de arte → recortar.py → diseño HTML → render_html.py → sonido.py → revisar.py → corregir hasta "CORREGIR: nada" → mostrar a Javier.

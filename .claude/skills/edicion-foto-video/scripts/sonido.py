@@ -81,11 +81,20 @@ if musica:
     graf = (f"[0:a]asplit=2[voz][llave];[2:a]atrim=0:{dur:.2f},volume={vol_m},"
             f"afade=t=out:st={dur - 1.2:.2f}:d=1.2[m];"
             "[m][llave]sidechaincompress=threshold=0.02:ratio=8:attack=40:release=500[mduck];"
-            "[voz][1:a][mduck]amix=inputs=3:normalize=0,loudnorm=I=-14:TP=-1:LRA=11,alimiter=limit=0.79:level=false[a]")
+            "[voz][1:a][mduck]amix=inputs=3:normalize=0[a]")
 else:
-    graf = "[0:a][1:a]amix=inputs=2:normalize=0,loudnorm=I=-14:TP=-1:LRA=11,alimiter=limit=0.79:level=false[a]"
-cmd += ["-filter_complex", graf, "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k",
-        "-ar", "48000", "-t", f"{dur:.2f}", "-movflags", "+faststart", out]
-subprocess.run(cmd, check=True)
+    graf = "[0:a][1:a]amix=inputs=2:normalize=0[a]"
+# 1) mezcla sin nivelar
+mez = os.path.join(tmp, "mezcla.wav")
+subprocess.run(cmd + ["-filter_complex", graf, "-map", "[a]", "-ar", "48000", "-t", f"{dur:.2f}", mez], check=True)
+# 2) medir y ajustar EXACTO a -14 LUFS (2 pasos: el nivelador automático falla con efectos sueltos y silencios)
+import re as _re
+med = subprocess.run([FFMPEG, "-hide_banner", "-i", mez, "-af", "ebur128", "-f", "null", "-"], capture_output=True, text=True).stderr
+I = float(_re.findall(r"I:\s+(-?[\d.]+) LUFS", med)[-1])
+ganancia = -13.6 - I  # +0.4: compensa lo que baja el limitador
+af = f"volume={ganancia:.2f}dB,alimiter=limit=0.76:attack=1:release=60:level=false"
+subprocess.run([FFMPEG, "-y", "-loglevel", "error", "-i", src, "-i", mez, "-map", "0:v", "-map", "1:a", "-af", af,
+                "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-t", f"{dur:.2f}", "-movflags", "+faststart", out],
+               check=True)
 shutil.rmtree(tmp, ignore_errors=True)
 print(out)
