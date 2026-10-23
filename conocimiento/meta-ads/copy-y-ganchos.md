@@ -25,6 +25,11 @@ Estudiado 2026-10-22 (Hormozi, fórmulas clásicas, guías de video). Resumen pr
 7. **Escasez real:** "Solo llegaron 100 libras esta semana."
 8. **Llamado a quién:** "Dueños de cevicherías en Villa Nueva:" (filtra al cliente correcto).
 
+## 2b. Gancho comprobado en el mercado (México, anuncios de 3+ meses)
+> "Sin hielo: aquí pagas camarón, no agua."
+> "Talla 31/35 a QXX la libra · Mayoreo QXX · Precios especiales para restaurantes."
+> "Precio directo de distribuidor, sin intermediarios."
+
 ## 3. Fórmulas de texto
 **PAS (Problema → Agitar → Solución)** – para vender por dolor:
 > ¿Compras camarón y la mitad es hielo? 😤 Pagas por libra y te llevas agua. En Don Gencho pesamos sin hielo: camarón calidad exportación a Q50/lb, a domicilio en Petapa y Villa Nueva. Escríbenos 👇

@@ -1,16 +1,25 @@
-# Libros modernos recomendados (tienen derechos de autor)
+# Libros recomendados
 
-No se bajan PDF piratas (ilegal y riesgo de virus). Para que Linderman los lea completos: Javier los compra en un formato legible (PDF o EPUB sin bloqueo) y pone el archivo en `conocimiento/libros/originales/`, o pasa capturas/fotos de las páginas. Kindle tiene bloqueo (DRM) y no se puede leer directo.
+Para que Linderman lea un libro completo: copia comprada en PDF o EPUB sin bloqueo en `conocimiento/libros/originales/`, o capturas/fotos de las páginas (Kindle o libro físico).
 
-| Prioridad | Libro | Autor | Para qué le sirve a Javier |
+## Top 3 para comprar primero
+1. $100M Offers (Ofertas de $100M) – Alex Hormozi → vender más ya.
+2. Profit First (La ganancia es primero) – Mike Michalowicz → que el dinero se quede.
+3. Hábitos Atómicos – James Clear → cumplir metas.
+
+## Por área
+| Área | Libro | Autor | Por qué |
 |---|---|---|---|
-| 1 | $100M Offers (Ofertas de $100M) | Alex Hormozi | Armar ofertas irresistibles (combos, garantías) |
-| 2 | $100M Leads (Clientes de $100M) | Alex Hormozi | Conseguir clientes: anuncios, contenido, contacto directo |
-| 3 | Profit First (La ganancia primero) | Mike Michalowicz | Separar el dinero del negocio y asegurar ganancia |
-| 4 | Hábitos Atómicos | James Clear | Disciplina diaria |
-| 5 | Breakthrough Advertising | Eugene Schwartz | Escribir anuncios según cuánto conoce el cliente |
-| 6 | Building a StoryBrand (Cómo construir una StoryBrand) | Donald Miller | Mensaje claro y marca personal |
-| 7 | Influencia | Robert Cialdini | Psicología de la persuasión |
-| 8 | Padre Rico, Padre Pobre | Robert Kiyosaki | Mentalidad sobre dinero y activos |
-
-Ya leídos completos (dominio público): Publicidad Científica (Hopkins), El hombre más rico de Babilonia (Clason), El arte de hacer dinero (Barnum).
+| Ventas | $100M Offers | Alex Hormozi | Ofertas irresistibles (combos, garantías) |
+| Ventas | $100M Leads | Alex Hormozi | Conseguir clientes: anuncios, contenido, contacto directo |
+| Anuncios | Breakthrough Advertising | Eugene Schwartz | Escribir anuncios según cuánto conoce el cliente |
+| Anuncios | Publicidad Científica | Claude Hopkins | ✅ LEÍDO (publicidad-cientifica-hopkins.md) |
+| Dinero | Profit First | Mike Michalowicz | Separar dinero del negocio y asegurar ganancia |
+| Dinero | Padre Rico, Padre Pobre | Robert Kiyosaki | Mentalidad sobre dinero y activos |
+| Dinero | El hombre más rico de Babilonia | George Clason | ✅ LEÍDO |
+| Dinero | El arte de hacer dinero | P. T. Barnum | ✅ LEÍDO |
+| Disciplina | Hábitos Atómicos | James Clear | Sistema de hábitos diarios |
+| Disciplina | Disciplina es libertad | Jocko Willink | Disciplina estilo militar |
+| Marca personal | Building a StoryBrand | Donald Miller | Contar la historia para vender |
+| Marca personal | Muestra tu trabajo | Austin Kleon | Crear marca compartiendo el proceso |
+| Persuasión | Influencia | Robert Cialdini | Psicología de por qué la gente dice sí |

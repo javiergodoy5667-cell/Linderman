@@ -12,8 +12,11 @@ Resúmenes de buscador → guia-experto.md, competencia-biblioteca.md.
 | 2 | Meta oficial: imagen, video, zona segura, público Advantage+ | oficial-4 | Hecho |
 | 3 | Jon Loomer: principios, revisión, variedad, pruebas, fatiga | experto-jon-loomer | Hecho (artículos completos) |
 | 4 | Copy y ganchos (Hormozi, PAS/AIDA, video) | copy-y-ganchos | Hecho (resúmenes de terceros del libro) |
-| 5 | Medición: atribución, reglas automáticas, presupuestos | - | Pendiente |
-| 6 | Libros completos (si Javier pasa PDF) | - | Pendiente |
+| 5 | Medición: atribución, promocionar vs Administrador, A/B, reglas, sin conversiones | oficial-5, oficial-6 | Hecho |
+| 5b | Blueprint: pruebas, WhatsApp Business, anuncios a WhatsApp | curso-blueprint-whatsapp-y-pruebas | Hecho |
+| 6 | Advantage+ (campaña, presupuesto, contenido IA) | oficial-7 | Hecho |
+| 6b | Competencia México: vendedores de camarón por kilo | competencia-biblioteca | Hecho |
+| 6c | Libros modernos completos (Javier los compra) | - | Pendiente |
 | 7 | Práctica: campañas reales de Javier | resultados.md | Pendiente |
 
 ## Nivel estimado
@@ -25,5 +28,5 @@ Resúmenes de buscador → guia-experto.md, competencia-biblioteca.md.
 | Configurar campañas | 40% | 70% |
 | Leer resultados y corregir | 15% | 60% (teoría completa, falta práctica) |
 | Conocer qué funciona en el negocio de Javier | 5% | 5% |
-| **Total** | **40%** | **~60%** |
+| **Total** | **40%** | **~70%** (tras bloque 5 y Blueprint) |
 Lo que falta para 80%+: resultados reales de 2-3 campañas.

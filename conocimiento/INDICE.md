@@ -20,6 +20,10 @@ Temas (carpetas): `ventas/`, `finanzas/`, `disciplina/`, `marketing/`, `meta-ads
 | meta-ads/oficial-2-estructura-resultados-diagnostico.md | Meta oficial: juntar conjuntos, ubicaciones automáticas, leer resultados, tabla de diagnóstico |
 | meta-ads/oficial-3-objetivos-y-whatsapp.md | Meta oficial: los 6 objetivos, requisitos y paso a paso de anuncios a WhatsApp, buenas prácticas |
 | meta-ads/oficial-4-anuncio-y-publico.md | Meta oficial: imágenes, video, zona segura, público Advantage+ |
+| meta-ads/oficial-5-atribucion-y-promocionar.md | Atribución, promocionar publicación vs Administrador, contradicción entre fuentes y regla a seguir |
+| meta-ads/oficial-6-pruebas-ab-reglas-sin-conversiones.md | Pruebas A/B oficiales, reglas automáticas útiles, qué hacer si Meta prevé cero conversiones |
+| meta-ads/oficial-7-advantage-plus.md | Campañas Advantage+, qué lo apaga, presupuesto de campaña vs conjunto, contenido con IA |
+| meta-ads/kit-whatsapp-don-gencho.md | Textos listos para WhatsApp Business: perfil, catálogo, bienvenida, respuestas rápidas, etiquetas |
 | meta-ads/curso-blueprint-whatsapp-y-pruebas.md | 3 cursos oficiales Meta Blueprint: pruebas de anuncios, WhatsApp Business (catálogo, etiquetas, pedidos), anuncios a WhatsApp y optimización por compras |
 | meta-ads/experto-jon-loomer.md | Principios, lista de revisión, variedad de anuncios, pruebas y fatiga según Jon Loomer |
 | meta-ads/copy-y-ganchos.md | Cómo escribir anuncios: gancho-retener-premio-acción, 8 tipos de gancho, PAS/AIDA, guion de video 15 s |

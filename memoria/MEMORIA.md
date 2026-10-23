@@ -10,4 +10,6 @@ Lo que Linderman ha aprendido de Javier. Una línea por dato, con fecha. Lo más
 - 2026-10-22 · CORRECCIÓN DE JAVIER: no pasarle tareas que yo puedo hacer. Pedirle solo los datos que me faltan y hacerlo yo (buscar, listar, redactar, calcular). A él solo le toca lo que exige su persona: llamar, visitar, cobrar, pagar, autorizar.
 - 2026-10-22 · Javier exige: simple, directo, pocas palabras, cosas reales no generales, experto, proactivo (regla fija en CLAUDE.md).
 - 2026-10-22 · Javier: "tranquilízate". No apurarlo a lanzar/gastar; primero formarme bien como experto en Meta Ads. Proactivo sí, presionar a ejecutar sin que lo pida, no.
+- 2026-10-22 · Javier se molestó: le respondí con tablas de todas las áreas. Enfocarse SOLO en el tema que él dice (ahora: Meta Ads). Nada de resúmenes generales. Hacer, no listar opciones.
+- 2026-10-22 · Meta Ads: estudio a fondo terminado (~72%). Todo en conocimiento/meta-ads/ + habilidad campana-meta-ads. Javier aún NO ha hecho ninguna campaña. Falta: crear cuenta publicitaria en portafolio Don Gencho, tarjeta vigente, conectar WhatsApp Business.
 - 2026-10-22 · Rutinas creadas en claude.ai/code/routines: revisión mañana 6:30 am y noche 8:00 pm (hora Guatemala).

@@ -20,6 +20,16 @@ Cómo revisarla: facebook.com/ads/library → país Guatemala → palabra clave.
 - **GuateHogar / ChapinMall:** precio grande + "pocas unidades" + "envío a toda Guatemala" + WhatsApp/Messenger. Mismo anuncio en varias versiones (prueban).
 - **Mariscos Nava (Tampico, México):** "viernes de mariscos" → día fijo de antojo.
 
+## México: vendedores de camarón por kilo (2026-10-22) – los más parecidos a Javier
+- **Comercializadora de Mariscos (Querétaro):** activo desde **3 jul 2026 (3.5+ meses)**. Ángulo: "precio directo de bodega" ($120/kg camarón cocido), "distribuidores autorizados, sin intermediarios", "rendimiento honesto, sin el hielo oculto que te venden en otros lados", listo para ceviches/tostadas/reuniones. Texto largo que explica POR QUÉ es más barato.
+- **Don Camarón Mariscos (Torreón):** "CAMARÓN JUMBO 21/25 — $205/kg · GRANDE 31/35 — $170/kg", "sin cabeza", "**sin hielo, ¡pagas camarón, no agua!**", mayoreo y menudeo, "**precios especiales para restaurantes y negocios**", dirección con referencias (frente a…), WhatsApp. Otro anuncio: tilapia "100% sin hielo", menudeo vs mayoreo con precio distinto, "aquí pagas por pescado, no por hielo".
+- **Lecciones:**
+  1. **"Sin hielo / pagas camarón, no agua"** se repite en varios vendedores → es el dolor #1 del comprador de mariscos. Usarlo.
+  2. **Talla con número (21/25, 31/35) + precio** = específico (Hopkins) y habla el idioma del comprador de negocio.
+  3. **Precio menudeo y precio mayoreo** en el mismo anuncio → atrae a casas y a negocios a la vez.
+  4. **"Precio de bodega / sin intermediarios"** justifica el precio y da confianza.
+  5. Llamado explícito a **restaurantes y negocios**.
+
 ## Patrón que se repite
 1. Objetivo: mensajes a WhatsApp.
 2. Precio claro en el anuncio.

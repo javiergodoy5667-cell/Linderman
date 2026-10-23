@@ -19,6 +19,9 @@ Base de conocimiento (leer según la tarea): `conocimiento/meta-ads/oficial-1` a
 - Puja: volumen más alto al inicio.
 - **Antes de lanzar a WhatsApp:** WhatsApp Business completo (perfil, horario, catálogo, bienvenida, respuestas rápidas, etiquetas). Etiquetar cada venta que venga de anuncio: con 10 compras registradas se puede optimizar por "compras a través de mensajes" en vez de conversaciones.
 - Prueba mínima oficial: ~US$30 y 7-10 días; prueba A/B: 2 semanas.
+- Pruebas A/B con la herramienta oficial, nunca prendiendo y apagando campañas a mano.
+- Al lanzar, crear 2 reglas automáticas: aviso si costo por conversación supera el tope 3 días seguidos; apagar anuncio que gastó X sin conversaciones.
+- Para negocio local con WhatsApp: Administrador de anuncios (no "Promocionar") para tener medición y pruebas.
 
 ## A. Diseñar una campaña
 1. **Datos del negocio** (de conocimiento/, preguntar solo lo que falte): producto, precio, ganancia por venta, zona, presupuesto, página y WhatsApp.
@@ -45,6 +48,10 @@ Pedir captura con: gasto, impresiones, alcance, CPM, CTR, conversaciones, costo 
 
 ## D. Aprender de cada campaña
 Al cerrar cada campaña anotar en `conocimiento/meta-ads/resultados.md`: fecha, oferta, gasto, conversaciones, pedidos, costo por pedido, qué funcionó, qué no. Actualizar el % de experto en PROGRESO.md.
+
+## OBLIGATORIO al entregar (Javier lo pidió para verificar que aplico lo aprendido)
+Terminar SIEMPRE con una sección corta:
+**Reglas aplicadas:** 3-6 viñetas, cada una con la regla y el archivo de donde sale (ej. "Anuncios nuevos en conjunto aparte → oficial-1").
 
 ## Errores a evitar
 - Muchos conjuntos con poco presupuesto (nunca salen del aprendizaje).
