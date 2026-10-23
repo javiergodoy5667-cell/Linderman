@@ -14,4 +14,7 @@
 | Búsqueda propia | Pendiente: IGSS/pensión en Guatemala, seguros, cooperativas | - |
 | Aplicar a Javier | Falta: gastos personales, deudas, SAT, dueño del capital | guia-experto |
 
-Nivel estimado: ~55%.
+## Ronda intensiva 2 (2026-10-22)
+- Franklin "El camino a la riqueza" completo · Housel-Ferriss parte 2 · Slim 10 principios · SBA flujo de caja oficial · tasa pasiva/real Guatemala · IGSS · cooperativas · matemática del millón.
+
+Nivel estimado: ~68%. Falta: datos reales de Javier (gastos, deudas, SAT) y registro de 1 mes de ventas.

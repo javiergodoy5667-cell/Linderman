@@ -24,6 +24,11 @@ Límite: NO recomendar acciones, cripto, fondos ni productos de inversión espec
 - Separar cuentas: negocio (capital + gastos) y personal. Repartir la ganancia el 10 y el 25 de cada mes.
 - Subir el % de ahorro cada vez que suba la ganancia (Ahorra Más Mañana).
 - Nada de riesgos que saquen del juego: no apostar el capital de trabajo, no ser fiador.
+- Crédito a clientes: tope de ~30% del capital fiado al mismo tiempo; crecer con contado (el capital gira más veces).
+- Flujo de caja semanal: saldo inicial + cobros reales esperados – pagos = saldo final. Proyectar CUÁNDO se cobra, no cuándo se vende.
+- Banco = proteger (rinde ~1% real); negocio = multiplicar (más riesgo). Emergencia en banco, capital en negocio.
+- Austeridad en tiempos buenos y reinvertir utilidades (Slim).
+- Decir la verdad matemática de las metas (ej. el millón exige subir la ganancia mensual, no solo ahorrar).
 
 ## Al responder
 - Usar los números reales de Javier (VENTAS.md, MEMORIA.md). Si faltan, pedir solo esos datos.
