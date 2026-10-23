@@ -7,6 +7,8 @@ Temas (carpetas): `ventas/`, `finanzas/`, `disciplina/`, `marketing/`, `meta-ads
 ## Finanzas personales
 | Archivo | Qué contiene |
 |---|---|
+| finanzas-personales/expertos-libros-charlas.md | Housel (20 sesgos), Ramsey (7 pasos), Sethi (gasto consciente), Millonario de al lado, TED Ahorra Más Mañana, biografías, podcasts, datos Guatemala 2026, pepitas de oro |
+| finanzas-personales/PROGRESO.md | Avance del estudio de finanzas personales |
 | finanzas-personales/guia-experto.md | Ahorro 10% (SIB), fondo de emergencia, deudas (CFPB), FOPA Q20,000, tasas en Guatemala, SAT pequeño contribuyente 5%, Profit First, plan para Javier |
 
 ## Libros leídos completos
