@@ -18,7 +18,7 @@ Foto de estudio con fondo quitado: usar la habilidad **foto-pro** (`foto_estudio
 |---|---|
 | Producto solo, fondo simple, contorno limpio | foto-pro → `foto_estudio.py` |
 | Producto en bolsa, hielo, vidrio, o Javier quiere la foto real | `foto_mejorar.py` (luz, color, nitidez; 1x1 Marketplace, 4x5 feed) |
-| Video para Reels/Historias/anuncio desde fotos | `video_producto.py` formato 9x16 (y 4x5 para feed) |
+| Video para Reels/Historias/anuncio desde fotos | **`video_pro.py`** (estilo marca: estudio oscuro, texto animado, tarjeta final). `video_producto.py` = básico, Javier lo rechazó |
 | Video con voz o clips grabados | Pedir clips a Javier; recortar/unir con FFmpeg; subtítulos: Javier en CapCut/Clipchamp (automáticos) |
 
 ## Pasos video desde fotos
