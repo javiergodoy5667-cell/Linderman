@@ -60,3 +60,5 @@ Trabajo en español, horario de Centroamérica, respuesta rápida. Entregas clar
 - Sobre mí NUEVO: "Ayudo a negocios a vender más y atender mejor a sus clientes usando IA y WhatsApp" + Lic. Administración URL + Sales Agent en Alorica + 4 servicios + cómo trabajo.
 - Historia laboral: Sur Color 01/2019-01/2020 · Nestlé 02/2020-12/2023 (fin puesto por Linderman, confirmar) · Sales Agent Alorica (call center) 01/2024-11/2025 · Comerciante y gestor de proyectos con IA, Independiente (Mariscos Don Gencho) 12/2025-actual.
 - LinkedIn: pestaña sin responder (ventana oculta, viewport 0x0); pendiente.
+- Título Workana (rol personalizado): "Especialista en Automatización con IA y WhatsApp". La línea grande "Freelancer experto en Marketing Digital y Ventas" sale de la categoría (lista fija de Workana; no admite texto libre).
+- LinkedIn: Javier dice que ya lo dejó listo él (2026-10-22).
