@@ -143,6 +143,13 @@ Los 3 pedidos fueron de la misma clienta de Zacapa. El precio Q50 aplica a casi 
 - **Aun pagando Zacapa, noviembre queda corto** salvo que el menudeo local deje ~Q200+ extra (≈12 lb o más con ganancia de Q17/lb menos gasolina). Si no se logra: recortar gastos o ingreso extra temporal; **no tocar el capital**.
 - Hasta el 1 nov no hay ingresos: lo personal tiene que salir de otro lado (ventas ocasionales, ayuda familiar). No pedir prestado a bancos ni prestamistas.
 
+### Gastos personales (23 oct – 5 nov): plan concreto
+- 14 días con Q0 de ingreso. Gasto normal ~Q1,400 → **mínimo de supervivencia ~Q600-700**: comida ~Q35/día (canasta INE ~Q32/día por persona), diésel solo indispensable, el resto se pausa.
+- Fuentes sin capital y sin préstamo: (1) **fletes/mandados con el vehículo** (Marketplace, grupos de Petapa), pago el mismo día; (2) **venta por comisión** (conseguir clientes para Blue Ocean u otro vendedor, Q5-8/lb, sin invertir); (3) vender algo que no use; (4) hermano solo como último recurso y con este plan.
+- Noviembre: **tope de gasto personal Q2,500** (entra ~Q2,800 si Zacapa paga). Sube solo si el menudeo local deja más.
+- Regla: gasto personal solo de ganancia ya cobrada, nunca del capital.
+- Pendiente: desglose de los Q3,000 (comida, diésel, teléfono, servicios, vivienda, gustos, otros) para recortar con precisión.
+
 ### (versión anterior, descartada) Cómo vender sin tener dinero: el cliente pone el capital
 - **Preventa con pago antes de comprar**: el cliente local paga (completo o al menos el costo) → con ese dinero compras en Blue Ocean → entregas ese mismo día o al siguiente.
 - Ejemplo: cliente pide 5 lb de entero a Q50 = Q250. Te paga Q250 antes. Compras a Q33 x 5 = Q165. Te quedan Q85 (menos gasolina).

@@ -45,7 +45,8 @@ Límite: NO recomendar acciones, cripto, fondos ni productos de inversión espec
 5. Escenarios malo / medio / bueno, y planear como si pasara el malo.
 6. Validar demanda sin gastar capital antes de invertir.
 7. **Revisar el efectivo DISPONIBLE HOY y cuándo entra cada peso** (flujo de caja) antes de proponer comprar o gastar. Capital fiado = capital que no existe hasta que se cobra.
-8. Pensar por Javier todas las consecuencias (efectivo, tiempos, riesgos, qué pasa si alguien no paga) sin que él tenga que señalarlas.
+8. **Todo plan incluye SIEMPRE los gastos personales** día a día: cuánto necesita, de dónde sale cada quetzal mientras no hay ingresos, y el tope mensual. Nunca dejarlo como "sale de otro lado".
+9. Pensar por Javier todas las consecuencias (efectivo, tiempos, riesgos, qué pasa si alguien no paga) sin que él tenga que señalarlas.
 
 ## Al responder
 - Usar los números reales de Javier (VENTAS.md, MEMORIA.md). Si faltan, pedir solo esos datos.
