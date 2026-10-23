@@ -139,7 +139,8 @@ Los 3 pedidos fueron de la misma clienta de Zacapa. El precio Q50 aplica a casi 
 
 ### Etapa A (23 oct – 5 nov): sin dinero, construir pedidos
 - No se compra nada. Se usan estas 2 semanas para **juntar pedidos apartados** (pago contra entrega) para entregar del **6 al 8 de noviembre**.
-- Canales gratis: estados de WhatsApp diarios, mensajes uno por uno a 30 contactos, grupos de Facebook de Petapa/Villa Nueva, Marketplace, página.
+- Canales gratis: estados de WhatsApp diarios, mensajes uno por uno a 30 contactos, página Don Gencho. **NO Marketplace para mariscos**: Facebook rechazó la publicación de pescado (13 oct) por "venta de animales y productos de origen animal"; repetir arriesga la cuenta. Grupos de compra-venta: con cuidado (mismas reglas de comercio). Los anuncios pagados sí permiten alimentos.
+- Dato útil: la publicación de pescado tuvo **621 clics** antes del rechazo → hay demanda.
 - Mensaje: "Del 6 al 8 de noviembre entrego camarón calidad exportación, sin hielo, a Q50 la libra en Petapa y Villa Nueva. Pagas cuando recibes. ¿Cuántas libras te aparto?"
 - Lista con: nombre, libras, producto, dirección, fecha. **Meta: 60 lb apartadas.**
 - Configurar WhatsApp Business gratis (kit listo en conocimiento/meta-ads/kit-whatsapp-don-gencho.md).
