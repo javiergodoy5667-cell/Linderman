@@ -11,7 +11,7 @@ Registro: `ventas/PROSPECTOS.md` y `finanzas/VENTAS.md`.
 ## Reglas fijas
 - Linderman redacta; Javier publica y envía (Linderman no manda mensajes ni publica sin su OK).
 - Efectivo contra entrega, sin crédito; no prometer stock/precio/fecha sin confirmar. Sin cuenta bancaria → no ofrecer transferencia.
-- Mariscos crudos PROHIBIDOS en Marketplace y grupos de compra-venta (reglas de Meta: productos animales para consumo). Venderlos por WhatsApp, página/Instagram/TikTok, anuncios y en persona.
+- Mariscos: PROHIBIDOS en Marketplace y grupos de compra-venta (reglas de comercio de Meta); PERMITIDOS en anuncios pagados (norma de anuncios de Meta lo dice explícito) y en publicaciones de la página/Instagram/TikTok. No armar publicaciones disfrazadas para burlar el filtro (riesgo: perder Marketplace para todo lo demás). Ver conocimiento/ventas-canales/4.
 - Nada inventado: ni escasez, ni testimonios, ni cifras.
 
 ## Método para cualquier venta
@@ -30,3 +30,4 @@ Registro: `ventas/PROSPECTOS.md` y `finanzas/VENTAS.md`.
 - Marketplace rechazó mariscos (13-oct-2026): no reintentar; arriesga la cuenta.
 - TikTok Shop e Instagram Shopping no están habilitados en Guatemala (2026): vender con contenido → WhatsApp.
 - Publicar el mismo texto en muchos grupos seguido = spam; cambiar redacción y espaciar 5-7 días.
+- Datos que sí tienen estudio (archivo 4): referidos valen 16-25% más; 5 reseñas = 270% más compra y 4.2-4.5 estrellas vende más que 5.0; precio en 9 solo si cambia el primer número (Q49 vs Q50); vendedor que escucha (ambivertido) vende 24-32% más.

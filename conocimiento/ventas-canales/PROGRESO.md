@@ -1,7 +1,7 @@
 # Progreso: experto en ventas (todos los canales)
 Base de cierre y métodos: `conocimiento/ventas-whatsapp/`.
 
-## Ronda 1 (2026-10-23) · nivel ~70%
+## Ronda 1 ~70% · Ronda 2 (2026-10-23) ~80%: reglas oficiales mariscos en Facebook, estudios académicos, Google Maps, servicios (archivo 4)
 | # | Fuente | Archivo | Estado |
 |---|---|---|---|
 | 1 | Oficial: WhatsApp (completa), reglas de comercio de Meta sobre animales (vía prensa), TikTok guidelines (vía prensa) | 1 | Hecho; falta leer reglas de comercio de Meta directo |
