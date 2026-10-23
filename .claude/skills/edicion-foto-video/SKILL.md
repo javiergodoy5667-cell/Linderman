@@ -81,3 +81,8 @@ Para que Javier grabe: mandarle la lista de tomas y los 7 pasos de grabación de
 Poner cada efecto en el segundo exacto del movimiento del diseño. Con música: baja sola cuando hay voz. Sale a -14 LUFS, picos < -1 dB.
 Linderman NO puede escuchar: medir con `ffmpeg -af ebur128=peak=true` y pedir a Javier que lo oiga.
 Principios de diseño antes de cada pieza: jerarquía (qué se ve 1.º/2.º/3.º), 60-30-10 con paleta del producto, alineación a cuadrícula, cada transición con razón (match, J/L, smash, whip).
+
+## Clips reales del teléfono (ronda 5) — ver conocimiento 9
+Orden: `limpiar_clip.py` (estabiliza, corta pausas por palabras, limpia audio, color suave; opciones --sin-estabilizar --sin-cortes --pausa=0.45) → `subtitulos.py` → diseño `render_html.py` → `sonido.py`.
+Si la persona sale en cuadro: que mire/señale el producto (la mirada guía la atención). Guion con la espina de la historia o gancho-problema-solución-prueba-CTA.
+Error encontrado: cortar por "silencio" no sirve con ruido de fondo → se corta donde no hay palabras (Whisper "base").

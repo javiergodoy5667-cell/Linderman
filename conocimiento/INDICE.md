@@ -73,3 +73,4 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 | edicion-foto-video/6-formatos-animacion-letra-color-sonido.md | Ronda 2: qué formato de anuncio gana (Motion 2026), 12 principios de animación, letra, color, sonido, subtítulos estilo Hormozi |
 | edicion-foto-video/7-grabar-componer-guion-meta-ia.md | Ronda 3: grabar con teléfono, lista de tomas, composición, guion de anuncio, mariscos, portadas de Reels, qué apagar de la IA de Meta, estilos de video_pro |
 | edicion-foto-video/8-diseno-cortes-retoque-mezcla-recursos.md | Ronda 4: principios de diseño gráfico, color 60-30-10, tipos de corte y cuándo, retoque profesional, mezcla y ducking, recursos con licencia, lecciones de Cannes Lions |
+| edicion-foto-video/9-clips-reales-ia-narrativa-atencion.md | Ronda 5: flujo para clips del teléfono (estabilizar, cortar pausas, limpiar audio), cambios de velocidad, hacia dónde mira la gente, espina de la historia, video con IA 2026 |

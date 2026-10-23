@@ -1,6 +1,6 @@
 # Progreso: experto en edición de foto y video
 
-## Ronda 1 (2026-10-23) ~65% · Ronda 2 ~75% · Ronda 3 ~82% · Ronda 4 (2026-10-23) ~87%: diseño gráfico, cortes, retoque, mezcla, licencias, premiados, sonido.py (archivo 8): grabación, composición, guion, mariscos, portadas, Advantage+, estilos (archivo 7): formatos Motion, animación, letra, color, sonido, subtítulos automáticos (archivo 6, subtitulos.py)
+## Ronda 1 (2026-10-23) ~65% · Ronda 2 ~75% · Ronda 3 ~82% · Ronda 4 ~87% · Ronda 5 (2026-10-23) ~90%: clips reales (limpiar_clip.py), velocidad, atención, narrativa, video IA (archivo 9): diseño gráfico, cortes, retoque, mezcla, licencias, premiados, sonido.py (archivo 8): grabación, composición, guion, mariscos, portadas, Advantage+, estilos (archivo 7): formatos Motion, animación, letra, color, sonido, subtítulos automáticos (archivo 6, subtitulos.py)
 | # | Fuente | Archivo | Estado |
 |---|---|---|---|
 | 1 | Oficial: Meta (medidas, zona segura, ver sin sonido), Blackmagic | 2-video-corto, 3-herramientas | Hecho (Meta vía estudio anterior; página oficial no cargó hoy) |
