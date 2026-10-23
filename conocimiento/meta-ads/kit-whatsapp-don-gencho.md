@@ -14,7 +14,7 @@
 - Descripción: Camarón calidad exportación y tilapia fresca de Zacapa. A domicilio en Petapa, Villa Nueva y zonas 11-12. Pedido mínimo 3 lb.
 - Horario: (confirmar con Javier)
 
-## Catálogo (precios de conocimiento/ventas/precios.md – confirmar)
+## Catálogo — OJO: las reglas de comercio de Meta prohíben animales/productos animales en el catálogo de WhatsApp. NO subir mariscos al catálogo; mandar esta lista como respuesta rápida o imagen.
 | Producto | Precio/lb |
 |---|---|
 | Camarón PYD (pelado y desvenado) | Q52 |

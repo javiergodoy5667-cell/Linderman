@@ -97,3 +97,4 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 | ventas-canales/3-guiones-por-canal.md | Textos listos: Marketplace, grupos, Instagram/TikTok (serie de videos), restaurante en persona, organizadores de eventos, servicio IA |
 | ventas-canales/PROGRESO.md | Avance (~70%) y qué falta |
 | ventas-canales/4-ronda2-estudios-y-mariscos-en-facebook.md | Mariscos en Facebook: qué sí (anuncios, página) y qué no (Marketplace, grupos de venta) según reglas oficiales; estudios de referidos, reseñas, precios en 9, ambivertidos; Google Maps; precios de servicios; cursos y expertos en español |
+| ventas-canales/5-ronda-final-ley-negociacion-examen.md | Reglas de comercio de Meta leídas directo (incluye catálogo de WhatsApp), Ley del Consumidor artículo por artículo, datos de Gong, negociación con estudios, pre-suasión, HubSpot, examen: plan completo de renta de la planta |

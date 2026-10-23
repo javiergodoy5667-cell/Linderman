@@ -31,3 +31,9 @@ Registro: `ventas/PROSPECTOS.md` y `finanzas/VENTAS.md`.
 - TikTok Shop e Instagram Shopping no están habilitados en Guatemala (2026): vender con contenido → WhatsApp.
 - Publicar el mismo texto en muchos grupos seguido = spam; cambiar redacción y espaciar 5-7 días.
 - Datos que sí tienen estudio (archivo 4): referidos valen 16-25% más; 5 reseñas = 270% más compra y 4.2-4.5 estrellas vende más que 5.0; precio en 9 solo si cambia el primer número (Q49 vs Q50); vendedor que escucha (ambivertido) vende 24-32% más.
+
+## Reglas oficiales y ley (ronda final) — ver conocimiento/ventas-canales/5
+- Las reglas de comercio de Meta aplican a Marketplace, tiendas Y al CATÁLOGO de WhatsApp Business: no subir mariscos al catálogo (mandar precios en el chat). Falsificaciones prohibidas → probar originalidad (gorra).
+- Ley 6-2003: decir "usado/defecto" antes de vender (art. 21); "garantía" solo explicada (art. 22); toda oferta con fecha (art. 24); cumplir lo ofrecido (art. 25); reclamos de perecederos 7 días (art. 74).
+- Negociación: Javier pone el precio primero y exacto (Q595, Q985), justificado; escuchar más que hablar (~57% el cliente).
+- Plan modelo completo: examen de la planta eléctrica (archivo 5, sección 6).

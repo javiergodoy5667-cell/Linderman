@@ -36,4 +36,5 @@ Chats nuevos → cotizados → apartados → entregados → recompras. Tiempo de
 
 ## Errores encontrados
 - Respuestas rápidas viejas ofrecían "transferencia" y precios desactualizados → corregido en archivo 3.
+- Catálogo de WhatsApp también cae bajo las reglas de comercio de Meta: el camarón NO va en el catálogo (corregido 2026-10-23).
 - "80% de ventas necesitan 5 seguimientos" no tiene estudio: usar como regla, no como dato.
