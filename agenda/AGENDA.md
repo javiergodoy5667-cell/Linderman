@@ -5,7 +5,6 @@ Citas, reuniones y tareas con fecha. Hora de Guatemala. Ordenado por fecha; lo p
 ## Próximo
 | Fecha | Hora | Qué | Notas |
 |---|---|---|---|
-| 2026-10-22 | Hoy | Escribirles a Los Chatitos (4066-9150) y Mi Ranchito (4403-1227); mandar mensaje por Facebook a Camarón Feliz, Los Chevis y El Remo | Lista y mensaje en conocimiento/ventas/clientes-potenciales.md |
 | 2026-10-24 | Sábado | Visitar en persona: Mar Azul (Centro YAYA), La Azotea (Av. Petapa), Antojitos del Mar (Mercado Concepción) | Llevar precios y una muestra si se puede |
 | 2026-10-23 | 23 oct-5 nov | Juntar pedidos apartados (pago contra entrega) para entregar 6-8 nov. Meta 60 lb. Estados WhatsApp diarios + 30 contactos + grupos FB + Marketplace | Sin dinero: no se compra hasta noviembre |
 | 2026-10-25 | Sábado | Configurar WhatsApp Business gratis (kit listo) | |
@@ -19,4 +18,6 @@ Citas, reuniones y tareas con fecha. Hora de Guatemala. Ordenado por fecha; lo p
 - 2026-10-21 · Entregó 280 lb de camarón surtido a crédito (15 días) a su cliente actual.
 
 ## No se hizo (reprogramar)
-(nada todavía)
+| Fecha original | Qué | Nueva fecha propuesta |
+|---|---|---|
+| 2026-10-22 | Escribirles a Los Chatitos (4066-9150) y Mi Ranchito (4403-1227); mensaje por Facebook a Camarón Feliz, Los Chevis y El Remo (sin confirmar que se hizo) | 2026-10-23 antes del mediodía |
