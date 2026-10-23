@@ -75,3 +75,9 @@ Principios fijos: suavizado (nada lineal), escalonado 0.1-0.15 s, una protagonis
 premium = oscuro/dorado/lento · catalogo = claro/azul/datos técnicos · oferta = rojo/amarillo/rápido con rebote.
 Etiquetas largas se achican solas. Antes de publicar un anuncio: apagar en Meta las "mejoras de texto", música automática y superposiciones.
 Para que Javier grabe: mandarle la lista de tomas y los 7 pasos de grabación de conocimiento 7.
+
+## Sonido (ronda 4) — ver conocimiento 8
+`python -I sonido.py <video> <salida> "<t:efecto,...>" [musica|-] [vol_musica]` · efectos: golpe, bajo, whoosh, campana, clic, ding, subida (sintetizados, sin derechos).
+Poner cada efecto en el segundo exacto del movimiento del diseño. Con música: baja sola cuando hay voz. Sale a -14 LUFS, picos < -1 dB.
+Linderman NO puede escuchar: medir con `ffmpeg -af ebur128=peak=true` y pedir a Javier que lo oiga.
+Principios de diseño antes de cada pieza: jerarquía (qué se ve 1.º/2.º/3.º), 60-30-10 con paleta del producto, alineación a cuadrícula, cada transición con razón (match, J/L, smash, whip).
