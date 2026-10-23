@@ -36,3 +36,9 @@ Ritmo: 3 publicaciones por semana (lun-mié-vie). Formato: historia real + lecci
 - Banner de LinkedIn con frase de posicionamiento (Canva).
 - Activar "Open to work" (freelance/remoto) y sección "Services" en LinkedIn: lo decide Javier.
 - Primer caso real con números → cambia todo el perfil.
+
+## Avance 2026-10-22 (noche)
+- Workana: ChatGPT reemplazado por "Natural Language Processing" (habilidades: IA, Chatbot, NLP).
+- LinkedIn: sección de Servicios publicada (IT Consulting, Business Consulting, Digital Marketing), remoto, precio "a consultar", mensajes abiertos (Open Profile).
+- Upwork (perfil existente ~01dfb3e12243627f56): título "AI Automation Consultant | AI Agents, LLMs & WhatsApp Chatbots", overview en inglés, US$15/h, 7 habilidades IA (AI Agent Development, n8n, LLM, Chatbot Development, AI Automation, WhatsApp, Prompt Engineering), inglés = Conversational.
+- Upwork NO hecho: foto (Upwork prohíbe fotos alteradas; se dejó la real), "Open for work" (cuesta 14 connects/semana, tiene 0), educación URL y experiencia (pendiente), verificar identidad (lo hace Javier).
