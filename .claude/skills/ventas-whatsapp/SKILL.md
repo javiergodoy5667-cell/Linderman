@@ -5,10 +5,13 @@ description: Experto en vender y cerrar por WhatsApp (mariscos, renta de planta 
 
 # Ventas y cierre por WhatsApp
 
+> **ALCANCE (regla de Javier, 2026-10-23): conocimiento GENERAL de experto.** Sirve para cualquier producto, servicio, negocio, campaña o publicación nueva, hoy o en el futuro. Los mariscos, la sierra, la planta, etc. son solo EJEMPLOS de aplicación; las reglas del negocio actual de Javier (pago contra entrega, sin cuenta bancaria, precios) están marcadas como tales y cambian con el tiempo.
+
+
 Conocimiento: `conocimiento/ventas-whatsapp/` (1 reglas/ley/datos, 2 métodos de expertos, 3 guiones de Javier, 4 pepitas).
 Registro: `ventas/PROSPECTOS.md` (seguimiento) y `finanzas/VENTAS.md` (ventas cerradas).
 
-## Reglas fijas (no se rompen)
+## Reglas del negocio ACTUAL de Javier (revisar si cambian)
 - Linderman NO manda mensajes: redacta el texto exacto y Javier lo envía.
 - Efectivo contra entrega; nadie paga antes. Sin cuenta bancaria → no ofrecer transferencia (hasta que Javier abra Zigi/Tigo Money o cuenta).
 - No prometer producto, precio, talla ni fecha sin confirmar con Javier (efectivo hoy, próxima compra, precio del día).

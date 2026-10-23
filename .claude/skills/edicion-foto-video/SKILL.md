@@ -5,6 +5,9 @@ description: Experto en edición de foto y video para vender: mejorar fotos orig
 
 # Edición de foto y video
 
+> **ALCANCE (regla de Javier, 2026-10-23): conocimiento GENERAL de experto.** Sirve para cualquier producto, servicio, negocio, campaña o publicación nueva, hoy o en el futuro. Los mariscos, la sierra, la planta, etc. son solo EJEMPLOS de aplicación; las reglas del negocio actual de Javier (pago contra entrega, sin cuenta bancaria, precios) están marcadas como tales y cambian con el tiempo.
+
+
 ## LO PRIMERO (orden de Javier, 2026-10-23): editor experto SIN LÍMITES, nunca plantillas
 Cada pieza se diseña DESDE CERO. Los estilos y scripts de abajo son herramientas o ejemplos, NO un menú para escoger.
 Método de cada trabajo:

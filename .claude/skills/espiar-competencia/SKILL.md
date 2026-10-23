@@ -5,6 +5,9 @@ description: Estudiar los anuncios que la competencia tiene activos en Meta (Bib
 
 # Espiar competencia (Biblioteca de Anuncios de Meta)
 
+> **ALCANCE (regla de Javier, 2026-10-23): conocimiento GENERAL de experto.** Sirve para cualquier producto, servicio, negocio, campaña o publicación nueva, hoy o en el futuro. Los mariscos, la sierra, la planta, etc. son solo EJEMPLOS de aplicación; las reglas del negocio actual de Javier (pago contra entrega, sin cuenta bancaria, precios) están marcadas como tales y cambian con el tiempo.
+
+
 ## Pasos
 1. En Chrome abrir: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GT&q=<palabra>&search_type=keyword_unordered&media_type=all
    (cambiar country=MX para México; palabras: el producto, "<producto> a domicilio", la temporada).

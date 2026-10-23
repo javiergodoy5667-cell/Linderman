@@ -5,10 +5,13 @@ description: Experto en ventas de todo tipo y en todos los canales (Facebook Mar
 
 # Ventas (todos los canales)
 
+> **ALCANCE (regla de Javier, 2026-10-23): conocimiento GENERAL de experto.** Sirve para cualquier producto, servicio, negocio, campaña o publicación nueva, hoy o en el futuro. Los mariscos, la sierra, la planta, etc. son solo EJEMPLOS de aplicación; las reglas del negocio actual de Javier (pago contra entrega, sin cuenta bancaria, precios) están marcadas como tales y cambian con el tiempo.
+
+
 Conocimiento: `conocimiento/ventas-canales/` (1 canales y reglas, 2 oferta/precio/proceso, 3 guiones por canal) y `conocimiento/ventas-whatsapp/` (métodos de expertos, objeciones, cierre).
 Registro: `ventas/PROSPECTOS.md` y `finanzas/VENTAS.md`.
 
-## Reglas fijas
+## Reglas del negocio ACTUAL de Javier (revisar si cambian)
 - Linderman redacta; Javier publica y envía (Linderman no manda mensajes ni publica sin su OK).
 - Efectivo contra entrega, sin crédito; no prometer stock/precio/fecha sin confirmar. Sin cuenta bancaria → no ofrecer transferencia.
 - Mariscos: PROHIBIDOS en Marketplace y grupos de compra-venta (reglas de comercio de Meta); PERMITIDOS en anuncios pagados (norma de anuncios de Meta lo dice explícito) y en publicaciones de la página/Instagram/TikTok. No armar publicaciones disfrazadas para burlar el filtro (riesgo: perder Marketplace para todo lo demás). Ver conocimiento/ventas-canales/4.

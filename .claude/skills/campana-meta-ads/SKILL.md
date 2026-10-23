@@ -5,6 +5,9 @@ description: Experto en Meta Ads. Diseñar, lanzar, leer resultados y mejorar ca
 
 # Campañas de Meta Ads
 
+> **ALCANCE (regla de Javier, 2026-10-23): conocimiento GENERAL de experto.** Sirve para cualquier producto, servicio, negocio, campaña o publicación nueva, hoy o en el futuro. Los mariscos, la sierra, la planta, etc. son solo EJEMPLOS de aplicación; las reglas del negocio actual de Javier (pago contra entrega, sin cuenta bancaria, precios) están marcadas como tales y cambian con el tiempo.
+
+
 Base de conocimiento (leer según la tarea): `conocimiento/meta-ads/oficial-1` a `oficial-4` (Meta oficial), `experto-jon-loomer.md`, `copy-y-ganchos.md`, `competencia-biblioteca.md`, `guia-experto.md`.
 
 ## Reglas de oro (estudio a fondo 2026-10-22)

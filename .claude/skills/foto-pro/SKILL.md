@@ -5,6 +5,9 @@ description: Convertir fotos de producto de Javier en fotos profesionales (sin f
 
 # Fotos profesionales de producto
 
+> **ALCANCE (regla de Javier, 2026-10-23): conocimiento GENERAL de experto.** Sirve para cualquier producto, servicio, negocio, campaña o publicación nueva, hoy o en el futuro. Los mariscos, la sierra, la planta, etc. son solo EJEMPLOS de aplicación; las reglas del negocio actual de Javier (pago contra entrega, sin cuenta bancaria, precios) están marcadas como tales y cambian con el tiempo.
+
+
 ## ESTILO OBLIGATORIO (corrección de Javier, 2026-10-23)
 Javier rechazó el diseño con franjas, etiqueta roja de precio y texto encima: "cosas de aficionados".
 Lo profesional = **foto de estudio**: producto solo, recortado, fondo gris claro o blanco liso, sombra natural, SIN texto. Precio y contacto van en la descripción.

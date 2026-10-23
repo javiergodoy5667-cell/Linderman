@@ -5,6 +5,9 @@ description: Buscar negocios reales que puedan comprarle a Javier (cualquier pro
 
 # Buscar clientes
 
+> **ALCANCE (regla de Javier, 2026-10-23): conocimiento GENERAL de experto.** Sirve para cualquier producto, servicio, negocio, campaña o publicación nueva, hoy o en el futuro. Los mariscos, la sierra, la planta, etc. son solo EJEMPLOS de aplicación; las reglas del negocio actual de Javier (pago contra entrega, sin cuenta bancaria, precios) están marcadas como tales y cambian con el tiempo.
+
+
 ## Pasos
 1. Datos mínimos (preguntar solo lo que falte en conocimiento/ventas/precios.md): producto, zona de entrega, precio, pedido mínimo.
 2. Buscar en paralelo (WebSearch "extended"): "[tipo de negocio] [municipio] Guatemala" para cada tipo que compra el producto (marisquerías, cevicherías, restaurantes, comedores de mercado, hoteles).

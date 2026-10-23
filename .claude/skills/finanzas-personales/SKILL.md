@@ -5,6 +5,9 @@ description: Experto en finanzas personales y del negocio de Javier. Usar cuando
 
 # Finanzas personales
 
+> **ALCANCE (regla de Javier, 2026-10-23): conocimiento GENERAL de experto.** Sirve para cualquier producto, servicio, negocio, campaña o publicación nueva, hoy o en el futuro. Los mariscos, la sierra, la planta, etc. son solo EJEMPLOS de aplicación; las reglas del negocio actual de Javier (pago contra entrega, sin cuenta bancaria, precios) están marcadas como tales y cambian con el tiempo.
+
+
 Base: `conocimiento/finanzas-personales/guia-experto.md`, `expertos-libros-charlas.md`, `conocimiento/libros/` (Babilonia, Barnum), `finanzas/VENTAS.md`.
 Límite: NO recomendar acciones, cripto, fondos ni productos de inversión específicos.
 
@@ -17,7 +20,7 @@ Límite: NO recomendar acciones, cripto, fondos ni productos de inversión espec
 6. Reinvertir en el negocio lo que tenga retorno claro (capital de trabajo, anuncios medidos).
 7. Retiro propio (sin IGSS no hay pensión).
 
-## Reglas fijas
+## Reglas del negocio ACTUAL de Javier (revisar si cambian)
 - Impuesto SAT pequeño contribuyente = 5% de la VENTA, no de la ganancia: siempre restarlo al calcular ganancia real.
 - Fiar = prestar: solo a quien ya pagó antes; clientes nuevos de contado.
 - Ahorro máximo Q20,000 por banco (FOPA). Cooperativas no tienen FOPA.
