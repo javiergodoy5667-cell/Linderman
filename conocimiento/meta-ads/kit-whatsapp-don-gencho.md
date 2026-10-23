@@ -30,9 +30,9 @@ Colecciones: Camarón · Tilapia · Combos.
 ¡Hola! Ahorita estamos en entregas. Te respondemos en cuanto lleguemos. Déjanos qué producto y cuántas libras necesitas 🦐
 
 ## Respuestas rápidas
-- /precios → PYD Q52 · Cola Q45 · Entero Q43 la libra. Pedido mínimo 3 lb.
+- /precios → [ACTUALIZAR al precio del día antes de usar; Q52/Q45/Q43 son viejos] Pedido mínimo 3 lb.
 - /zonas → Entregamos en San Miguel Petapa, Villa Nueva y zonas 11 y 12. Pedidos grandes: capital y Zacapa.
-- /pago → Efectivo contra entrega o transferencia.
+- /pago → Efectivo al recibir: usted revisa el producto y paga. (Sin transferencia hasta tener cuenta.)
 - /entrega → Pide hoy y te entregamos mañana. ¿Me das tu dirección?
 - /calidad → Calidad exportación, pesado sin hielo.
 

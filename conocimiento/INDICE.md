@@ -79,3 +79,12 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 | edicion-foto-video/11-oficial-meta-luz-retrato-letra-derechos-examen.md | Ronda final: medidas oficiales de Meta (leídas directo), luz en casa, foto de marca personal, combinar letras, miniaturas, derechos y famosos en anuncios, examen final aprobado |
 | edicion-foto-video/12-higgsfield.md | Higgsfield a fondo: modelos que usa, 65 movimientos de cámara y cuándo usarlos, método oficial de instrucciones, fundador y cifras, precios y quejas, cómo lo replico gratis (camara.py) |
 | edicion-foto-video/13-lo-que-faltaba-3d-ia-atravesar.md | Cómo logré lo que faltaba: foto→3D gratis en Hugging Face, video 360°, atravesar objetos, video IA gratis por día, avatares y reglas de Meta, pasos para Javier |
+
+## Ventas por WhatsApp
+| Archivo | Qué contiene |
+|---|---|
+| ventas-whatsapp/1-oficial-reglas-ley-datos.md | Política oficial de WhatsApp (qué se puede vender, reglas de mensajes), herramientas de WhatsApp Business, Ley del Consumidor GT, datos: velocidad de respuesta, efectivo 93.8% |
+| ventas-whatsapp/2-metodos-expertos-libros.md | Atkinson 1912, SPIN, Chris Voss, Hormozi CLOSER y $100M Leads, Cialdini, señuelo de precios, Girard, Ziglar, Blount; podcasts |
+| ventas-whatsapp/3-guiones-javier.md | Guiones listos: mariscos, renta de planta, Marketplace, servicio IA; tabla de objeciones; seguimiento; reactivar conocidos |
+| ventas-whatsapp/4-pepitas-de-oro.md | 15 reglas clave para vender por chat |
+| ventas-whatsapp/PROGRESO.md | Avance (~70%) y qué falta |
