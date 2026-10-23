@@ -4,6 +4,11 @@ Cada archivo de esta carpeta con una línea que diga qué contiene. Linderman le
 
 Temas (carpetas): `ventas/`, `finanzas/`, `disciplina/`, `marketing/`, `meta-ads/`, `marca-personal/`, `libros/`.
 
+## Finanzas personales
+| Archivo | Qué contiene |
+|---|---|
+| finanzas-personales/guia-experto.md | Ahorro 10% (SIB), fondo de emergencia, deudas (CFPB), FOPA Q20,000, tasas en Guatemala, SAT pequeño contribuyente 5%, Profit First, plan para Javier |
+
 ## Libros leídos completos
 | Archivo | Qué contiene |
 |---|---|
