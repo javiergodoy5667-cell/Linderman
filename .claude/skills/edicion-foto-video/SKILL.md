@@ -5,6 +5,16 @@ description: Experto en edición de foto y video para vender: mejorar fotos orig
 
 # Edición de foto y video
 
+## LO PRIMERO (orden de Javier, 2026-10-23): editor experto SIN LÍMITES, nunca plantillas
+Cada pieza se diseña DESDE CERO. Los estilos y scripts de abajo son herramientas o ejemplos, NO un menú para escoger.
+Método de cada trabajo:
+1. **Dirección de arte (3-5 líneas antes de tocar nada):** quién compra y qué siente; dónde se ve; un CONCEPTO (ej. gorra de boxeo → "cartel de pelea": ring, reflector, campana, estrellas de la gorra); paleta sacada del producto (`recortar.py` da sus colores); tipo de letra con personalidad (Google Fonts); ritmo y movimiento; sonido.
+2. **Diseñar libre en HTML/CSS/JS** (capas, máscaras, degradados, 3D CSS, partículas, canvas) con `window.frame(t)` y `window.DURACION`, y convertir con `render_html.py` a MP4 (o PNG para foto/portada/carrusel). Cualquier cosa que haga un diseñador web/motion se puede.
+3. Productos recortados en PNG con `recortar.py`.
+4. Revisar cuadros sueltos con Read; corregir encimados, zona segura (texto y botones arriba del 65% de la altura), legibilidad.
+5. Guardar el HTML fuente en `Escritorio\Fotos Marketplace PRO\Videos\disenos\` (se puede reusar la TÉCNICA, nunca el diseño igual para otro producto).
+Ejemplo hecho: `gorra_pelea.mp4` (cartel de pelea; fuente en disenos/gorra.html).
+
 Conocimiento: `conocimiento/edicion-foto-video/` (1 foto, 2 video corto, 3 herramientas, 4 expertos, 5 pepitas).
 Foto de estudio con fondo quitado: usar la habilidad **foto-pro** (`foto_estudio.py`).
 
@@ -46,7 +56,7 @@ Foto de estudio con fondo quitado: usar la habilidad **foto-pro** (`foto_estudio
 1. **Quién compra** (mecánico, coleccionista, ama de casa, restaurante) y qué le importa.
 2. **Dónde se ve** (Marketplace, Reels, Historias, feed, estado de WhatsApp) y si es anuncio o publicación.
 3. **Qué estilo, ritmo, color, letra y música** van con eso, y por qué.
-Estilos de base (mezclar y adaptar; nunca repetir igual dos productos seguidos):
+Ejemplos de dirección (inspiración, NO menú; cada pieza lleva su propio concepto):
 | Estilo | Para qué | Rasgos |
 |---|---|---|
 | Premium oscuro | Coleccionables, herramientas de marca | Fondo carbón, acento dorado, texto que sube, lento |
