@@ -12,4 +12,6 @@ Lo que Linderman ha aprendido de Javier. Una línea por dato, con fecha. Lo más
 - 2026-10-22 · Javier: "tranquilízate". No apurarlo a lanzar/gastar; primero formarme bien como experto en Meta Ads. Proactivo sí, presionar a ejecutar sin que lo pida, no.
 - 2026-10-22 · Javier se molestó: le respondí con tablas de todas las áreas. Enfocarse SOLO en el tema que él dice (ahora: Meta Ads). Nada de resúmenes generales. Hacer, no listar opciones.
 - 2026-10-22 · Meta Ads: estudio a fondo terminado (~72%). Todo en conocimiento/meta-ads/ + habilidad campana-meta-ads. Javier aún NO ha hecho ninguna campaña. Falta: crear cuenta publicitaria en portafolio Don Gencho, tarjeta vigente, conectar WhatsApp Business.
+- 2026-10-22 · SITUACIÓN FINANCIERA (ver finanzas/PLAN-RESCATE.md): deuda bancaria ~Q300k en mora desde enero; capital Q10k (de su hermano, antes Q30k; le debe Q20k); clienta le debe Q10k hace 5 meses; gastos personales ~Q3k/mes; sin SAT, sin cuenta bancaria, sin IGSS ni seguros. Proveedor: Blue Ocean (capital), contado. Costos: PYD Q43, cola Q35, entero Q33. Viaje ~Q500. Congelador 2 qq y vehículo propio.
+- 2026-10-22 · Prioridad #1 de Javier: recuperar el capital perdido. Plan: cobrar, cero crédito, más libras por viaje, efectivo semanal fijo.
 - 2026-10-22 · Rutinas creadas en claude.ai/code/routines: revisión mañana 6:30 am y noche 8:00 pm (hora Guatemala).
