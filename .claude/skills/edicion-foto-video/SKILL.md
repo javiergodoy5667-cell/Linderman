@@ -40,3 +40,18 @@ Foto de estudio con fondo quitado: usar la habilidad **foto-pro** (`foto_estudio
 - Zoom que tiembla: se trabaja la imagen al doble de tamaño antes del zoom.
 - Recorte de fondo falla con bolsas transparentes → usar `foto_mejorar.py`.
 - La página oficial de Meta (Ads Guide) no cargó con Chrome automatizado; medidas tomadas del estudio anterior de meta-ads.
+
+## REGLA DE JAVIER (2026-10-23): editor experto, NO plantilla
+`video_pro.py` es UN estilo (le gustó), no el estilo de todo. Antes de editar, decidir en 3 líneas:
+1. **Quién compra** (mecánico, coleccionista, ama de casa, restaurante) y qué le importa.
+2. **Dónde se ve** (Marketplace, Reels, Historias, feed, estado de WhatsApp) y si es anuncio o publicación.
+3. **Qué estilo, ritmo, color, letra y música** van con eso, y por qué.
+Estilos de base (mezclar y adaptar; nunca repetir igual dos productos seguidos):
+| Estilo | Para qué | Rasgos |
+|---|---|---|
+| Premium oscuro | Coleccionables, herramientas de marca | Fondo carbón, acento dorado, texto que sube, lento |
+| Catálogo claro | Repuestos, varios productos, mayoreo | Fondo blanco/gris, datos técnicos (compatibilidad, número de parte), tarjetas |
+| Casero creíble (UGC) | Anuncios Meta, mariscos | Clip real del teléfono, subtítulos grandes palabra por palabra, cortes cada 1-2 s, voz |
+| Urgencia/oferta | Liquidar, rebajas | Ritmo rápido, precio antes/después, color fuerte |
+| Demostración | Herramientas, equipos (planta eléctrica) | Producto funcionando, sonido real, pasos 1-2-3 |
+Cada estilo nuevo que funcione se guarda como script o parámetro aquí.
