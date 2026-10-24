@@ -21,3 +21,4 @@ Hay varias tallas de camarón; estos son los últimos tres que vendió.
 
 ## Precio de mercado tilapia (referencia, no es precio de Javier)
 - 2026-10-23 · MAGA, La Terminal z4, mayorista por quintal: grande Q1,150 y mediana Q1,000 (28 sep-2 oct); grande Q1,120, mediana y pequeña Q1,000 (5-9 oct); grande Q1,130 el 19 oct (-6.5% en el mes). Aprox. Q10-11.50/lb. Menudeo aprox. Q25/lb (estimado). Fuente: precios.maga.gob.gt y livinginguatemala.com
+- 2026-10-23 · DATO OFICIAL MÁS NUEVO (MAGA informe 41, 12-16 oct, La Terminal): tilapia mediana de primera Q1,350/qq (Q13.50/lb), subió 35% por más demanda. Semana anterior: grande Q1,120, mediana Q1,000. Octubre 2026 promedio Q1,145.83, 18% abajo de oct 2025. Abasto: costa sur, Atlántico, Zacapa e importado de El Salvador.
