@@ -29,7 +29,15 @@ Registro: `ventas/PROSPECTOS.md` y `finanzas/VENTAS.md`.
 ## Rutina diaria de búsqueda de clientes (los 4 caminos)
 20-30 mensajes a conocidos · 1 pieza de contenido (TikTok + Reels + estado) · 1 acción en frío (visita a negocio, grupo o Marketplace) · anuncios solo si hay dinero y oferta probada.
 
+## Marketplace: ¿editar, renovar o publicar de nuevo? (regla de Javier, 2026-10-23)
+Decidirlo SIEMPRE antes de tocar una publicación:
+- Menos de 7 días: EDITAR (título/foto si hay pocos clics; precio/texto si hay clics sin mensajes).
+- 7+ días y muchos clics sin mensajes: EDITAR precio (quien la guardó recibe aviso de rebaja; se conservan clics).
+- 7+ días y pocos clics: RENOVAR si "Más" lo ofrece; si no, publicar NUEVA (título, primera foto y precio distintos) y ELIMINAR la vieja (no duplicar: Meta lo toma como spam). Eliminar lo hace Javier.
+- Rechazada: no republicar igual.
+
 ## Errores encontrados
+- 2026-10-23: Javier rechazó frases de libro de ventas por genéricas. Los guiones se escriben con el lenguaje del rubro (para mayoreo: talla, quintales, neto, merma, día de recepción, condiciones) y en tono de proveedor firme, nunca de vendedor que pide.
 - 2026-10-23: Javier rechazó un guion de 6 páginas por largo. Entregables de 1 página: frases listas, tabla de objeciones, nada de teoría.
 - Marketplace rechazó mariscos (13-oct-2026): no reintentar; arriesga la cuenta.
 - TikTok Shop e Instagram Shopping no están habilitados en Guatemala (2026): vender con contenido → WhatsApp.
