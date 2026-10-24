@@ -102,3 +102,4 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 | ../ventas/compradores-tilapia-mayoreo.xlsx | 23 compradores de tilapia por mayor (20 qq+): mayoristas, mercados, cadenas en capital, Mixco, Villa Nueva, Amatitlán, Escuintla; con teléfono, nivel A/B/C y estado |
 | ../ventas/compradores-tilapia-mayoreo-2.xlsx | 50 compradores más (sin repetir): distribuidores, comedores de empresas, hoteles, catering, marisquerías capital/Mixco/Petapa/Escuintla/Puerto San José |
 | ../ventas/compradores-tilapia-nivel-A.xlsx | 20 compradores grandes de tilapia (food service, supermercados, cadenas, mercados municipales, gobierno, gremiales) |
+| ../ventas/guion-venta-tilapia.pdf | Guion de venta en persona de tilapia por mayor: horarios, portero, guion de 6 pasos, regateo, qué decir/no decir, WhatsApp y seguimiento |
