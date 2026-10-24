@@ -35,6 +35,8 @@ Decidirlo SIEMPRE antes de tocar una publicación:
 - 7+ días y muchos clics sin mensajes: EDITAR precio (quien la guardó recibe aviso de rebaja; se conservan clics).
 - 7+ días y pocos clics: RENOVAR si "Más" lo ofrece; si no, publicar NUEVA (título, primera foto y precio distintos) y ELIMINAR la vieja (no duplicar: Meta lo toma como spam). Eliminar lo hace Javier.
 - Rechazada: no republicar igual.
+- ORDEN: RENOVAR PRIMERO y luego editar. Editar bloquea "Renovar" 7 días (pasó con el kit, 23 oct). Renovar está en "..." de cada publicación en Tus publicaciones.
+- Pocos clics = problema de título/foto/etiquetas (no de precio). Clics sin mensajes = precio o texto.
 
 ## Errores encontrados
 - 2026-10-23: Javier rechazó frases de libro de ventas por genéricas. Los guiones se escriben con el lenguaje del rubro (para mayoreo: talla, quintales, neto, merma, día de recepción, condiciones) y en tono de proveedor firme, nunca de vendedor que pide.
