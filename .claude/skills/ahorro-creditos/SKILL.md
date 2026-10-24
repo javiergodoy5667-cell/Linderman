@@ -31,7 +31,9 @@ Siempre. Es la forma normal de trabajar, no un modo especial.
 - **Pedir directo:** un mensaje con todo lo que necesita, mejor que muchos mensajes cortos. Si la respuesta va mal: Esc o `/rewind`, en vez de amontonar correcciones.
 - Ver cuánto le queda y qué gasta más: `/usage` (la tecla `f` aplica arreglos). Revisarlo una vez por semana.
 - Recordar: chat del teléfono, claude.ai y las rutinas diarias salen de la MISMA bolsa.
-- Ya automático (23 oct): barra de estado con % de conversación, límite 5 h y semana (~/.claude/statusline.py; avisa "/clear" al pasar 60%); sugerencias de próximo mensaje apagadas; instrucciones de resumen en CLAUDE.md. NO se bajó el esfuerzo ni se cambió el modelo: Javier no quiere perder calidad.
+- Ya automático (23 oct): barra de estado con % de conversación, límite 5 h y semana (~/.claude/statusline.py; avisa "/clear" al pasar 20%, cambiado de 60% el 24 oct); sugerencias de próximo mensaje apagadas; instrucciones de resumen en CLAUDE.md. NO se bajó el esfuerzo ni se cambió el modelo: Javier no quiere perder calidad.
+
+- **Medido 24 oct:** 2 sesiones gigantes (600+ respuestas) = 46% del uso; 43% de respuestas con >300 mil tokens encima; ~400 fotos. Regla: `/clear` al 20% de conversación (~200 mil) o al cambiar de tema; fotos y Chrome en sesión aparte.
 
 ## Conocimiento base
 `conocimiento/uso-eficiente-claude/guia.md` (fuentes oficiales de Anthropic).
@@ -39,3 +41,4 @@ Siempre. Es la forma normal de trabajar, no un modo especial.
 ## Errores encontrados
 - 2026-10-23: el arranque leía 9 archivos (~30 KB, INDICE solo 10 KB) en cada sesión. Se cambió a arranque liviano.
 - 2026-10-23: apagar Chrome por defecto molestaba a Javier; se dejó encendido y el ahorro se hace usándolo poco.
+- 2026-10-24: el aviso de la barra al 60% llegaba tarde (60% de 1 millón = 600 mil tokens). Bajado a 20%.
