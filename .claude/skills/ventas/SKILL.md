@@ -30,6 +30,7 @@ Registro: `ventas/PROSPECTOS.md` y `finanzas/VENTAS.md`.
 20-30 mensajes a conocidos · 1 pieza de contenido (TikTok + Reels + estado) · 1 acción en frío (visita a negocio, grupo o Marketplace) · anuncios solo si hay dinero y oferta probada.
 
 ## Errores encontrados
+- 2026-10-23: Javier rechazó un guion de 6 páginas por largo. Entregables de 1 página: frases listas, tabla de objeciones, nada de teoría.
 - Marketplace rechazó mariscos (13-oct-2026): no reintentar; arriesga la cuenta.
 - TikTok Shop e Instagram Shopping no están habilitados en Guatemala (2026): vender con contenido → WhatsApp.
 - Publicar el mismo texto en muchos grupos seguido = spam; cambiar redacción y espaciar 5-7 días.
