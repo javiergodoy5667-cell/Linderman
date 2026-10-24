@@ -101,3 +101,4 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 | uso-eficiente-claude/guia.md | Cómo funciona el límite del plan Pro (5 h + semanal, bolsa compartida), qué gasta (contexto, caché de 1 h, cambiar modelo, compact, subagentes) y reglas para que rinda más. Fuentes oficiales |
 | ../ventas/compradores-tilapia-mayoreo.xlsx | 23 compradores de tilapia por mayor (20 qq+): mayoristas, mercados, cadenas en capital, Mixco, Villa Nueva, Amatitlán, Escuintla; con teléfono, nivel A/B/C y estado |
 | ../ventas/compradores-tilapia-mayoreo-2.xlsx | 50 compradores más (sin repetir): distribuidores, comedores de empresas, hoteles, catering, marisquerías capital/Mixco/Petapa/Escuintla/Puerto San José |
+| ../ventas/compradores-tilapia-nivel-A.xlsx | 20 compradores grandes de tilapia (food service, supermercados, cadenas, mercados municipales, gobierno, gremiales) |
