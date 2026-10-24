@@ -36,6 +36,9 @@ Decidirlo SIEMPRE antes de tocar una publicación:
 - 7+ días y pocos clics: RENOVAR si "Más" lo ofrece; si no, publicar NUEVA (título, primera foto y precio distintos) y ELIMINAR la vieja (no duplicar: Meta lo toma como spam). Eliminar lo hace Javier.
 - Rechazada: no republicar igual.
 - ORDEN: RENOVAR PRIMERO y luego editar. Editar bloquea "Renovar" 7 días (pasó con el kit, 23 oct). Renovar está en "..." de cada publicación en Tus publicaciones.
+- SIEMPRE revisar las 3 partes: TÍTULO + FOTOS + PRECIO/TEXTO. Nunca solo precio.
+- TÍTULO (corrección de Javier, 23 oct): corto (máx. ~35-40 letras, lo que se ve en el feed), específico: producto + marca/modelo + 1 dato que lo distingue. Sin emojis, sin "NUEVO/Edición Limitada/–" de relleno; los detalles van en la descripción. Ej: "Sierra Sable Bosch RS15 con Maletín".
+- FOTOS: si no son de estudio o se ven caseras, editarlas con foto-pro/edicion-foto-video en el mismo trabajo, sin esperar que lo pida.
 - Pocos clics = problema de título/foto/etiquetas (no de precio). Clics sin mensajes = precio o texto.
 
 ## Errores encontrados

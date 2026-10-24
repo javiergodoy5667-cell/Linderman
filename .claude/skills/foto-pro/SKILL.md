@@ -30,4 +30,5 @@ Siempre abrirle a Javier las fotos (carpeta en el Explorador) y esperar su OK an
 - Si la mano tapa el producto, rembg la deja pegada: usar fotos donde el producto esté solo o casi solo.
 - Fotos del interior/etiquetas: mejor dejarlas originales (prueban autenticidad).
 - Piezas en BOLSA PLÁSTICA transparente: rembg las corta en pedazos y salen feas (kit Toyota, 2026-10-23). Pedir foto nueva con la pieza fuera de la bolsa.
+- Si el recorte no sirve (bolsas): foto_mejorar.py en modo "libre" + recorte pegado al producto. NUNCA el modo 1x1/4x5 con relleno borroso: se ve de aficionado (kit, 23 oct). Portada = la pieza más clara con la etiqueta/número de parte legible.
 - Consejo para Javier al tomar fotos: producto sobre mesa o pared lisa, luz de día, sin mano, de frente y de lado.
