@@ -103,3 +103,4 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 | ../ventas/compradores-tilapia-mayoreo-2.xlsx | 50 compradores más (sin repetir): distribuidores, comedores de empresas, hoteles, catering, marisquerías capital/Mixco/Petapa/Escuintla/Puerto San José |
 | ../ventas/compradores-tilapia-nivel-A.xlsx | 20 compradores grandes de tilapia (food service, supermercados, cadenas, mercados municipales, gobierno, gremiales) |
 | ../ventas/guion-venta-tilapia.pdf | Guion de venta en persona de tilapia por mayor: horarios, portero, guion de 6 pasos, regateo, qué decir/no decir, WhatsApp y seguimiento |
+| precision-experta/estudio.md | Cómo no ser genérico: por qué la IA sale promedio (Anthropic), lenguaje concreto (Strunk, Heath), respuesta primero (Minto), experto vs novato, listas de control (Gawande). Fuentes |
