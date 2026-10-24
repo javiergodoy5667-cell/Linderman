@@ -32,3 +32,6 @@ Javier exige: CADA aplicación personalizada. Adaptar CV, perfil y respuestas a 
 - LinkedIn Easy Apply: el diálogo no aparece en read_page; usar find. Radios: el primer radio = Yes; verificar con JS (fieldset → input:checked).
 - Subir archivos: interceptar HTMLInputElement.prototype.click para que no abra el selector, y luego file_upload al input type=file.
 - Upwork: selects de fecha no toman el valor por defecto → elegir otro y luego el correcto.
+- Buscar ofertas rápido: fetch a /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=..&location=..&f_TPR=r604800 desde una pestaña de LinkedIn y sacar título/empresa/lugar con regex (DOMParser no sirve ahí). Ignora el filtro remoto. Esperar ~2 s entre consultas o da error 429 (bloqueo de minutos).
+- Si Chrome no responde a capturas, la ventana está oculta/minimizada: pedir a Javier que la deje visible. Si la página se recarga, el formulario de Easy Apply se pierde (también el CV subido): volver a subirlo.
+- Por ahora (2026-10-23) SOLO ofertas en español; descartar las que piden inglés fuerte, presencial o residir en otro país (muchas de Perú con planilla).
