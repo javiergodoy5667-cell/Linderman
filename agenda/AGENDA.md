@@ -11,7 +11,7 @@ Citas, reuniones y tareas con fecha. Hora de Guatemala. Ordenado por fecha; lo p
 | 2026-10-25 | Sábado | Configurar WhatsApp Business gratis (kit listo) | |
 | 2026-10-30 | Viernes | Revisar respuestas de empleos: SleekFlow, USA Corporation Services (LinkedIn), Interfell y Sodlab (Get on Board), call center créditos (Computrabajo) | Si piden entrevista o prueba, Linderman prepara respuestas |
 | 2026-10-30 | Viernes | Revisar mensajes y clics de las 4 publicaciones de Marketplace (editadas y compartidas en 12 grupos nuevos el 23 oct) | Si la gorra no tiene mensajes: bajar a Q270. Renovar el kit (Q995) ese día. Kit precio mínimo sugerido Q900 |
-| 2026-10-31 | Sáb 31 oct - dom 1 nov | Renta planta 6000 W (cliente de Marketplace): pruebas de sonido sábado, evento domingo. Oferta fin de semana Q600 los 2 días (enviada) | Definir entrega, gasolina y garantía antes de entregar |
+| 2026-10-31 | Sáb 31 oct - dom 1 nov | Renta planta 6000 W (cliente de Marketplace): pruebas de sonido sábado, evento domingo. Tarifa fin de semana Q700 (folleto) + entrega + depósito Q1,500 | Definir entrega, gasolina y garantía antes de entregar |
 | 2026-11-05 | Miércoles | Confirmar pedidos apartados para 6-8 nov | |
 | 2026-11-06 | 6-8 nov | Compra en Blue Ocean (con pago de Zacapa o con Q500 de intereses) y entregas locales cobrando al recibir | |
 | 2026-10-26 | Lunes | Clienta que debe Q10,000: último mensaje por WhatsApp para que reconozca por escrito la deuda (sirve como prueba). Luego bufete popular. No más acuerdos a solas | Ya rompió 2 acuerdos: se planea como perdido |

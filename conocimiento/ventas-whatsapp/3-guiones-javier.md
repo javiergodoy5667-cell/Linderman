@@ -32,7 +32,7 @@ Precios: confirmar el del día antes de mandar (último dato: menudeo ~Q50/lb ca
 **Recompra a los 15-20 días:**
 > Hola [nombre], ¿qué tal le salió el camarón? 🦐 El [día] traigo producto fresco otra vez, ¿le aparto lo mismo de la vez pasada ([5 lb])?
 
-## 2. Renta de planta eléctrica 6000 W (Q400/día) — venta "grande": SPIN
+## 2. Renta de planta eléctrica 6000 W (precios: conocimiento/renta-planta/tarifas-y-condiciones.md) — venta "grande": SPIN
 > ¡Hola [nombre]! Sí, la planta está disponible. ¿Para qué fecha y qué va a conectar (luces, sonido, refrigeradora)?
 > (Situación) ¿Cuántas horas la necesita? (Problema) ¿Ha tenido problemas de luz en ese lugar? (Implicación) Si se va la luz con los invitados ahí, ¿qué pasaría con el evento? (Beneficio) ¿Le serviría que se la lleve probada y con gasolina para [x] horas?
 > Cierre: Le confirmo: planta 6000 W, [fecha], Q400 por día, [entrega/recoge]. ¿Se la aparto para el [fecha]?
