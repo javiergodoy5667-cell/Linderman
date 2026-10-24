@@ -18,3 +18,6 @@ Hay varias tallas de camarón; estos son los últimos tres que vendió.
 ## Capital
 - Unos Q10,000 en efectivo compartido que puede usar. Con un costo de ~Q33 a Q42 por libra, eso alcanza para unas 250 a 300 libras.
 - Si vende a crédito de 15 días, un pedido de ~280 lb amarra casi todo el capital hasta que le paguen.
+
+## Precio de mercado tilapia (referencia, no es precio de Javier)
+- 2026-10-23 · MAGA, La Terminal z4, mayorista por quintal: grande Q1,150 y mediana Q1,000 (28 sep-2 oct); grande Q1,120, mediana y pequeña Q1,000 (5-9 oct); grande Q1,130 el 19 oct (-6.5% en el mes). Aprox. Q10-11.50/lb. Menudeo aprox. Q25/lb (estimado). Fuente: precios.maga.gob.gt y livinginguatemala.com
