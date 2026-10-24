@@ -41,3 +41,4 @@ Chats nuevos → cotizados → apartados → entregados → recompras. Tiempo de
 - Respuestas rápidas viejas ofrecían "transferencia" y precios desactualizados → corregido en archivo 3.
 - Catálogo de WhatsApp también cae bajo las reglas de comercio de Meta: el camarón NO va en el catálogo (corregido 2026-10-23).
 - "80% de ventas necesitan 5 seguimientos" no tiene estudio: usar como regla, no como dato.
+- 2026-10-24 · Le metí requisitos, depósito y tarifas de entrega en el PRIMER mensaje de la planta → Javier: "mucha información al principio". Regla: 1.er mensaje = disponible + precio + 1 pregunta cerrada. Requisitos y depósito van en el mensaje de cierre. Precios: siempre de conocimiento/renta-planta/ (folleto), nunca de memoria.
