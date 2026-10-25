@@ -35,6 +35,9 @@ Decidirlo SIEMPRE antes de tocar una publicación:
 - 7+ días y muchos clics sin mensajes: EDITAR precio (quien la guardó recibe aviso de rebaja; se conservan clics).
 - 7+ días y pocos clics: RENOVAR si "Más" lo ofrece; si no, publicar NUEVA (título, primera foto y precio distintos) y ELIMINAR la vieja (no duplicar: Meta lo toma como spam). Eliminar lo hace Javier.
 - Rechazada: no republicar igual.
+- PUBLICAR DE NUEVO (gorra, 25 oct): Javier ELIMINA la vieja PRIMERO. Si la nueva se crea antes, Facebook la frena: "No se publicó porque parece un duplicado".
+- Con "Ocultar a amigos" activado, el formulario de crear NO deja marcar grupos. Publicar en Marketplace y después agregar grupos desde la publicación > "Publicar en más lugares".
+- Foto que solo está en Facebook (no en la PC): bajarla de la página del artículo (img de 960px) y pasarla al formulario nuevo por IndexedDB + DataTransfer; las descargas múltiples de Chrome quedan bloqueadas.
 - ORDEN: RENOVAR PRIMERO y luego editar. Editar bloquea "Renovar" 7 días (pasó con el kit, 23 oct). Renovar está en "..." de cada publicación en Tus publicaciones.
 - SIEMPRE revisar las 3 partes: TÍTULO + FOTOS + PRECIO/TEXTO. Nunca solo precio.
 - TÍTULO (corrección de Javier, 23 oct): corto (máx. ~35-40 letras, lo que se ve en el feed), específico: producto + marca/modelo + 1 dato que lo distingue. Sin emojis, sin "NUEVO/Edición Limitada/–" de relleno; los detalles van en la descripción. Ej: "Sierra Sable Bosch RS15 con Maletín".
