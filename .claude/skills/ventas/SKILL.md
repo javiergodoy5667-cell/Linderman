@@ -37,10 +37,13 @@ Decidirlo SIEMPRE antes de tocar una publicación:
 - Rechazada: no republicar igual.
 - PUBLICAR DE NUEVO (gorra, 25 oct): Javier ELIMINA la vieja PRIMERO. Si la nueva se crea antes, Facebook la frena: "No se publicó porque parece un duplicado".
 - Con "Ocultar a amigos" activado, el formulario de crear NO deja marcar grupos. Publicar en Marketplace y después agregar grupos desde la publicación > "Publicar en más lugares".
+- Compartir en grupos: "..." de la publicación > Compartir publicación > Compartir en un grupo, con texto distinto en cada grupo. Si sale "Algo no funciona" 2 veces, parar y reintentar horas después.
 - Foto que solo está en Facebook (no en la PC): bajarla de la página del artículo (img de 960px) y pasarla al formulario nuevo por IndexedDB + DataTransfer; las descargas múltiples de Chrome quedan bloqueadas.
 - ORDEN: RENOVAR PRIMERO y luego editar. Editar bloquea "Renovar" 7 días (pasó con el kit, 23 oct). Renovar está en "..." de cada publicación en Tus publicaciones.
 - SIEMPRE revisar las 3 partes: TÍTULO + FOTOS + PRECIO/TEXTO. Nunca solo precio.
 - TÍTULO (corrección de Javier, 23 oct): corto (máx. ~35-40 letras, lo que se ve en el feed), específico: producto + marca/modelo + 1 dato que lo distingue. Sin emojis, sin "NUEVO/Edición Limitada/–" de relleno; los detalles van en la descripción. Ej: "Sierra Sable Bosch RS15 con Maletín".
+- TÍTULO LLAMATIVO (corrección de Javier, 25 oct): nada de "Original" ni palabras planas. Usar el gancho que emociona al comprador (apodo, edición, número): "Gorra El Monstruo Benavidez Numerada", no "Gorra 31 Hats Benavidez Original". "Original" va en la descripción.
+- FOTOS REALES (corrección de Javier, 25 oct): en artículos de colección/ropa usar TODAS las fotos originales del celular (frente, lado, atrás, interior, etiqueta), solo con luz y nitidez. El estudio recortado se vio aburrido y con 3 fotos no vendió.
 - FOTOS: si no son de estudio o se ven caseras, editarlas con foto-pro/edicion-foto-video en el mismo trabajo, sin esperar que lo pida.
 - Pocos clics = problema de título/foto/etiquetas (no de precio). Clics sin mensajes = precio o texto.
 
