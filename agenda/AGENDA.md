@@ -11,6 +11,7 @@ Citas, reuniones y tareas con fecha. Hora de Guatemala. Ordenado por fecha; lo p
 | 2026-11-02 | Lunes 7 pm | Instagram: publicar post 4 (horómetro) | Ídem |
 | 2026-11-05 | Jueves 7 pm | Instagram: publicar post 5 (te la llevamos) | Ídem |
 | 2026-11-08 | Domingo 7 pm | Instagram: publicar post 6 (precios) | Ídem |
+| 2026-10-25 | Noche | Linderman: compartir lo que Facebook bloqueó: sierra en "Compra / Venta Maquinaria y Herramienta Guatemala"; kit en "venta, compra 22r 4x4 y 4x2 toyota guatemala" y "AUTO MERCADO GUATEMALA 502" | Máximo 6 por tanda |
 | 2026-10-25 | Domingo | Configurar WhatsApp Business gratis (kit listo) | |
 | 2026-10-30 | Viernes | Revisar respuestas de empleos: SleekFlow, USA Corporation Services (LinkedIn), Interfell y Sodlab (Get on Board), call center créditos (Computrabajo) | Si piden entrevista o prueba, Linderman prepara respuestas |
 | 2026-10-30 | Viernes | Revisar mensajes y clics de las 4 publicaciones de Marketplace (editadas y compartidas en 12 grupos nuevos el 23 oct) | Gorra ya bajada a Q250 y republicada el 25 oct: revisar sus mensajes. Renovar el kit (Q995) ese día. Kit precio mínimo sugerido Q900 |
