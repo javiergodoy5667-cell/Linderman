@@ -8,6 +8,11 @@ Citas, reuniones y tareas con fecha. Hora de Guatemala. Ordenado por fecha; lo p
 | 2026-10-24 | Sábado | Visitar en persona: Mar Azul (Centro YAYA), La Azotea (Av. Petapa), Antojitos del Mar (Mercado Concepción) | Llevar precios y una muestra si se puede |
 | 2026-10-23 | 23 oct-5 nov | Juntar pedidos apartados (pago contra entrega) para entregar 6-8 nov. Meta 60 lb. Estados WhatsApp diarios + 30 contactos + página Don Gencho (NO Marketplace: prohíbe mariscos) | Sin dinero: no se compra hasta noviembre |
 | 2026-10-24 | | Borrar CV viejo (con DPI/NIT) de Computrabajo: Mi currículum → Currículum en Word/PDF → basurero en CVLicJehonatanArriaga.pdf | Solo Javier |
+| 2026-10-27 | Martes 7 pm | Instagram @rentasarrdoy: publicar post 2 (6000 W). Facebook ya va programado | Textos en conocimiento/renta-planta/publicaciones-oct-nov-2026.md. Si IG ya está conectado a la página, programar los que faltan en Business Suite |
+| 2026-10-30 | Viernes 7 pm | Instagram: publicar post 3 (110/220 V) | Ídem |
+| 2026-11-02 | Lunes 7 pm | Instagram: publicar post 4 (horómetro) | Ídem |
+| 2026-11-05 | Jueves 7 pm | Instagram: publicar post 5 (te la llevamos) | Ídem |
+| 2026-11-08 | Domingo 7 pm | Instagram: publicar post 6 (precios) | Ídem |
 | 2026-10-25 | Sábado | Configurar WhatsApp Business gratis (kit listo) | |
 | 2026-10-30 | Viernes | Revisar respuestas de empleos: SleekFlow, USA Corporation Services (LinkedIn), Interfell y Sodlab (Get on Board), call center créditos (Computrabajo) | Si piden entrevista o prueba, Linderman prepara respuestas |
 | 2026-10-30 | Viernes | Revisar mensajes y clics de las 4 publicaciones de Marketplace (editadas y compartidas en 12 grupos nuevos el 23 oct) | Si la gorra no tiene mensajes: bajar a Q270. Renovar el kit (Q995) ese día. Kit precio mínimo sugerido Q900 |
