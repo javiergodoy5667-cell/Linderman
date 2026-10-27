@@ -118,6 +118,7 @@ Con foto del producto (`sendPhoto`). Máximo 15 alertas inmediatas por corrida; 
 - Gráfica pequeña de historial al tocar un producto.
 - Sección "Buscar en Marketplace" (sección 4.3).
 - Pie: "Última actualización: hh:mm (hora Guatemala)".
+- **Instalable como app (PWA):** `manifest.json` (nombre "Cazador GT", ícono propio, color de tema, `display: standalone`) + `service-worker.js` que guarde la última lista para verla sin internet. En Android (Chrome) debe aparecer "Instalar app" / "Agregar a pantalla principal" y abrir a pantalla completa, sin barra del navegador. Explícale al usuario los 3 toques para instalarla.
 Prueba: abrir el link de GitHub Pages en un celular y que todo funcione.
 
 **Fase 5 – Automatización.** Workflow `.github/workflows/cazar.yml`: instala dependencias (con caché), corre recolectores en paralelo, actualiza historial, envía alertas, publica la web y hace commit de `data/`. Prueba: 3 corridas automáticas seguidas sin error, visibles en la pestaña *Actions*.
