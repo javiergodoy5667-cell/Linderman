@@ -16,7 +16,6 @@ Citas, reuniones y tareas con fecha. Hora de Guatemala. Ordenado por fecha; lo p
 | 2026-10-31 | Sáb 31 oct - dom 1 nov | Renta planta 6000 W (cliente de Marketplace): pruebas de sonido sábado, evento domingo. Tarifa fin de semana Q700 (folleto) + entrega + depósito Q1,500 | Definir entrega, gasolina y garantía antes de entregar |
 | 2026-11-05 | Miércoles | Confirmar pedidos apartados para 6-8 nov | |
 | 2026-11-06 | 6-8 nov | Compra en Blue Ocean (con pago de Zacapa o con Q500 de intereses) y entregas locales cobrando al recibir | |
-| 2026-10-26 | Lunes | Clienta que debe Q10,000: último mensaje por WhatsApp para que reconozca por escrito la deuda (sirve como prueba). Luego bufete popular. No más acuerdos a solas | Ya rompió 2 acuerdos: se planea como perdido |
 | 2026-10-28 | | Pedir al banco estado de cuenta detallado (sin firmar nada) | |
 | 2026-11-05 | | COBRAR 280 lb de camarón surtido (crédito a 15 días) | Entregado 2026-10-21. Ganancia esperada ~Q2,800 |
 
@@ -24,13 +23,15 @@ Citas, reuniones y tareas con fecha. Hora de Guatemala. Ordenado por fecha; lo p
 - 2026-10-21 · Entregó 280 lb de camarón surtido a crédito (15 días) a su cliente actual.
 
 ## No se hizo (reprogramar)
+Revisión noche 2026-10-26: Javier no confirmó nada; todo lo de hoy o antes queda como NO hecho hasta que él lo confirme.
 | Fecha original | Qué | Nueva fecha propuesta |
 |---|---|---|
-| 2026-10-22 | Escribirles a Los Chatitos (4066-9150) y Mi Ranchito (4403-1227); mensaje por Facebook a Camarón Feliz, Los Chevis y El Remo (sin confirmar que se hizo) | 2026-10-26 antes del mediodía (4.ª vez reprogramado) |
-| 2026-10-23 | Responder a "An Re" en Marketplace (renta de planta): preguntar fecha y ofrecer apartarla (lead caliente) | 2026-10-26 a primera hora (3.ª vez reprogramado) |
-| 2026-10-23 | Crear perfil Workana y actualizar LinkedIn; mandar capturas a Linderman | 2026-10-26 noche (3.ª vez reprogramado) |
-| 2026-10-24 | Visitar en persona: Mar Azul (Centro YAYA), La Azotea (Av. Petapa), Antojitos del Mar (Mercado Concepción), con precios y muestra | 2026-10-26 lunes (sin confirmar que se hizo) |
-| 2026-10-24 | Borrar CV viejo (con DPI/NIT) de Computrabajo | 2026-10-26 (sin confirmar que se hizo) |
-| 2026-10-25 | Linderman: compartir en grupos lo que Facebook bloqueó (sierra y kit) | 2026-10-26 (necesita sesión con Chrome) |
-| 2026-10-25 | Configurar WhatsApp Business gratis (kit listo) | 2026-10-26 |
+| 2026-10-22 | Escribirles a Los Chatitos (4066-9150) y Mi Ranchito (4403-1227); mensaje por Facebook a Camarón Feliz, Los Chevis y El Remo | 2026-10-27 antes del mediodía (5.ª vez reprogramado) |
+| 2026-10-23 | Responder a "An Re" en Marketplace (renta de planta): preguntar fecha y ofrecer apartarla (lead caliente) | 2026-10-27 a primera hora (4.ª vez reprogramado) |
+| 2026-10-23 | Crear perfil Workana y actualizar LinkedIn; mandar capturas a Linderman | 2026-10-27 noche (4.ª vez reprogramado) |
+| 2026-10-24 | Visitar en persona: Mar Azul (Centro YAYA), La Azotea (Av. Petapa), Antojitos del Mar (Mercado Concepción), con precios y muestra | 2026-10-27 (sin confirmar que se hizo) |
+| 2026-10-24 | Borrar CV viejo (con DPI/NIT) de Computrabajo | 2026-10-27 (sin confirmar que se hizo) |
+| 2026-10-25 | Linderman: compartir en grupos lo que Facebook bloqueó (sierra y kit) | 2026-10-27 (necesita sesión con Chrome) |
+| 2026-10-25 | Configurar WhatsApp Business gratis (kit listo) | 2026-10-27 |
 | 2026-10-25 | Armar mini demo n8n para ClinicSay y mandar mensaje al reclutador | 2026-10-27 |
+| 2026-10-26 | Clienta que debe Q10,000: último mensaje por WhatsApp para que reconozca por escrito la deuda (prueba). Luego bufete popular. No más acuerdos a solas | 2026-10-27 (ya rompió 2 acuerdos) |
