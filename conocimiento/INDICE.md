@@ -108,3 +108,4 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 - renta-planta/tarifas-y-condiciones.md · precios, extras y condiciones de la planta 6000 W (folleto Rentas Arrdoy). USAR SIEMPRE antes de cotizar.
 - renta-planta/publicaciones-oct-nov-2026.md · calendario y textos de las 6 publicaciones Rentas Arrdoy (FB programadas, IG a mano) + cómo subir fotos en Business Suite.
 - conocimiento/casos-de-exito/ritual-tribal-octubre-2026.md — Ritual Tribal oct 2026 (Divisual): las 21 cartas día por día (prospección IA: avatar, propuesta, CRM, emails, llamadas, Looms, puerta fría, red caliente). PDF en Escritorio\Ritual-Tribal-Octubre-2026.pdf
+- prompts/buscador-ofertas-gt.md — Prompt profesional para que otra IA construya el 'Cazador de Ofertas GT' (scraping tiendas GT + alertas Telegram + web GitHub Pages).
