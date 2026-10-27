@@ -187,4 +187,13 @@ Al terminar cada fase, en máximo 6 líneas, sin tecnicismos:
 - [ ] README en español y `config.yml` explicado.
 - [ ] Entregas al usuario: link de la página, link del bot, y en 5 líneas cómo usarlo.
 
+## 12. ENTREGA PARA AUDITORÍA
+
+El proyecto será auditado por otra IA. Al terminar, crea `ENTREGA.md` en la raíz con:
+1. Lista de la sección 11 marcada, con la prueba de cada punto (salida del comando, captura o link).
+2. Tabla de fuentes: tienda, método (API/HTML/Playwright), productos leídos en la última corrida, estado.
+3. Decisiones que tomaste distintas a este prompt y por qué.
+4. Errores conocidos o cosas que quedaron a medias (sé honesto; esconderlos es peor).
+5. Links: repositorio, página web, últimas 3 corridas de Actions.
+
 Empieza por la Fase 0 ahora. No pidas permiso para empezar; pide solo lo de la sección 9 cuando lo necesites.
