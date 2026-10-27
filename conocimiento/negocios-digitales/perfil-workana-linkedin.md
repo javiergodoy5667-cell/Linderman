@@ -1,6 +1,6 @@
 # Perfiles listos: Workana y LinkedIn (2026-10-22)
 
-Base real (sin inventar): comerciante con años vendiendo en Guatemala; estudia IA en La Tribu Divisual (Claude Code, n8n, agentes, Meta Ads); construyó su propio agente de IA personal (Linderman: memoria, agenda, habilidades); maneja WhatsApp y Facebook para su negocio Mariscos Don Gencho. Inglés: básico. Tiempo: completo.
+Base real (sin inventar): comerciante con años vendiendo en Guatemala; estudia IA en La Tribu Divisual (Claude Code, agentes, Meta Ads); construyó su propio agente de IA personal (Linderman: memoria, agenda, habilidades); maneja WhatsApp y Facebook para su negocio Mariscos Don Gencho. Inglés: básico. Tiempo: completo.
 
 Servicio elegido (alineado con lo que enseña La Tribu y lo más pedido en 2026): automatización con IA y WhatsApp para negocios pequeños.
 
@@ -13,14 +13,14 @@ Soy comerciante antes que técnico: llevo años vendiendo y sé lo que un negoci
 Hoy uso inteligencia artificial para resolver eso:
 - Configuro WhatsApp Business completo: catálogo, mensajes de bienvenida, respuestas rápidas y etiquetas para no perder pedidos.
 - Armo asistentes de IA que responden preguntas frecuentes y toman datos del cliente.
-- Automatizo tareas repetidas (recordatorios, seguimiento, listas de clientes) con Claude, n8n y herramientas similares.
+- Automatizo tareas repetidas (recordatorios, seguimiento, listas de clientes) con herramientas de inteligencia artificial.
 - Preparo campañas de anuncios en Facebook e Instagram que llevan clientes directo a WhatsApp.
 
 Construí mi propio agente de IA personal que lleva mi agenda, mis metas y mis ventas: lo mismo que puedo hacer para tu negocio.
 
 Trabajo en español, horario de Centroamérica, respuesta rápida. Entregas claras y paso a paso para que tú mismo puedas usar lo que te dejo.
 
-**Habilidades (etiquetas):** Automatización, Inteligencia Artificial, ChatGPT, Claude, n8n, WhatsApp Business, Atención al cliente, Facebook Ads, Instagram Ads, Ventas, Asistente virtual
+**Habilidades (etiquetas):** Automatización, Inteligencia Artificial, ChatGPT, Claude, WhatsApp Business, Atención al cliente, Facebook Ads, Instagram Ads, Ventas, Asistente virtual
 
 **Precio (SUPUESTO de entrada para ganar las primeras reseñas, subir después de 3 reseñas de 5 estrellas):**
 - Tarifa por hora: US$10

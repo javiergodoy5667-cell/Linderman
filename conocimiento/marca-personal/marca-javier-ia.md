@@ -8,7 +8,7 @@
 - Sales Agent en Alorica (2024-2025) + asesor de ventas Sur Color: sabe vender.
 - Negocio propio (mariscos): usa la IA en su propio negocio todos los días.
 - Construyó su propio agente de IA (Linderman): agenda, metas, clientes, ventas.
-- Se forma en La Tribu Divisual (Claude Code, n8n, agentes).
+- Se forma en La Tribu Divisual (Claude Code, agentes).
 - FALTA: 1-3 casos con números (primer cliente de Workana o un negocio conocido gratis/barato a cambio de testimonio).
 
 ## Títulos ya puestos
@@ -50,3 +50,6 @@ Ritmo: 3 publicaciones por semana (lun-mié-vie). Formato: historia real + lecci
 - 2026-10-23 (3): Javier prefiere "Consultor de IA" (no "consultor de automatización"). Upwork título: "AI Consultant | AI Agents, LLMs & WhatsApp Chatbots for Business"; empleo: "AI Project Manager & AI Consultant". Workana: "Consultor de IA para Negocios | Agentes de IA". Sur Color fuera de Upwork por decisión de Javier (perfil más enfocado en IA).
 - 2026-10-23 (4) PERFILES AL 100%: Upwork 100% (portafolio "Personal AI Agent for a Small Business Owner" con imagen + "Otras experiencias: Applied AI Training - La Tribu Divisual"). Workana 100% + proyecto destacado "Agente de IA personal para dueños de negocio". LinkedIn: banner "Consultor de IA para negocios", proyecto con imagen, idiomas (Español nativo, Inglés limited working). Imágenes en conocimiento/marca-personal/imagenes/.
 - Pendiente solo de Javier: verificar identidad Upwork (DPI), video de presentación Upwork (30-60 s), vincular cuentas en Upwork, opciones de retiro (Payoneer/PayPal) en Workana.
+
+## 2026-10-26 · REGLA DE JAVIER: CERO n8n en perfiles
+Javier no quiere que aparezca n8n en ningún perfil: que lo conozcan por IA en general. Quitado hoy de: LinkedIn (titular nuevo "Consultor de Inteligencia Artificial para Negocios | Agentes de IA | Implemento IA para vender más y atender al instante | Freelance remoto | Lic. en Administración de Empresas", habilidad n8n borrada, descripción del puesto actual), Workana ("Sobre mí" reescrito general IA) y Get on Board (español e inglés). FALTA (sesión cerrada, Javier debe entrar): Upwork (título/overview/habilidad n8n) y Computrabajo (revisar). CV base ya sin n8n.
