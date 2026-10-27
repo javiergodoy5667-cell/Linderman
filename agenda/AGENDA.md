@@ -16,6 +16,7 @@ Citas, reuniones y tareas con fecha. Hora de Guatemala. Ordenado por fecha; lo p
 | 2026-10-31 | Sáb 31 oct - dom 1 nov | Renta planta 6000 W (cliente de Marketplace): pruebas de sonido sábado, evento domingo. Tarifa fin de semana Q700 (folleto) + entrega + depósito Q1,500 | Definir entrega, gasolina y garantía antes de entregar |
 | 2026-11-05 | Miércoles | Confirmar pedidos apartados para 6-8 nov | |
 | 2026-11-06 | 6-8 nov | Compra en Blue Ocean (con pago de Zacapa o con Q500 de intereses) y entregas locales cobrando al recibir | |
+| 2026-10-29 | Jueves | Si Fox Ordering no responde: seguimiento corto por correo a jobs@foxordering.com (Linderman lo redacta) | |
 | 2026-10-28 | | Pedir al banco estado de cuenta detallado (sin firmar nada) | |
 | 2026-11-05 | | COBRAR 280 lb de camarón surtido (crédito a 15 días) | Entregado 2026-10-21. Ganancia esperada ~Q2,800 |
 
