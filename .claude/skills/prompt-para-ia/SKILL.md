@@ -32,4 +32,5 @@ Modelo probado: `conocimiento/prompts/buscador-ofertas-gt.md` (a Javier le encan
 3. Entregar a Javier **un mensaje listo para pegar** a la otra IA con cada falla y su arreglo. Correcciones de 2 minutos → hacerlas yo.
 
 ## Errores encontrados
+- Auditoría Cazador GT (2026-10-27): la IA leyó solo 200 productos por tienda (búsqueda por palabras), "3 corridas automáticas" eran manuales, una fuente se rompió en la nube, y la regla "sin historial → máx ⚡" generaba 71 avisos con descuentos de la tienda (posiblemente inflados). En prompts de scraping exigir: catálogo COMPLETO o sección de ofertas, prueba de cron con horas reales, y sin historial = solo web, sin avisos.
 - Agregar mejoras DESPUÉS de que Javier ya pegó el prompt no sirve: incluir PWA y sección de auditoría desde la primera versión.
