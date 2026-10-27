@@ -20,3 +20,4 @@ Las cosas que Linderman ya aprendió a hacer. Cada una vive en `.claude/skills/<
 | aplicar-empleo | Aplicar a trabajos con CV, respuestas y mensaje personalizados para sobresalir | 2026-10-23 |
 | ahorro-creditos | Reglas para gastar menos créditos y que las sesiones duren más (se aplica siempre) | 2026-10-23 |
 | cero-generico | Filtro de 7 puntos y ejemplos reales antes de entregar cualquier cosa, para no ser genérico (se aplica siempre) | 2026-10-23 |
+| prompt-para-ia | Prompts profesionales para que otra IA construya un proyecto + auditar lo que entregue | 2026-10-27 |
