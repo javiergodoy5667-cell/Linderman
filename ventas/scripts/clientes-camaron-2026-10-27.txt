@@ -1,0 +1,68 @@
+zona 11|Restaurante Muelle Viejo zona 11|Rest.| 35 Calle 10-36|49501840|facebook.com/muelleviejorestaurante|4,2(135)|14.59346,-90.56551
+zona 11|Restaurante y Cevichería Mar Abierto|Marisq.| 8 Calle 28|24737894||4,4(52)|14.62246,-90.56251
+zona 11|El Chatios • Aguilar Batres|Marisq.| 13 Calle 400|24733232||4,2(59)|14.60604,-90.54426
+zona 11|Parrillada y Mariscos en Zona 11|Rest.| 10 Avenida 33-66|32601459||5,0(1)|14.59171,-90.56586
+zona 11|Los Chatitos|Rest.| JC2Q+4CW|40669150|facebook.com/CevicheriaLosChatitos|4,3(358)|14.60036,-90.56143
+zona 11|El chatio|Marisq.| JC4X+MFW, 10 Avenida|||4,5(60)|14.60664,-90.55119
+zona 11|7 Caldos zona 11|Rest.| 23 Avenida 0-18|24743050|facebook.com/restaurante7kl2|4,2(514)|14.62381,-90.55412
+zona 11|El tiburon sholco|Rest.| JF62+67V, 12 Calle|24414872||4,2(55)|14.61062,-90.54932
+zona 11|Cevicheria George|Rest.| 34 Calle 9-70|55138926||4,5(133)|14.59402,-90.56403
+zona 11|Mariscal Gastro Market|Rest.| Diag. 20 10-43|30415352||4,4(139)|14.60834,-90.55075
+zona 12|Cevicheria Los Mariscos|Rest.| JF35+7R5|||4,6(76)|14.60314,-90.54039
+zona 12|Restaurante y Cevicheria Los Chatos|Rest.| 01012 Guatemala|58536978||4,2(513)|14.59033,-90.55107
+zona 12|El Chatio|Rest.| 11 Avenida 30-66 Zona 12|22268920||4,7(54)|14.60380,-90.54623
+zona 12|Puerto Alegre|Rest.| 8 avenida 23-00|58000407||4,4(37)|14.59735,-90.54834
+zona 12|Cevicheria La Palmerita|Rest.| JF45+2X5|||4,5(107)|14.60501,-90.54002
+zona 12|cevicheria el mounstruo|Cafetería| 7A Avenida 25-20|||4,4(39)|14.59635,-90.55001
+zona 12|Rias Bajas Seafood Restaurant|Rest.| 4A Avenida A 13-24|41617709|facebook.com/riasbajasguate|4,4(741)|14.59991,-90.52306
+zona 12|Gambore, S.A.|Lonja de pescado| 9 Calle 14-01|22174444|gamboreseafood.com|4,8(23)|14.60484,-90.53697
+zona 1|El Pirata Centro Histórico|Rest.| JFMP+H27|||4,3(540)|14.63390,-90.51496
+san miguel petapa|Sabromar|Marisq.| 2 Calle 6-48, San Miguel Petapa|||4,8(11)|14.49682,-90.55929
+san miguel petapa|Pescado Vivo Guatemala|Rest. familiar| 1 Av. A, 3-78, Granjas Gerona Zona 8|55632488||4,7(48)|14.51049,-90.55652
+san miguel petapa|La Barca|Marisq.| Calle Real de Petapa|||4,4(75)|14.52483,-90.55342
+san miguel petapa|Restaurante Camaron Feliz|Marisq.| 8a avenida A 18-94, Villa Nueva|45500265||4,7(67)|14.52487,-90.56713
+san miguel petapa|Restaurante y Cevicheria Siete Mares|Marisq.| 3-95 Ciudad Real 1, 1 Avenida, Villa Nueva|41177433||4,0(50)|14.55298,-90.55633
+san miguel petapa|Carnes y mariscos|Rest.| 1 Calle 5||||14.50167,-90.56097
+zona 1|Altuna|Rest.| 5A Avenida 12-31|22567272|restaurantealtuna.com|4,6(705)|14.63705,-90.51539
+zona 5|Cevicheria Los Chavos 1|Marisq.| 35 Avenida 22-81|23354284||4,5(2272)|14.62456,-90.49846
+zona 5|Cevicheria Brisas del Estero|Rest.| JGG3+M27|23356715||4,3(288)|14.62665,-90.49747
+zona 5|Cevicheria Puerto Escondido|Rest.| 21 calle A 35-01|23357349|facebook.com (Cevichería Puerto Escondido)|4,3(1774)|14.62586,-90.49791
+zona 5|El Rincón Del Mar|Rest.| 33 Avenida 27-40|||4,9(21)|14.62089,-90.50057
+zona 5|Cevicheria Los Chavos 2|Rest.| 42 Avenida 7-38|23361282||4,6(1005)|14.63892,-90.49093
+zona 5|Cevicheria Los Caracoles|Rest.| 29 Calle 17-17|||4,8(29)|14.61961,-90.50714
+zona 5|Ceviches La 31|Marisq.| 31 Avenida 27-23|||5,0(3)|14.62128,-90.50150
+zona 5|Cevichería El Cangrejo|Rest.| Ruta 5 8-41|39958826||4,3(39)|14.61693,-90.51420
+zona 5|Ceviches Xpress Brisa Marina|Rest.| 23 Av 28-26|||5,0(2)|14.62001,-90.50459
+zona 5|Ceviches Sheny Mercado Santa Ana Zona 5|Rest.| Mercado Santa Ana, zona 5|55736579||4,0(2)|14.61999,-90.50096
+zona 5|CEVICHERIA LA PALMITA|Cafetería| 27 Calle 17-05|35055606||3,6(8)|14.62172,-90.50692
+zona 18|Restaurante Muelle Viejo • Los Álamos|Bar restaurante|Los Álamos, zona 18|55511905|facebook.com/restaurantemuelleviejo|4,2(678)|14.65001,-90.47941
+zona 18|Cevichería La Bendición|Rest.| MH57+VQ7|||5,0(1)|14.66031,-90.43556
+distribuidora|Blue Ocean Seafood Guatemala|Mayorista de marisco| 40 Calle C 13-75|34059554|blueoceangt.com|5,0(3)|14.60805,-90.52847
+distribuidora|Mariscos Damián|Pescadería| Mercado La Terminal zona 4 (JF9H+42F)||facebook.com/mariscosdamiangt01|5,0(2)|14.61781,-90.52244
+distribuidora|Mariscos, Pescados y Carnes Frescas|Lonja de pescado| Colonia Prados de Monte María, Calle 47|55165462|mariscospescadosycarnesfrescas.com|4,3(3)|14.57517,-90.56532
+distribuidora|Mariscos De León SAN CRISTÓBAL|Tienda de alimentación| San Cristóbal, Mixco|58304041||4,2(6)|14.60200,-90.59529
+distribuidora|MAR Y TIERRA PURPLE, S.A.|Carnicería| 11 Calle 2-38 Edificio El Alcázar Nv 1 Loc 2-38|23343102|||14.60214,-90.51494
+distribuidora|Mar Mad|Pescadería| HFPX+RH5|||3,6(5)|14.58700,-90.50103
+distribuidora|Mariscos El Robalo|Lonja de pescado| Interior Mercado La Terminal zona 4, sector mariscos|33000507||5,0(1)|14.61697,-90.52256
+distribuidora|Mariscos Barrera|Marisq.| 9 Avenida 1-89|47249027||4,6(63)|14.62627,-90.47838
+distribuidora|El Marinero|Marisq.| Parque Colonia El Maestro, 1A Calle 17-75|45637696|elmarinerogt.com|4,3(543)|14.59556,-90.49652
+distribuidora|Productos Frescos del Mar|Marisq.| JFMV+X7G||||14.63494,-90.50680
+distribuidora|Lo Del Mar|Procesamiento del pescado| 1A Calle 3-64|53897374|||14.61516,-90.52074
+distribuidora|Puerto 15|Rest.| CC Punto 15|23690688|puerto15.com|4,4(87)|14.58510,-90.48619
+distribuidora|Cevicheria Antoja2.gt|Marisq.| 2A Avenida 9-58|56306100||4,9(17)|14.60549,-90.52449
+amatitlan|Restaurante Vista al Lago|Marisq.| F9QQ+885, Amatitlán|||5,0(1)|14.48878,-90.61142
+amatitlan|Restaurante La Barca (Flores del Lago)|Rest. familiar| Km 29.6 carretera al Pacífico, Ala A Local 12, C.C. Flores del Lago, Amatitlán|41124640||4,1(40)|14.47039,-90.63835
+amatitlan|Restaurante Raíces Amatitlán|Marisq.| 5ta avenida 00-76 col. Lupita, Amatitlán|41982127|||14.48412,-90.61904
+amatitlan|Restaurante Del Lago|Marisq.| F9HH+Q7J Lago de Amatitlán||||14.47946,-90.62186
+amatitlan|Cevlisa|Marisq.| F9CC+HVW barrio El Ingenio, Amatitlán|34681302|||14.47148,-90.62779
+amatitlan|Cevicheria Los Delfines|Marisq.| 4 Calle, Amatitlán|34627841|||14.48101,-90.61839
+amatitlan|Cevicheria (Calzada Asiole)|Rest. comida saludable| Calz. Asiole, Amatitlán|42816988|||14.48803,-90.62545
+amatitlan|El Cevichin|Rest.| F996+2P4, Amatitlán|||3,9(89)|14.46750,-90.63816
+san miguel petapa|Cevichería Delicias del Mar|Bar| GC3Q+9FV, Villa Nueva|||4,8(27)|14.50348,-90.56134
+amatitlan|Cevicheria Lili|Marisq.| A un costado de La Bodegona, barrio La Cruz, Amatitlán|57129322|facebook.com/share/163BwjDL1g||14.48583,-90.61811
+san miguel petapa|Cevicheria Familiar El Pulpo|Rest.| Av. Petapa|||4,1(13)|14.54600,-90.55577
+san miguel petapa|Cevicheria Juan Carlos|Rest.| GC2Q+X28, Villa Nueva|||4,5(69)|14.50240,-90.56241
+san miguel petapa|Cevicheria Chatios (C.C. Petapa)|Centro comercial| Centro Comercial Petapa, local 35-40||||14.58292,-90.54613
+san miguel petapa|Restaurante y Cevichería Delicias Del Marr|Rest.| 26 Calle 65|43819586||4,6(382)|14.62527,-90.52559
+san miguel petapa|LOS CHATIOS USAC (Cevichería del Mar)|Rest.| Ciudad Universitaria USAC zona 12, esquina norponiente, kiosco|56281778|instagram.com/chatios_usac||14.58852,-90.54804
+san miguel petapa|Cevichería San Miguel|| 0 Avenida 2-35|||4,5(10)|14.50081,-90.56043

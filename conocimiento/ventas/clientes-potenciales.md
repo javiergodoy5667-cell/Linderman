@@ -45,3 +45,6 @@ No se ponen precios en el primer mensaje: primero hay que saber cuánto compra.
 - https://www.facebook.com/elremomariscosycarnes1325/
 - https://marearojagt.com/
 - https://www.facebook.com/MiRanchitoZacapa/
+
+## Base grande (2026-10-27)
+63 compradores de camarón (capital, Petapa/Villa Nueva, Amatitlán) con prioridad A/B/C, teléfono, mapa y WhatsApp con mensaje: `ventas/Clientes-A-Camaron-Capital-Petapa-Amatitlan.xlsx` (copia en el Escritorio). Datos crudos: `ventas/scripts/clientes-camaron-2026-10-27.txt`.
