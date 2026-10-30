@@ -11,3 +11,10 @@ Datos reales (Tus publicaciones + bandeja + búsqueda de competencia en Marketpl
 | FRESCURA POR MAYOR | rechazada | 0 | - | - | Mariscos prohibidos en Marketplace | Javier la elimina |
 
 Revisión: 1 nov (bandeja + clics). Regla: <10 clics → foto/título; 20+ clics y 0 mensajes → precio.
+
+## Aplicado el 30 oct
+- Sierra: título "🔥 Sierra Sable / Soso Bosch 12A con Maletín 🪚" + texto nuevo (de cable, usada funcionando, la prueba al recibir).
+- Kit: título "🚙 Kit 6 Rótulas y Bieletas 4Runner/Tacoma 🔧" + texto con Q150 por pieza vs Q215-Q260 la suelta.
+- Silla: título "💅 Silla Spa Pedicure Lexor con Masaje y Tina ✨" (texto se dejó, ya era bueno).
+- Planta: renovada (próxima renovación en 7 días).
+- Pendiente: portada del kit (hoy salen las piezas en bolsa; falta foto de las 6 juntas en su empaque) y gorra a grupos de boxeo con el video gorra_pelea.mp4.
