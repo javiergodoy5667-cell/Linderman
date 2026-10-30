@@ -48,6 +48,9 @@ Decidirlo SIEMPRE antes de tocar una publicación:
 - Pocos clics = problema de título/foto/etiquetas (no de precio). Clics sin mensajes = precio o texto.
 
 ## Errores encontrados
+- 2026-10-29: Javier dijo "0 mensajes" y sí había 5 en facebook.com/marketplace/inbox (pestaña Venta), uno sin responder 3 días. ANTES de diagnosticar: revisar bandeja + clics de cada publicación. Y cargar ESTA habilidad desde el primer mensaje de Marketplace (Javier lo reclamó).
+- 2026-10-29: portada = producto VISIBLE y reconocible (sierra fuera o con maletín abierto; kit con todas las piezas juntas). Maletín cerrado o pieza suelta en bolsa = clics sin mensajes. Producto sellado: la portada muestra el set completo en su empaque y "nuevo sellado" va como gancho.
+- 2026-10-29: la etiqueta de una pieza puede traer la REFERENCIA de otra marca (kit SCITOO con etiqueta "MOOG K90263"). Nunca poner en el título la marca de referencia como si fuera la del producto.
 - 2026-10-23: Javier rechazó frases de libro de ventas por genéricas. Los guiones se escriben con el lenguaje del rubro (para mayoreo: talla, quintales, neto, merma, día de recepción, condiciones) y en tono de proveedor firme, nunca de vendedor que pide.
 - 2026-10-23: Javier rechazó un guion de 6 páginas por largo. Entregables de 1 página: frases listas, tabla de objeciones, nada de teoría.
 - Marketplace rechazó mariscos (13-oct-2026): no reintentar; arriesga la cuenta.
