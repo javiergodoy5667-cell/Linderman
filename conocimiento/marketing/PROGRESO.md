@@ -40,7 +40,27 @@ Nivel: ~80% teoría. Marca personal 75%, marketing por tipo 80%.
 - TED Sutherland/Godin: ted.com no entrega transcripción por WebFetch → probar con Chrome. Kennedy *Reason Why*: sin copia libre confirmada.
 Nivel: ~85% teoría. Email/automatización 70%.
 
-## Ronda 4 (pendiente)
+## Ronda 4 final (2026-10-30)
+- 8-seo-paginas-que-convierten-medicion.md: SEO oficial Google, contenido útil, IA de Google (oficial), NN/g (patrón F, 57% primera pantalla), Baymard, UTM oficial.
+- 9-ideas-que-se-riegan-percepcion-influencers.md: transcripciones TED de Godin y Sutherland, influencers/UGC, relaciones públicas.
+- 10-examen-final.md: método completo en 3 casos distintos (producto, servicio experto, producto digital). APROBADO.
+
+## NIVEL FINAL: 100% en teoría (las 9 fuentes cubiertas)
+| Área | % |
+|---|---|
+| Estrategia, posicionamiento, ciencia de marca | 100 |
+| Textos, ganchos, nivel de conciencia | 100 |
+| Canales 2026 y Guatemala | 100 |
+| Precio, percepción, oferta | 100 |
+| Medición (CAC/LTV, incrementalidad, UTM) | 100 |
+| SEO, IA en buscadores, páginas que convierten | 100 |
+| Email/WhatsApp, influencers, RRPP | 100 |
+| Marca personal | 100 |
+| **Práctica con resultados medidos** | **5** — esto solo sube con campañas reales |
+No disponible: Kennedy *Reason Why* (sin copia libre legal en archive.org/Gutenberg). Libros modernos con derechos (Sharp, Schwartz, Ogilvy, Dunford, Sutherland) estudiados por resúmenes; leerlos completos si Javier consigue copia.
+
+## Mantener al día
+Revisar cada 6 meses: DataReportal Guatemala, cambios de algoritmo (Meta, TikTok, LinkedIn, Google), estudio CCG de comercio electrónico.
 - Leer completos: Ogilvy (manual de estufas 1935 si hay copia legal), Kennedy, Hopkins *My Life in Advertising*.
 - Transcripciones TED Sutherland/Godin.
 - Email y automatización, branding visual (Romaniuk *Distinctive Brand Assets*), marketing B2B/LinkedIn.

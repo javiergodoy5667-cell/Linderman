@@ -123,4 +123,7 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 | marketing/5-marketing-por-tipo-de-negocio.md | Manual para CUALQUIER producto o servicio: producto físico, reventa, servicio local, servicio experto, producto digital, e-commerce, B2B, lanzamientos; 7P de servicios; plantilla universal de 9 pasos |
 | marketing/6-marca-personal.md | Marca personal para cualquier profesión: estudios, 5 piezas, 3 pilares de contenido, cómo funciona LinkedIn 2026 (oficial), dónde construirla, plan de 90 días, errores |
 | marketing/7-email-whatsapp-activos-distintivos.md | Lista propia: cifras de email (Klaviyo 2025), 4 flujos básicos, WhatsApp Business y cobro por mensaje (Meta), activos distintivos de Romaniuk (fama × unicidad) |
-| marketing/PROGRESO.md | Avance (~80% teoría) y qué falta |
+| marketing/8-seo-paginas-que-convierten-medicion.md | SEO oficial de Google (qué sí, qué no importa), contenido útil, cómo salir en IA de Google, patrón F y primera pantalla (NN/g), abandono de pedidos, enlaces UTM |
+| marketing/9-ideas-que-se-riegan-percepcion-influencers.md | TED Godin (vaca púrpura, obsesionados) y Sutherland (valor percibido), influencers micro/nano, contenido de clientes, relaciones públicas |
+| marketing/10-examen-final.md | Método completo aplicado a café, contador (marca personal) y curso digital |
+| marketing/PROGRESO.md | Avance: 100% teoría, práctica 5%; qué revisar cada 6 meses |
