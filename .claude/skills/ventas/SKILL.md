@@ -45,6 +45,7 @@ Decidirlo SIEMPRE antes de tocar una publicación:
 - TÍTULO LLAMATIVO (corrección de Javier, 25 oct): nada de "Original" ni palabras planas. Usar el gancho que emociona al comprador (apodo, edición, número): "Gorra El Monstruo Benavidez Numerada", no "Gorra 31 Hats Benavidez Original". La palabra "original" NO va en ningún lado (título, texto ni etiquetas). CON EMOJIS al inicio y al final del título (Javier, 25 oct): "🥊 Gorra El Monstruo Benavidez Numerada 🔥", "🔥 Sierra Sable Bosch RS15 con Maletín 🪚", "🚙 Rótulas y Bieletas 4Runner / Tacoma 🔧".
 - FOTOS REALES (corrección de Javier, 25 oct): en artículos de colección/ropa usar TODAS las fotos originales del celular (frente, lado, atrás, interior, etiqueta), solo con luz y nitidez. El estudio recortado se vio aburrido y con 3 fotos no vendió.
 - FOTOS: si no son de estudio o se ven caseras, editarlas con foto-pro/edicion-foto-video en el mismo trabajo, sin esperar que lo pida.
+- TONO (Javier, 29 oct): descripción HUMANA, nada técnica ni de IA. Gancho emocional en la 1ª línea, beneficio que siente el comprador, voseo/trato de Guatemala, emojis con medida, cierre con precio + WhatsApp. Sin listas de especificaciones.
 - Pocos clics = problema de título/foto/etiquetas (no de precio). Clics sin mensajes = precio o texto.
 
 ## Errores encontrados

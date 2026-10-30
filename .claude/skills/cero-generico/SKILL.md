@@ -1,4 +1,4 @@
----
+﻿---
 name: cero-generico
 description: Filtro OBLIGATORIO antes de entregar CUALQUIER respuesta, plan, guion, mensaje, CV, anuncio o documento a Javier. Quita lo genérico y deja solo lo concreto y experto. Aplicar SIEMPRE, sin que lo pida.
 ---
@@ -36,6 +36,8 @@ Siempre, justo antes de entregar. Es una lista de "hacer y luego confirmar".
 - **Conocimiento.** Malo: aprender solo para mariscos. Bueno: saber el tema completo y luego aplicarlo al caso.
 - **CV.** Malo: copiar el título y frases de la vacante. Bueno: logros reales de Javier (Alorica, ventas) dichos con naturalidad.
 - **Bio / descripción de marca.** Malo: "Planta 6000 W · Día Q400 · Fin de semana Q700" (anuncio de un producto). Bueno: "Renta de maquinaria en San Miguel Petapa · Equipo revisado en cada entrega · Te lo llevamos a tu casa, obra o evento" (el negocio como tal).
+
+- **Anuncio Marketplace (silla pedicure, 29 oct).** Malo: lista de ✅ 'Respaldo reclinable desde el panel / Desagüe al piso / Control digital' (suena a robot). Bueno: 'Tus clientas no se van a querer levantar 😍 Masajito en la espalda mientras les hacés los pies'.
 
 ## Cómo mejora sola
 Cada vez que Javier diga "genérico", "eso no", "no me sirve" o me corrija: agregar el caso aquí como ejemplo malo → bueno (una línea cada uno) y una línea en MEMORIA.
