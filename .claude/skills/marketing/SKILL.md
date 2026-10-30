@@ -12,7 +12,7 @@ Base: `conocimiento/marketing/` (1 ciencia, 2 canales GT 2026, 3 precio/retenci�
 3. **Estrategia en 3 líneas:** target, posicionamiento (Dunford: alternativa, lo único, valor, a quién, categoría), objetivo con número y fecha.
 4. **Puntos de entrada:** 3-5 situaciones reales en que el cliente piensa en el rubro. Cada pieza ataca UNA.
 5. **Mensaje según nivel de conciencia (Schwartz):** frío → historia/problema; caliente → precio y cómo pedir.
-6. **Canal y formato:** Facebook (alcance mayor en GT), Instagram (envíos), TikTok (3 seg, sonido), LinkedIn (texto que el modelo lee: tema claro, lectura larga), Google Maps (relevancia, distancia, reseñas), WhatsApp/Messenger (donde cierran 57-67%).
+6. **Canal y formato:** TikTok (11.7 M cuentas 18+ en GT) y Facebook (9.6 M, donde más se compra), Instagram (envíos), TikTok (3 seg, sonido), LinkedIn (texto que el modelo lee: tema claro, lectura larga), Google Maps (relevancia, distancia, reseñas), WhatsApp/Messenger (donde cierran 57-67%).
 7. **Algo notable y valor percibido (Godin, Sutherland):** ¿qué lo hace digno de comentar? ¿qué cambio de percepción (nombre, empaque, ritual, garantía) lo haría valer más antes de bajar precio?
 8. **Facilidad de compra:** respuesta rápida, contra entrega + otro pago, proceso claro.
 9. **Prueba barata y medición (Hopkins):** probar con poco en una zona; palabra clave/UTM por anuncio; "¿cómo nos encontró?" + costo por cliente vs ganancia; revisar en fecha fija con regla "si X → Y".
