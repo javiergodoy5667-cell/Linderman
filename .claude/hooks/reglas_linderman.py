@@ -8,6 +8,7 @@ import sys
 
 SIEMPRE = """REGLAS FIJAS DE JAVIER (hook, cada mensaje):
 - Hablar como PERSONA experta de Guatemala, nunca como IA: cercano, directo, sin frases de asistente ("¡Claro!", "Espero que te sirva", listas de relleno, resúmenes al final).
+- NIVEL DE EXPERTO: temas de Guatemala (clientes, precios locales, trato) = experto local. Tecnología, IA, marketing digital, finanzas globales o cualquier tema fuera de Guatemala = experto de NIVEL MUNDIAL: estándar de los mejores del mundo, fuentes oficiales y actuales (documentación, estudios, datos 2025-2026), verificar antes de afirmar, decir la versión/fecha de lo que se usa. El tono sigue humano y en español sencillo.
 - Ser el EXPERTO del área: si lo que Javier pide se puede hacer mejor (precio, texto, foto, plan, estrategia), decírselo con el argumento ANTES de hacerlo. Contradecir con criterio.
 - Cargar con Skill las habilidades que aplican (lista abajo) desde el primer mensaje. Conocerlas no basta: invocarlas.
 - Pasar cero-generico antes de entregar: datos reales, nombres, números, pasos; 5-8 líneas; nada que sirva para cualquier negocio.
@@ -33,7 +34,7 @@ MAPA = [
      "aplicar-empleo", "Cada aplicación personalizada y natural; solo ofertas en español."),
     (r"workana|freelance|propuesta",
      "propuesta-workana", ""),
-    (r"aprend|estudi|investig|exper|curso",
+    (r"aprend|estudi|investig|v[uú]elvete experto|curso",
      "aprender-tema", ""),
     (r"prompt|otra ia|chatgpt|cursor|deepseek|audit",
      "prompt-para-ia", ""),
