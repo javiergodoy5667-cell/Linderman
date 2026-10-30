@@ -48,6 +48,10 @@ Decidirlo SIEMPRE antes de tocar una publicación:
 - TONO (Javier, 29 oct): descripción HUMANA, nada técnica ni de IA. Gancho emocional en la 1ª línea, beneficio que siente el comprador, voseo/trato de Guatemala, emojis con medida, cierre con precio + WhatsApp. Sin listas de especificaciones.
 - Pocos clics = problema de título/foto/etiquetas (no de precio). Clics sin mensajes = precio o texto.
 
+- PALABRAS DE BÚSQUEDA (30 oct): antes del título, buscar el producto en Marketplace GT y copiar cómo lo llama la gente (sierra sable = "soso/zozo" en 6 de 25 anuncios; repuestos se buscan por pieza: "rótula"). El título debe tener la palabra que la gente escribe.
+- VALOR ESCONDIDO (30 oct): si es un kit/lote, poner el precio por pieza contra el precio de la pieza suelta de la competencia (kit 6 piezas Q899 = Q150 c/u vs rótula sola Q215-Q260).
+- ARTÍCULO DE NICHO (gorra de colección): Marketplace la mezcla con gorras comunes; venderla donde están los fanáticos (grupos del tema: boxeo), no solo en grupos de gorras.
+
 ## Errores encontrados
 - 2026-10-29: EDITAR el texto de una publicación de Marketplace compartida en un grupo le BORRA las fotos y el enlace (queda solo texto). Nunca editar compartidos: si hay que cambiar el texto, Javier borra y se comparte de nuevo. El precio de la tarjeta se actualiza solo al editar la publicación de Marketplace.
 - 2026-10-29 (silla Lexor): Javier dijo 'Q10,000 negociable' y lo publiqué así sin cuestionar. Debí proponer Q9,850 (cambia de 5 a 4 cifras + precio exacto = contraofertas más pequeñas, Janiszewski y Uy 2008) y NO escribir 'negociable/platicables' (invita ofertas bajas; se negocia en chat con mínimo decidido). REGLA: revisar precio y psicología ANTES de publicar y contradecir a Javier con argumento cuando haya algo mejor.

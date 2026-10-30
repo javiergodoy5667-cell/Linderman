@@ -127,3 +127,4 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 | marketing/9-ideas-que-se-riegan-percepcion-influencers.md | TED Godin (vaca púrpura, obsesionados) y Sutherland (valor percibido), influencers micro/nano, contenido de clientes, relaciones públicas |
 | marketing/10-examen-final.md | Método completo aplicado a café, contador (marca personal) y curso digital |
 | marketing/PROGRESO.md | Avance: 100% teoría, práctica 5%; qué revisar cada 6 meses |
+| ../ventas/estudio-marketplace-2026-10-30.md | Estudio de las 6 publicaciones de Marketplace contra la competencia (30 oct): diagnóstico y acción por publicación |
