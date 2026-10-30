@@ -49,6 +49,7 @@ Decidirlo SIEMPRE antes de tocar una publicación:
 - Pocos clics = problema de título/foto/etiquetas (no de precio). Clics sin mensajes = precio o texto.
 
 ## Errores encontrados
+- 2026-10-29 (silla Lexor): Javier dijo 'Q10,000 negociable' y lo publiqué así sin cuestionar. Debí proponer Q9,850 (cambia de 5 a 4 cifras + precio exacto = contraofertas más pequeñas, Janiszewski y Uy 2008) y NO escribir 'negociable/platicables' (invita ofertas bajas; se negocia en chat con mínimo decidido). REGLA: revisar precio y psicología ANTES de publicar y contradecir a Javier con argumento cuando haya algo mejor.
 - 2026-10-29: Javier dijo "0 mensajes" y sí había 5 en facebook.com/marketplace/inbox (pestaña Venta), uno sin responder 3 días. ANTES de diagnosticar: revisar bandeja + clics de cada publicación. Y cargar ESTA habilidad desde el primer mensaje de Marketplace (Javier lo reclamó).
 - 2026-10-29: portada = producto VISIBLE y reconocible (sierra fuera o con maletín abierto; kit con todas las piezas juntas). Maletín cerrado o pieza suelta en bolsa = clics sin mensajes. Producto sellado: la portada muestra el set completo en su empaque y "nuevo sellado" va como gancho.
 - 2026-10-29: la etiqueta de una pieza puede traer la REFERENCIA de otra marca (kit SCITOO con etiqueta "MOOG K90263"). Nunca poner en el título la marca de referencia como si fuera la del producto.
