@@ -2,7 +2,7 @@
 Fuente: folleto Escritorio\Rentas-Arrdoy-Planta-6000W.pdf (vigente desde oct 2026). WhatsApp 5544-9803. San Miguel Petapa.
 
 ## Precios
-- Día (24 h) Q400 · Fin de semana (viernes a lunes) Q700 · Semana Q1,600 · Quincena Q2,800 · Mes Q4,400
+- Día (24 h) Q400 · Fin de semana (sábado a lunes) Q700 · Semana Q1,600 · Quincena Q2,800 · Mes Q4,400
 - Paquete evento: hasta 6 h, incluye tanque lleno, Q450
 
 ## Entrega y extras
