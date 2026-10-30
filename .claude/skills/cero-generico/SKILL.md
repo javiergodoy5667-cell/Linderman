@@ -39,6 +39,8 @@ Siempre, justo antes de entregar. Es una lista de "hacer y luego confirmar".
 
 - **Anuncio Marketplace (silla pedicure, 29 oct).** Malo: lista de ✅ 'Respaldo reclinable desde el panel / Desagüe al piso / Control digital' (suena a robot). Bueno: 'Tus clientas no se van a querer levantar 😍 Masajito en la espalda mientras les hacés los pies'.
 
+- **Aprender un tema (marketing, 30 oct).** Malo: terminar el estudio y saltar a ejecutar algo de su negocio (Google Maps de la renta). Bueno: dominar el tema para cualquier producto/servicio y marca personal; aplicarlo a un negocio solo si lo pide.
+
 ## Cómo mejora sola
 Cada vez que Javier diga "genérico", "eso no", "no me sirve" o me corrija: agregar el caso aquí como ejemplo malo → bueno (una línea cada uno) y una línea en MEMORIA.
 

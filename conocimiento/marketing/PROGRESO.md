@@ -29,7 +29,12 @@ Conectado con lo que ya sabía: meta-ads/, ventas-canales/, ventas-whatsapp/, ed
 | Email / automatización / CRM | 30 |
 | Práctica real con resultados medidos | 5 |
 
-## Ronda 2 (pendiente)
+## Ronda 2 (2026-10-30): general + marca personal
+- 5-marketing-por-tipo-de-negocio.md: manual para 8 tipos de negocio + plantilla universal.
+- 6-marca-personal.md: estudios, método, LinkedIn oficial 2026, plan 90 días.
+Nivel: ~80% teoría. Marca personal 75%, marketing por tipo 80%.
+
+## Ronda 3 (pendiente)
 - Leer completos: Ogilvy (manual de estufas 1935 si hay copia legal), Kennedy, Hopkins *My Life in Advertising*.
 - Transcripciones TED Sutherland/Godin.
 - Email y automatización, branding visual (Romaniuk *Distinctive Brand Assets*), marketing B2B/LinkedIn.

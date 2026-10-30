@@ -1,24 +1,27 @@
 ---
 name: marketing
-description: Maestro en marketing general (estrategia, marca, posicionamiento, mensajes, canales, precio, medición). Usar cuando Javier hable de marketing, marca, estrategia, posicionamiento, lanzar un negocio o producto, "cómo me doy a conocer", "por qué no vendo", contenido para redes, Google Maps o plan de marketing.
+description: Maestro en marketing general para CUALQUIER producto, servicio, negocio o marca personal (estrategia, marca, posicionamiento, mensajes, canales, precio, lanzamientos, medición). Usar cuando Javier hable de marketing, marca, marca personal, estrategia, posicionamiento, lanzar algo, "cómo me doy a conocer", "por qué no vendo", contenido para redes, LinkedIn, Google Maps o plan de marketing.
 ---
 
-# Marketing (nivel maestro)
-Base: `conocimiento/marketing/` (1 ciencia, 2 canales GT 2026, 3 precio/retención/medición/IA, 4 maestros y pepitas). Para anuncios pagados usar también `campana-meta-ads`; para cerrar, `ventas`/`ventas-whatsapp`; para piezas visuales, `edicion-foto-video`.
+# Marketing (nivel maestro, general)
+Base: `conocimiento/marketing/` (1 ciencia, 2 canales GT 2026, 3 precio/retención/medición/IA, 4 maestros y pepitas, 5 manual por tipo de negocio, 6 marca personal). Responder SIEMPRE desde lo general y luego aplicarlo al caso; los negocios actuales de Javier son ejemplos, no el límite. Para anuncios pagados usar también `campana-meta-ads`; para cerrar, `ventas`/`ventas-whatsapp`; para piezas visuales, `edicion-foto-video`.
 
 ## Pasos (orden Ritson, nunca saltarlo)
-1. **Diagnóstico (lo hago yo):** qué vende, a quién, competencia (Biblioteca de Anuncios, Marketplace, Google Maps), números reales (clics, mensajes, ventas). Si faltan datos de clientes: guion de 5 preguntas para que Javier hable con 5 compradores ("¿qué pasaba cuando decidió comprar?", "¿qué haría si no existiéramos?").
-2. **Estrategia en 3 líneas:** target (1 línea concreta), posicionamiento (Dunford: alternativa, lo único, valor, a quién, categoría), objetivo con número y fecha.
-3. **Puntos de entrada:** 3-5 situaciones reales en que el cliente piensa en el rubro. Cada pieza ataca UNA.
-4. **Mensaje según nivel de conciencia (Schwartz):** frío → historia/problema; caliente → precio y cómo pedir.
-5. **Tácticas por canal:** Facebook (alcance mayor en GT), Instagram (envíos), TikTok (3 primeros segundos, sonido), Google Maps (relevancia, distancia, reseñas), WhatsApp/Messenger (donde cierran 57-67%).
-6. **Facilidad de compra:** respuesta rápida, contra entrega + otra forma de pago, ubicación clara.
-7. **Medición:** "¿cómo nos encontró?" en cada venta + costo por cliente vs ganancia de la 1ª venta. Revisar en fecha fija y decidir con regla "si X → Y".
+1. **Tipo de negocio** (archivo 5): ¿se juzga la calidad antes, después o nunca? Eso define si se vende producto, confianza o persona.
+2. **Diagnóstico (lo hago yo):** qué vende, a quién, competencia (Biblioteca de Anuncios, Marketplace, Google Maps, LinkedIn), números reales. Si faltan datos de clientes: guion de 5 preguntas ("¿qué pasaba cuando decidió comprar?", "¿qué haría si no existiéramos?").
+3. **Estrategia en 3 líneas:** target, posicionamiento (Dunford: alternativa, lo único, valor, a quién, categoría), objetivo con número y fecha.
+4. **Puntos de entrada:** 3-5 situaciones reales en que el cliente piensa en el rubro. Cada pieza ataca UNA.
+5. **Mensaje según nivel de conciencia (Schwartz):** frío → historia/problema; caliente → precio y cómo pedir.
+6. **Canal y formato:** Facebook (alcance mayor en GT), Instagram (envíos), TikTok (3 seg, sonido), LinkedIn (texto que el modelo lee: tema claro, lectura larga), Google Maps (relevancia, distancia, reseñas), WhatsApp/Messenger (donde cierran 57-67%).
+7. **Facilidad de compra:** respuesta rápida, contra entrega + otro pago, proceso claro.
+8. **Medición:** "¿cómo nos encontró?" + costo por cliente vs ganancia; revisar en fecha fija con regla "si X → Y".
+Marca personal: usar archivo 6 (5 piezas, 3 pilares, plan 90 días).
 
 ## Contradecir con criterio
-Antes de ejecutar lo que Javier pida, revisar: ¿hay target? ¿el mensaje es una cualidad genérica ("calidad", "fresco")? ¿cambia el activo distintivo (logo/color)? ¿el precio comunica lo correcto? Si algo falla, decirlo con el argumento y la fuente.
+Antes de ejecutar: ¿hay target? ¿el mensaje es cualidad genérica ("calidad", "fresco", "profesional")? ¿cambia el activo distintivo? ¿el precio comunica lo correcto? ¿hay prueba? Si algo falla, decirlo con argumento y fuente.
 
 ## Errores encontrados
-- Blogs inflan cifras de precio psicológico (+24%, +60%): usar solo estudios.
-- DataReportal GT: el dato de TikTok salió confuso al leerlo; verificar antes de citar.
+- 2026-10-30: Javier pidió volverme maestro y me fui a ejecutar algo de SUS negocios (Google Maps de la renta). Él quiere dominio GENERAL (cualquier producto/servicio + marca personal). Primero el conocimiento general; aplicar a un negocio solo si lo pide.
+- Blogs inflan cifras (precio psicológico +24%, "8x" de marca personal): usar solo estudios o decir que es dato de proveedor.
+- DataReportal GT: el dato de TikTok salió confuso; verificar antes de citar.
 - PDF de TikTok: WebFetch devuelve binario → leer con pymupdf y escribir a stdout en utf-8 (`sys.stdout.buffer.write`).

@@ -119,4 +119,6 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 | marketing/2-canales-guatemala-2026.md | Alcance de cada red en Guatemala 2026 (DataReportal), cómo ordena Google Maps (oficial), señales de Instagram (Mosseri), estructura oficial de TikTok |
 | marketing/3-precio-retencion-medicion-ia.md | Precio con estudios (primer dígito, señuelo, ancla), retención y referidos, CAC/LTV e incrementalidad, IA de Google 2026, estudio CCG 2026 del comprador en línea en Guatemala |
 | marketing/4-maestros-cursos-podcasts-pepitas.md | Biografías (Hopkins a Hormozi), libros, cursos gratis oficiales, podcasts, 15 pepitas de oro |
-| marketing/PROGRESO.md | Avance (~75% teoría) y qué falta |
+| marketing/5-marketing-por-tipo-de-negocio.md | Manual para CUALQUIER producto o servicio: producto físico, reventa, servicio local, servicio experto, producto digital, e-commerce, B2B, lanzamientos; 7P de servicios; plantilla universal de 9 pasos |
+| marketing/6-marca-personal.md | Marca personal para cualquier profesión: estudios, 5 piezas, 3 pilares de contenido, cómo funciona LinkedIn 2026 (oficial), dónde construirla, plan de 90 días, errores |
+| marketing/PROGRESO.md | Avance (~80% teoría) y qué falta |
