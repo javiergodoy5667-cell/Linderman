@@ -110,3 +110,4 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 - conocimiento/casos-de-exito/ritual-tribal-octubre-2026.md — Ritual Tribal oct 2026 (Divisual): las 21 cartas día por día (prospección IA: avatar, propuesta, CRM, emails, llamadas, Looms, puerta fría, red caliente). PDF en Escritorio\Ritual-Tribal-Octubre-2026.pdf
 - prompts/buscador-ofertas-gt.md — Prompt profesional para que otra IA construya el 'Cazador de Ofertas GT' (scraping tiendas GT + alertas Telegram + web GitHub Pages).
 - prompts/plan-q10000-mariscos.md · Caso real Q10,000/mes (clienta Zacapa partida en 100 lb c/15 días + 2º Zacapa contado + 5-6 clientes contado locales) y prompt para IA que lo valide. 2026-10-27
+- renta-planta: Contrato de renta para clientes (Claude Docs) https://claude.ai/artifact/UnSD8mpnxT3T8YLJGJKZDV · 2026-10-29
