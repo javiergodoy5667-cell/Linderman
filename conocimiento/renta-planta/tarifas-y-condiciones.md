@@ -15,3 +15,6 @@ DPI vigente + recibo de luz/agua de la dirección donde se usa · depósito Q1,5
 
 ## Specs clave
 6000 W continuos (6500 arranque), 110/220 V, gasolina 15 HP, arranque de cuerda, 89 kg con ruedas, 97 dB (lejos de la gente). Sirve: casa, obra, eventos (sonido y luces). No: aires grandes ni soldadoras grandes.
+
+## Gasolina (2026-10-29)
+Regular sin plomo, la de bomba. No hace falta súper. Motor 4 tiempos: NO mezclar aceite con la gasolina. Gasolina de menos de 30 días; si va a estar guardada más de un mes, vaciar el tanque o ponerle estabilizador. Aceite del motor aparte: SAE 10W-30, ~1.1 L, cada 50 h. Código de placa G8899117: no se encontró el manual EXTOL en línea; dato basado en el tipo de motor (420 cc OHV, 4 tiempos). Confirmar con el manual impreso si aparece.
