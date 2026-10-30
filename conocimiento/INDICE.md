@@ -20,6 +20,7 @@ Temas (carpetas): `ventas/`, `finanzas/`, `disciplina/`, `marketing/`, `meta-ads
 | libros/publicidad-cientifica-hopkins.md | Publicidad Científica (1923): vender, medir, ser específico, probar en pequeño |
 | libros/hombre-mas-rico-de-babilonia.md | El hombre más rico de Babilonia (1926): 7 curas, 5 leyes del oro, prestar, plan 10/70/20 para deudas |
 | libros/arte-de-hacer-dinero-barnum.md | El arte de hacer dinero (1880): 20 reglas de Barnum para ganar y conservar dinero |
+| libros/mi-vida-en-publicidad-hopkins.md | Mi vida en publicidad (1927): 15 lecciones con casos (Palmolive US$700, Pepsodent, Puffed, cifras exactas, probar barato, su gran error) |
 | libros/LISTA.md | Libros modernos recomendados (con derechos): cuáles conseguir y por qué |
 
 | Archivo | Qué contiene |
@@ -121,4 +122,5 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 | marketing/4-maestros-cursos-podcasts-pepitas.md | Biografías (Hopkins a Hormozi), libros, cursos gratis oficiales, podcasts, 15 pepitas de oro |
 | marketing/5-marketing-por-tipo-de-negocio.md | Manual para CUALQUIER producto o servicio: producto físico, reventa, servicio local, servicio experto, producto digital, e-commerce, B2B, lanzamientos; 7P de servicios; plantilla universal de 9 pasos |
 | marketing/6-marca-personal.md | Marca personal para cualquier profesión: estudios, 5 piezas, 3 pilares de contenido, cómo funciona LinkedIn 2026 (oficial), dónde construirla, plan de 90 días, errores |
+| marketing/7-email-whatsapp-activos-distintivos.md | Lista propia: cifras de email (Klaviyo 2025), 4 flujos básicos, WhatsApp Business y cobro por mensaje (Meta), activos distintivos de Romaniuk (fama × unicidad) |
 | marketing/PROGRESO.md | Avance (~80% teoría) y qué falta |

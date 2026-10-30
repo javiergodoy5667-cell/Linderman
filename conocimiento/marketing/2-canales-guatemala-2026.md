@@ -4,8 +4,8 @@
 - Población 18.8 M · edad mediana **23.4 años** · 54% urbana.
 - Internet: 11.6 M (62%); 7.1 M sin internet. Velocidad móvil media 56.6 Mbps (+42% en un año): el video ya carga bien.
 - Alcance de anuncios: **Facebook 9.6 M** (81% de adultos) · **YouTube 7.5 M** · Messenger 5.6 M · **Instagram 4.1 M** (33% de adultos, +17% en un año) · LinkedIn 2.0 M · X 1.0 M · Threads 0.45 M.
-- TikTok: la cifra de la página salió confusa al leerla (pendiente verificar). Supuesto: es el 2º o 3º más grande en adultos jóvenes.
-- Lectura: en Guatemala **Facebook sigue siendo el rey** para vender a adultos; Instagram crece y llega a público más urbano/joven; LinkedIn (2 M) sirve para vender servicios a empresas y conseguir empleo/clientes de IA.
+- **TikTok: 11.7 M de cuentas adultas 18+** alcanzables (DataReportal; TikTok Ads Manager da 11.78 M). Ojo: son CUENTAS, no personas únicas (más que la población adulta conectada). Aun así es la red con más alcance publicitario en adultos, +20% en un año.
+- Lectura: en Guatemala **Facebook y TikTok** son los de mayor alcance (TikTok con cuentas, Facebook con personas más estables y donde se compra: Messenger 67%); Instagram crece y llega a público más urbano/joven; LinkedIn (2 M) sirve para vender servicios a empresas y conseguir empleo/clientes de IA.
 
 ## Google Maps / Perfil de Negocio [oficial: support.google.com/business/answer/7091]
 Google ordena negocios locales por: **relevancia** (qué tan completo y claro es el perfil), **distancia** (cerca de quien busca) y **prominencia** (qué tan conocido: cantidad y nota de reseñas, links, menciones).

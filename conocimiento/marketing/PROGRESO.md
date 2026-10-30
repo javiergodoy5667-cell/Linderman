@@ -34,7 +34,13 @@ Conectado con lo que ya sabía: meta-ads/, ventas-canales/, ventas-whatsapp/, ed
 - 6-marca-personal.md: estudios, método, LinkedIn oficial 2026, plan 90 días.
 Nivel: ~80% teoría. Marca personal 75%, marketing por tipo 80%.
 
-## Ronda 3 (pendiente)
+## Ronda 3 (2026-10-30)
+- Libro leído: Hopkins *Mi vida en publicidad* (capítulos clave) → libros/mi-vida-en-publicidad-hopkins.md.
+- 7-email-whatsapp-activos-distintivos.md. TikTok GT verificado: 11.7 M cuentas 18+.
+- TED Sutherland/Godin: ted.com no entrega transcripción por WebFetch → probar con Chrome. Kennedy *Reason Why*: sin copia libre confirmada.
+Nivel: ~85% teoría. Email/automatización 70%.
+
+## Ronda 4 (pendiente)
 - Leer completos: Ogilvy (manual de estufas 1935 si hay copia legal), Kennedy, Hopkins *My Life in Advertising*.
 - Transcripciones TED Sutherland/Godin.
 - Email y automatización, branding visual (Romaniuk *Distinctive Brand Assets*), marketing B2B/LinkedIn.
