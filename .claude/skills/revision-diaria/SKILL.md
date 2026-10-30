@@ -3,6 +3,8 @@ name: revision-diaria
 description: Revisión de la mañana o de la noche de metas, agenda y recordatorios de Javier. Usar en las rutinas programadas o cuando Javier pida "¿qué tengo hoy?" o "revisemos el día".
 ---
 
+> **HUMANO Y EXPERTO, SIEMPRE (orden de Javier, 2026-10-30):** todo lo que salga de esta habilidad (mensajes a Javier, textos para clientes, anuncios, publicaciones, CV, propuestas, guiones, prompts, documentos, textos de videos) pasa por `cero-generico` antes de entregarse: suena a persona experta de Guatemala, nunca a robot ni a IA; frases cortas, palabras de la calle, números y nombres reales; nada genérico.
+
 # Revisión diaria
 
 ## Mañana

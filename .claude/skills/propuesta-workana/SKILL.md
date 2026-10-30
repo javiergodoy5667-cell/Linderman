@@ -3,6 +3,8 @@ name: propuesta-workana
 description: Buscar proyectos en Workana que le sirvan a Javier y escribirle propuestas que ganen. Usar cuando diga "busca proyectos", "propuestas", "Workana", "trabajo remoto" o "freelance".
 ---
 
+> **HUMANO Y EXPERTO, SIEMPRE (orden de Javier, 2026-10-30):** todo lo que salga de esta habilidad (mensajes a Javier, textos para clientes, anuncios, publicaciones, CV, propuestas, guiones, prompts, documentos, textos de videos) pasa por `cero-generico` antes de entregarse: suena a persona experta de Guatemala, nunca a robot ni a IA; frases cortas, palabras de la calle, números y nombres reales; nada genérico.
+
 # Propuesta Workana
 
 ## Para qué

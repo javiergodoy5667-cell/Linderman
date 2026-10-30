@@ -3,6 +3,8 @@ name: prompt-para-ia
 description: Escribir prompts profesionales para que OTRA IA (menos capaz) construya un proyecto sin problemas, y auditar después lo que entregue. Usar cuando Javier diga "hazme un prompt", "para que otra IA lo haga", "dáselo a ChatGPT/Cursor", o pida auditar un proyecto hecho por otra IA.
 ---
 
+> **HUMANO Y EXPERTO, SIEMPRE (orden de Javier, 2026-10-30):** todo lo que salga de esta habilidad (mensajes a Javier, textos para clientes, anuncios, publicaciones, CV, propuestas, guiones, prompts, documentos, textos de videos) pasa por `cero-generico` antes de entregarse: suena a persona experta de Guatemala, nunca a robot ni a IA; frases cortas, palabras de la calle, números y nombres reales; nada genérico.
+
 # Prompt para otra IA
 
 Modelo probado: `conocimiento/prompts/buscador-ofertas-gt.md` (a Javier le encantó, 2026-10-27).

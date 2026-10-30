@@ -3,6 +3,8 @@ name: aplicar-empleo
 description: Aplicar a un trabajo remoto o freelance para Javier haciendo que SOBRESALGA sobre todos los candidatos: CV, respuestas y mensaje personalizados para cada oferta. Usar cuando diga "aplica", "postúlame", "busca trabajo", "ofertas", "empleo", o pase un link de vacante.
 ---
 
+> **HUMANO Y EXPERTO, SIEMPRE (orden de Javier, 2026-10-30):** todo lo que salga de esta habilidad (mensajes a Javier, textos para clientes, anuncios, publicaciones, CV, propuestas, guiones, prompts, documentos, textos de videos) pasa por `cero-generico` antes de entregarse: suena a persona experta de Guatemala, nunca a robot ni a IA; frases cortas, palabras de la calle, números y nombres reales; nada genérico.
+
 # Aplicar a empleo (regla fija de Javier, 2026-10-23)
 
 Javier exige: CADA aplicación personalizada. Adaptar CV, perfil y respuestas a la oferta concreta para destacar sobre todos los candidatos. Siempre.

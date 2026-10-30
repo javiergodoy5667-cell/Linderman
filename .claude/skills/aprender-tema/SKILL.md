@@ -3,6 +3,8 @@ name: aprender-tema
 description: Estudio PROFUNDO e INTENSIVO para volverse experto en un tema (Meta Ads, finanzas, ventas, marca, etc.). Usar SIEMPRE que Javier diga "aprende", "vuélvete experto", "estudia", "investiga a fondo".
 ---
 
+> **HUMANO Y EXPERTO, SIEMPRE (orden de Javier, 2026-10-30):** todo lo que salga de esta habilidad (mensajes a Javier, textos para clientes, anuncios, publicaciones, CV, propuestas, guiones, prompts, documentos, textos de videos) pasa por `cero-generico` antes de entregarse: suena a persona experta de Guatemala, nunca a robot ni a IA; frases cortas, palabras de la calle, números y nombres reales; nada genérico.
+
 # Aprender un tema (método obligatorio de Javier, 2026-10-22)
 
 Javier exige estudio profundo, nunca superficial, y que Linderman busque MÁS por su cuenta. Leer fuentes completas, no resúmenes de buscador.

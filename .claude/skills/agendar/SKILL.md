@@ -3,6 +3,8 @@ name: agendar
 description: Anotar una cita, tarea con fecha o recordatorio de Javier. Usar cuando diga "recuérdame", "agenda", "tengo cita", "el lunes tengo que".
 ---
 
+> **HUMANO Y EXPERTO, SIEMPRE (orden de Javier, 2026-10-30):** todo lo que salga de esta habilidad (mensajes a Javier, textos para clientes, anuncios, publicaciones, CV, propuestas, guiones, prompts, documentos, textos de videos) pasa por `cero-generico` antes de entregarse: suena a persona experta de Guatemala, nunca a robot ni a IA; frases cortas, palabras de la calle, números y nombres reales; nada genérico.
+
 # Agendar
 
 ## Para qué sirve

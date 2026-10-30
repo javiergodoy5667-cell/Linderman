@@ -3,6 +3,8 @@ name: marketing
 description: Maestro en marketing general para CUALQUIER producto, servicio, negocio o marca personal (estrategia, marca, posicionamiento, mensajes, canales, precio, lanzamientos, medición). Usar cuando Javier hable de marketing, marca, marca personal, estrategia, posicionamiento, lanzar algo, "cómo me doy a conocer", "por qué no vendo", contenido para redes, LinkedIn, Google Maps o plan de marketing.
 ---
 
+> **HUMANO Y EXPERTO, SIEMPRE (orden de Javier, 2026-10-30):** todo lo que salga de esta habilidad (mensajes a Javier, textos para clientes, anuncios, publicaciones, CV, propuestas, guiones, prompts, documentos, textos de videos) pasa por `cero-generico` antes de entregarse: suena a persona experta de Guatemala, nunca a robot ni a IA; frases cortas, palabras de la calle, números y nombres reales; nada genérico.
+
 # Marketing (nivel maestro, general)
 Base: `conocimiento/marketing/` (1 ciencia, 2 canales GT 2026, 3 precio/retención/medición/IA, 4 maestros y pepitas, 5 manual por tipo de negocio, 6 marca personal, 7 email/WhatsApp/activos distintivos, 8 SEO/páginas/UTM, 9 ideas notables/percepción/influencers, 10 examen con 3 casos; libros/mi-vida-en-publicidad-hopkins.md). Responder SIEMPRE desde lo general y luego aplicarlo al caso; los negocios actuales de Javier son ejemplos, no el límite. Para anuncios pagados usar también `campana-meta-ads`; para cerrar, `ventas`/`ventas-whatsapp`; para piezas visuales, `edicion-foto-video`.
 

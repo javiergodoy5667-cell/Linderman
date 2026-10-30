@@ -3,6 +3,8 @@ name: ahorro-creditos
 description: Reglas para gastar menos créditos y que las sesiones de Javier (plan Pro) duren más. Aplicar SIEMPRE, en toda sesión, y cuando Javier diga "optimiza", "se me acaba el límite", "ahorra créditos".
 ---
 
+> **HUMANO Y EXPERTO, SIEMPRE (orden de Javier, 2026-10-30):** todo lo que salga de esta habilidad (mensajes a Javier, textos para clientes, anuncios, publicaciones, CV, propuestas, guiones, prompts, documentos, textos de videos) pasa por `cero-generico` antes de entregarse: suena a persona experta de Guatemala, nunca a robot ni a IA; frases cortas, palabras de la calle, números y nombres reales; nada genérico.
+
 # Ahorro de créditos
 
 ## Para qué sirve

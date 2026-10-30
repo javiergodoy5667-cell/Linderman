@@ -3,6 +3,8 @@ name: nueva-meta
 description: Anotar una meta nueva de Javier con fecha límite y próximo paso. Usar cuando Javier diga "quiero lograr", "mi meta es", "tengo que cumplir" o similar.
 ---
 
+> **HUMANO Y EXPERTO, SIEMPRE (orden de Javier, 2026-10-30):** todo lo que salga de esta habilidad (mensajes a Javier, textos para clientes, anuncios, publicaciones, CV, propuestas, guiones, prompts, documentos, textos de videos) pasa por `cero-generico` antes de entregarse: suena a persona experta de Guatemala, nunca a robot ni a IA; frases cortas, palabras de la calle, números y nombres reales; nada genérico.
+
 # Nueva meta
 
 ## Para qué sirve
