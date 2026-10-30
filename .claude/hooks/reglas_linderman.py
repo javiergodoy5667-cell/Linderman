@@ -26,6 +26,8 @@ MAPA = [
      "'Con diseño' = buscar primero en Canva (search-designs). 'Reales' = originales del celular. Portada pensada para el recorte cuadrado del feed."),
     (r"anuncio|campa[nñ]a|meta ads|promocion|pautar|instagram|facebook ads",
      "campana-meta-ads, espiar-competencia", ""),
+    (r"marketing|marca|posiciona|estrategia|darme a conocer|darnos a conocer|contenido|redes sociales|google maps|tiktok",
+     "marketing", "Orden Ritson: diagnóstico, estrategia (target, posicionamiento, objetivo), tácticas. Amarrar la marca a situaciones reales (puntos de entrada), no a 'calidad'."),
     (r"busca.*client|a qui[eé]n le vendo|prospect|zona nueva",
      "buscar-clientes", ""),
     (r"dinero|deuda|ahorr|presupuesto|gasto|ganancia|fiar|sat|igss|finanz|capital|cobr",

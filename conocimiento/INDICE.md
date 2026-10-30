@@ -111,3 +111,12 @@ Registro de ventas y gastos: `finanzas/VENTAS.md` (en la raíz, no en conocimien
 - prompts/buscador-ofertas-gt.md — Prompt profesional para que otra IA construya el 'Cazador de Ofertas GT' (scraping tiendas GT + alertas Telegram + web GitHub Pages).
 - prompts/plan-q10000-mariscos.md · Caso real Q10,000/mes (clienta Zacapa partida en 100 lb c/15 días + 2º Zacapa contado + 5-6 clientes contado locales) y prompt para IA que lo valide. 2026-10-27
 - renta-planta: Contrato de renta para clientes (Claude Docs) https://claude.ai/artifact/UnSD8mpnxT3T8YLJGJKZDV · 2026-10-29
+
+## Marketing (maestro)
+| Archivo | Qué contiene |
+|---|---|
+| marketing/1-ciencia-del-marketing.md | Ritson (diagnóstico-estrategia-tácticas), Sharp (cómo crecen las marcas, puntos de entrada, activos distintivos), Binet & Field 60/40, Dunford y Ries & Trout (posicionamiento), Schwartz (5 niveles de conciencia), Ogilvy, Kennedy, Jobs to be Done |
+| marketing/2-canales-guatemala-2026.md | Alcance de cada red en Guatemala 2026 (DataReportal), cómo ordena Google Maps (oficial), señales de Instagram (Mosseri), estructura oficial de TikTok |
+| marketing/3-precio-retencion-medicion-ia.md | Precio con estudios (primer dígito, señuelo, ancla), retención y referidos, CAC/LTV e incrementalidad, IA de Google 2026, estudio CCG 2026 del comprador en línea en Guatemala |
+| marketing/4-maestros-cursos-podcasts-pepitas.md | Biografías (Hopkins a Hormozi), libros, cursos gratis oficiales, podcasts, 15 pepitas de oro |
+| marketing/PROGRESO.md | Avance (~75% teoría) y qué falta |
