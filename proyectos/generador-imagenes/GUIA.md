@@ -15,7 +15,7 @@ Corre en la tarjeta gratis de Kaggle (NVIDIA T4, 15 GB). ~30 h de tarjeta por se
 2. Panel derecho: **Accelerator → GPU T4 x2** e **Internet → On**.
 3. Arriba: **Run All**. La primera vez tarda 8-12 min. Las siguientes, igual (Kaggle borra todo al apagar).
 4. Al final sale el botón verde **ABRIR GENERADOR**. Ese link sirve en la compu y en el teléfono.
-5. Deje la pestaña de Kaggle abierta. Al terminar: botón ■ (Stop) y luego **Power off** (arriba a la derecha), para no gastar horas.
+5. Deje la pestaña de Kaggle abierta. Al terminar: botón ■ (Stop) y luego el botón de apagar la sesión (ícono ⏻ arriba a la derecha), para no gastar horas.
 6. Sus imágenes: panel derecho → **Output → imagenes**. O corra la última celda y le arma un .zip.
 
 ## Cómo pedir buenas imágenes
