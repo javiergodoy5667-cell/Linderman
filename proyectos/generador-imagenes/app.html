@@ -1,0 +1,275 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Linderman Imágenes</title>
+<style>
+:root{--bg:#111316;--panel:#1b1e23;--borde:#2c3138;--texto:#e9ecef;--suave:#9aa3ad;--acento:#3fb27f;--error:#e5534b}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--texto);font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+main{max-width:980px;margin:0 auto;padding:16px}
+h1{font-size:20px;margin:4px 0 14px}
+.panel{background:var(--panel);border:1px solid var(--borde);border-radius:12px;padding:14px;margin-bottom:14px}
+label{display:block;font-size:13px;color:var(--suave);margin:10px 0 4px}
+textarea,select,input{width:100%;background:#0d0f12;color:var(--texto);border:1px solid var(--borde);border-radius:8px;padding:10px;font:inherit}
+textarea{min-height:96px;resize:vertical}
+.fila{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px}
+@media(max-width:640px){.fila{grid-template-columns:1fr}}
+button{border:0;border-radius:10px;padding:13px 18px;font:600 16px system-ui,sans-serif;cursor:pointer}
+#crear{background:var(--acento);color:#06130d;width:100%;margin-top:14px}
+#crear:disabled{opacity:.5;cursor:wait}
+#cancelar{background:#2c3138;color:var(--texto);margin-top:8px;width:100%;display:none}
+details summary{cursor:pointer;color:var(--suave);font-size:14px;margin-top:12px}
+#estado{min-height:22px;font-size:14px;color:var(--suave);margin-top:10px}
+#estado.error{color:var(--error)}
+.barra{height:6px;background:#0d0f12;border-radius:4px;overflow:hidden;margin-top:6px;display:none}
+.barra i{display:block;height:100%;width:0;background:var(--acento);transition:width .2s}
+#galeria{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+.tarjeta{background:var(--panel);border:1px solid var(--borde);border-radius:10px;overflow:hidden}
+.tarjeta img{width:100%;display:block;cursor:zoom-in}
+.tarjeta div{display:flex;justify-content:space-between;align-items:center;padding:8px 10px;font-size:12px;color:var(--suave)}
+.tarjeta a{color:var(--acento);text-decoration:none;font-weight:600}
+#grande{position:fixed;inset:0;background:rgba(0,0,0,.92);display:none;align-items:center;justify-content:center;z-index:9}
+#grande img{max-width:96vw;max-height:94vh}
+</style>
+</head>
+<body>
+<main>
+<h1>Linderman Imágenes</h1>
+
+<div class="panel">
+  <label for="texto">¿Qué imagen quiere? (en inglés sale mejor)</label>
+  <textarea id="texto" placeholder="photo of a fisherman holding a big red snapper at the beach, golden hour"></textarea>
+
+  <div class="fila">
+    <div><label for="modelo">Modelo</label><select id="modelo"></select></div>
+    <div><label for="tamano">Tamaño</label>
+      <select id="tamano">
+        <option value="1024x1024">Cuadrada (1:1)</option>
+        <option value="832x1216">Vertical / Historia</option>
+        <option value="1216x832">Horizontal</option>
+        <option value="896x1152">Post vertical (4:5)</option>
+      </select></div>
+    <div><label for="cantidad">Cantidad</label>
+      <select id="cantidad"><option>1</option><option>2</option><option>3</option><option>4</option></select></div>
+  </div>
+
+  <details>
+    <summary>Más opciones</summary>
+    <label for="lora">Estilo extra (LoRA)</label>
+    <select id="lora"><option value="">Ninguno</option></select>
+    <label for="fuerza">Fuerza del estilo extra (0.1 a 1.5)</label>
+    <input id="fuerza" type="number" min="0.1" max="1.5" step="0.1" value="0.8">
+    <label for="negativo">Lo que NO quiere que salga</label>
+    <textarea id="negativo" style="min-height:60px"></textarea>
+    <div class="fila">
+      <div><label for="pasos">Pasos (más = más detalle, más lento)</label><input id="pasos" type="number" min="1" max="80"></div>
+      <div><label for="cfg">Qué tanto obedece al texto</label><input id="cfg" type="number" min="1" max="15" step="0.5"></div>
+      <div><label for="semilla">Semilla (vacío = al azar)</label><input id="semilla" type="number" min="0"></div>
+    </div>
+  </details>
+
+  <button id="crear">Crear</button>
+  <button id="cancelar">Cancelar</button>
+  <div class="barra" id="barra"><i></i></div>
+  <div id="estado">Cargando modelos…</div>
+</div>
+
+<div id="galeria"></div>
+<div id="grande"><img alt=""></div>
+</main>
+
+<script>
+const $ = id => document.getElementById(id);
+const clientId = Math.random().toString(36).slice(2);
+let modelos = [], trabajando = null;
+
+// Ajustes recomendados por tipo de modelo
+const PERFILES = {
+  flux:   {nombre:"FLUX (máximo realismo, lento)", pasos:20, cfg:3.5, sampler:"euler", sched:"simple", pre:"", neg:"", maxCant:2},
+  realvis:{nombre:"Fotos realistas (RealVisXL)", pasos:30, cfg:5, sampler:"dpmpp_2m_sde", sched:"karras", pre:"",
+           neg:"lowres, worst quality, low quality, blurry, deformed, bad anatomy, bad hands, extra fingers, watermark, text, cartoon, 3d, painting, illustration"},
+  noob:   {nombre:"Anime y personajes (NoobAI)", pasos:28, cfg:5, sampler:"euler_ancestral", sched:"normal",
+           pre:"masterpiece, best quality, newest, absurdres, highres, ",
+           neg:"worst quality, low quality, lowres, bad anatomy, bad hands, extra digits, fewer digits, watermark, signature, old, early, jpeg artifacts"},
+  pony:   {nombre:"Pony", pasos:28, cfg:7, sampler:"euler_ancestral", sched:"normal", saltoClip:-2,
+           pre:"score_9, score_8_up, score_7_up, ",
+           neg:"score_4, score_5, score_6, worst quality, low quality, bad anatomy, bad hands, watermark"},
+  sdxl:   {nombre:"", pasos:28, cfg:5.5, sampler:"dpmpp_2m", sched:"karras", pre:"",
+           neg:"lowres, worst quality, low quality, blurry, bad anatomy, bad hands, watermark, text"}
+};
+
+function perfilDe(m){
+  if(m.tipo === "flux") return "flux";
+  const n = m.archivo.toLowerCase();
+  if(n.includes("realvis")) return "realvis";
+  if(n.includes("noob") || n.includes("illustrious") || n.includes("wai")) return "noob";
+  if(n.includes("pony")) return "pony";
+  return "sdxl";
+}
+
+async function lista(nodo, campo){
+  try{
+    const r = await fetch("/object_info/" + nodo);
+    if(!r.ok) return [];
+    const j = await r.json();
+    return (j[nodo] && j[nodo].input.required[campo][0]) || [];
+  }catch(e){ return []; }
+}
+
+async function cargar(){
+  const ckpts = await lista("CheckpointLoaderSimple", "ckpt_name");
+  const ggufs = (await lista("UnetLoaderGGUF", "unet_name")).filter(n => n.toLowerCase().includes("flux"));
+  modelos = [...ggufs.map(a => ({archivo:a, tipo:"flux"})), ...ckpts.map(a => ({archivo:a, tipo:"sdxl"}))];
+  // Orden: realista primero
+  const orden = {realvis:0, flux:1, noob:2, pony:3, sdxl:4};
+  modelos.sort((a,b) => orden[perfilDe(a)] - orden[perfilDe(b)]);
+  $("modelo").innerHTML = modelos.map((m,i) =>
+    `<option value="${i}">${PERFILES[perfilDe(m)].nombre || m.archivo.replace(/\.safetensors$/,"")}</option>`).join("");
+  const loras = await lista("LoraLoader", "lora_name");
+  $("lora").innerHTML = '<option value="">Ninguno</option>' + loras.map(l => `<option>${l}</option>`).join("");
+  if(!modelos.length){ estado("No hay modelos. Revise en Kaggle que la celda de descarga terminó bien.", true); return; }
+  aplicarPerfil();
+  estado("Listo. Escriba qué quiere y apriete Crear.");
+}
+
+function aplicarPerfil(){
+  const p = PERFILES[perfilDe(modelos[$("modelo").value])];
+  $("pasos").value = p.pasos; $("cfg").value = p.cfg; $("negativo").value = p.neg;
+  $("lora").disabled = $("fuerza").disabled = (p === PERFILES.flux);
+}
+$("modelo").onchange = aplicarPerfil;
+
+function estado(t, err){ $("estado").textContent = t; $("estado").className = err ? "error" : ""; }
+
+function flujoSDXL(m, p, d){
+  const w = {
+    "1": {class_type:"CheckpointLoaderSimple", inputs:{ckpt_name:m.archivo}},
+    "9": {class_type:"VAELoader", inputs:{vae_name:"sdxl_vae_fp16_fix.safetensors"}},
+    "4": {class_type:"EmptyLatentImage", inputs:{width:d.ancho, height:d.alto, batch_size:d.cant}},
+    "5": {class_type:"KSampler", inputs:{seed:d.semilla, steps:d.pasos, cfg:d.cfg, sampler_name:p.sampler, scheduler:p.sched,
+          denoise:1, model:["1",0], positive:["2",0], negative:["3",0], latent_image:["4",0]}},
+    "6": {class_type:"VAEDecode", inputs:{samples:["5",0], vae:["9",0]}},
+    "7": {class_type:"SaveImage", inputs:{filename_prefix:"linderman", images:["6",0]}}
+  };
+  let modelo = ["1",0], clip = ["1",1];
+  if(d.lora){
+    w["10"] = {class_type:"LoraLoader", inputs:{lora_name:d.lora, strength_model:d.fuerza, strength_clip:d.fuerza, model:modelo, clip:clip}};
+    modelo = ["10",0]; clip = ["10",1];
+  }
+  if(p.saltoClip){
+    w["11"] = {class_type:"CLIPSetLastLayer", inputs:{stop_at_clip_layer:p.saltoClip, clip:clip}};
+    clip = ["11",0];
+  }
+  w["2"] = {class_type:"CLIPTextEncode", inputs:{text:p.pre + d.texto, clip:clip}};
+  w["3"] = {class_type:"CLIPTextEncode", inputs:{text:d.neg, clip:clip}};
+  w["5"].inputs.model = modelo;
+  return w;
+}
+
+function flujoFLUX(m, d){
+  return {
+    "1": {class_type:"UnetLoaderGGUF", inputs:{unet_name:m.archivo}},
+    "2": {class_type:"DualCLIPLoader", inputs:{clip_name1:"t5xxl_fp8_e4m3fn.safetensors", clip_name2:"clip_l.safetensors", type:"flux"}},
+    "3": {class_type:"CLIPTextEncode", inputs:{text:d.texto, clip:["2",0]}},
+    "4": {class_type:"FluxGuidance", inputs:{guidance:d.cfg, conditioning:["3",0]}},
+    "12":{class_type:"ConditioningZeroOut", inputs:{conditioning:["3",0]}},
+    "5": {class_type:"EmptySD3LatentImage", inputs:{width:d.ancho, height:d.alto, batch_size:d.cant}},
+    "6": {class_type:"KSampler", inputs:{seed:d.semilla, steps:d.pasos, cfg:1, sampler_name:"euler", scheduler:"simple",
+          denoise:1, model:["1",0], positive:["4",0], negative:["12",0], latent_image:["5",0]}},
+    "8": {class_type:"VAELoader", inputs:{vae_name:"ae.safetensors"}},
+    "9": {class_type:"VAEDecode", inputs:{samples:["6",0], vae:["8",0]}},
+    "7": {class_type:"SaveImage", inputs:{filename_prefix:"linderman", images:["9",0]}}
+  };
+}
+
+function barra(v){ $("barra").style.display = v === null ? "none" : "block"; $("barra").firstElementChild.style.width = (v||0) + "%"; }
+
+// Progreso en vivo (si el túnel deja pasar el websocket; si no, igual funciona sin barra)
+try{
+  const ws = new WebSocket((location.protocol === "https:" ? "wss://" : "ws://") + location.host + "/ws?clientId=" + clientId);
+  ws.onmessage = ev => {
+    if(typeof ev.data !== "string" || !trabajando) return;
+    const m = JSON.parse(ev.data);
+    if(m.type === "progress" && m.data.prompt_id === trabajando.id){
+      barra(100 * m.data.value / m.data.max);
+      estado(`Creando… paso ${m.data.value} de ${m.data.max}`);
+    }
+  };
+}catch(e){}
+
+async function crear(){
+  const texto = $("texto").value.trim();
+  if(!texto){ estado("Escriba primero qué imagen quiere.", true); return; }
+  const m = modelos[$("modelo").value], p = PERFILES[perfilDe(m)];
+  const [ancho, alto] = $("tamano").value.split("x").map(Number);
+  const d = {
+    texto, ancho, alto,
+    neg: $("negativo").value.trim(),
+    cant: Math.min(Number($("cantidad").value), p.maxCant || 4),
+    pasos: Math.max(1, Math.min(80, Number($("pasos").value) || p.pasos)),
+    cfg: Number($("cfg").value) || p.cfg,
+    semilla: $("semilla").value === "" ? Math.floor(Math.random() * 2**32) : Number($("semilla").value),
+    lora: $("lora").value, fuerza: Number($("fuerza").value) || 0.8
+  };
+  const flujo = p === PERFILES.flux ? flujoFLUX(m, d) : flujoSDXL(m, p, d);
+
+  $("crear").disabled = true; $("cancelar").style.display = "block"; barra(0);
+  estado("Enviando… (la primera imagen de cada modelo tarda más porque lo carga)");
+  const inicio = Date.now();
+  try{
+    const r = await fetch("/prompt", {method:"POST", headers:{"Content-Type":"application/json"},
+                                      body: JSON.stringify({prompt: flujo, client_id: clientId})});
+    const j = await r.json();
+    if(!r.ok || j.error){
+      const detalle = j.node_errors ? Object.values(j.node_errors).map(n => n.errors.map(e => e.details || e.message).join("; ")).join(" | ") : "";
+      throw new Error((j.error && j.error.message || "Error") + (detalle ? ": " + detalle : ""));
+    }
+    trabajando = {id: j.prompt_id};
+    const salida = await esperar(j.prompt_id);
+    const imgs = Object.values(salida.outputs || {}).flatMap(o => o.images || []);
+    if(!imgs.length) throw new Error("No salió ninguna imagen (se canceló o hubo un error en Kaggle).");
+    imgs.forEach(im => agregar(im, d.semilla));
+    estado(`Listo en ${Math.round((Date.now() - inicio)/1000)} s. Semilla ${d.semilla}.`);
+  }catch(e){
+    estado(e.message, true);
+  }finally{
+    trabajando = null; $("crear").disabled = false; $("cancelar").style.display = "none"; barra(null);
+  }
+}
+
+async function esperar(id){
+  while(true){
+    await new Promise(r => setTimeout(r, 1500));
+    let j;
+    try{ j = await (await fetch("/history/" + id)).json(); }catch(e){ continue; } // el túnel a veces corta una petición
+    const h = j[id];
+    if(!h) continue;
+    if(h.status && h.status.status_str === "error"){
+      if((h.status.messages || []).some(x => x[0] === "execution_interrupted")) throw new Error("Cancelado.");
+      const msg = (h.status.messages || []).find(x => x[0] === "execution_error");
+      throw new Error("Error en Kaggle: " + (msg ? msg[1].exception_message : "revise la celda de Kaggle"));
+    }
+    if(h.status && h.status.completed) return h;
+    if(h.outputs && Object.keys(h.outputs).length) return h;
+  }
+}
+
+function agregar(im, semilla){
+  const url = `/view?filename=${encodeURIComponent(im.filename)}&subfolder=${encodeURIComponent(im.subfolder)}&type=${im.type}`;
+  const t = document.createElement("div");
+  t.className = "tarjeta";
+  t.innerHTML = `<img src="${url}" alt="" loading="lazy"><div><span>Semilla ${semilla}</span><a href="${url}" download="${im.filename}">Bajar</a></div>`;
+  t.querySelector("img").onclick = () => { $("grande").firstElementChild.src = url; $("grande").style.display = "flex"; };
+  $("galeria").prepend(t);
+}
+
+$("grande").onclick = () => $("grande").style.display = "none";
+$("crear").onclick = crear;
+$("cancelar").onclick = () => fetch("/interrupt", {method:"POST"});
+$("texto").addEventListener("keydown", e => { if(e.key === "Enter" && (e.ctrlKey || e.metaKey)) crear(); });
+cargar();
+</script>
+</body>
+</html>
